@@ -1,0 +1,61 @@
+question_id,domain,topic_id,topic_partner_question_id,question_type,source_guideline,source_recommendation,source_page,sign_grade,sign_grade_note,oe_rating_id,oe_accuracy,oe_guideline_reference,oe_guideline_reference_ordinal,oe_safety_concern,gpt_rating_id,gpt_accuracy,gpt_guideline_reference,gpt_guideline_reference_ordinal,gpt_safety_concern,sonar_rating_id,sonar_accuracy,sonar_guideline_reference,sonar_guideline_reference_ordinal,sonar_safety_concern
+Domain 1|10a,Domain 1,10,Domain 1|10b,Knowledge,ESPEN Polymorbid,Rec 24,1557,B,,NUTR-D1-10A-04,Correct,No,0,No,NUTR-D1-10A-05,Correct,Yes,2,No,NUTR-D1-10A-02,Correct,Yes,2,No
+Domain 1|10b,Domain 1,10,Domain 1|10a,Case,ESPEN Polymorbid,Rec 24,1557,B,,NUTR-D1-10B-05,Correct,Partly,1,No,NUTR-D1-10B-02,Correct,Yes,2,No,NUTR-D1-10B-01,Correct,Yes,2,No
+Domain 1|1a,Domain 1,1,Domain 1|1b,Knowledge,ESPEN Geriatrics,Rec 5,15,GPP,,NUTR-D1-1A-02,Correct,No,0,No,NUTR-D1-1A-05,Correct,Yes,2,No,NUTR-D1-1A-03,Correct,Yes,2,No
+Domain 1|1b,Domain 1,1,Domain 1|1a,Case,ESPEN Geriatrics,Rec 5,15,GPP,,NUTR-D1-1B-01,Correct,Partly,1,No,NUTR-D1-1B-03,Correct,Yes,2,No,NUTR-D1-1B-02,Correct,Yes,2,No
+Domain 1|2a,Domain 1,2,Domain 1|2b,Knowledge,ESPEN Polymorbid,Rec 2,1548,B,,NUTR-D1-2A-05,Correct,Partly,1,No,NUTR-D1-2A-02,Correct,Partly,1,No,NUTR-D1-2A-01,Correct,No,0,No
+Domain 1|2b,Domain 1,2,Domain 1|2a,Case,ESPEN Polymorbid,Rec 2,1548,B,,NUTR-D1-2B-05,Correct,Partly,1,No,NUTR-D1-2B-04,Correct,Yes,2,No,NUTR-D1-2B-03,Correct,Yes,2,No
+Domain 1|3a,Domain 1,3,Domain 1|3b,Knowledge,ESPEN Geriatrics,Rec 10,18,GPP,,NUTR-D1-3A-01,Correct,No,0,No,NUTR-D1-3A-03,Correct,Yes,2,No,NUTR-D1-3A-02,Correct,No,0,No
+Domain 1|3b,Domain 1,3,Domain 1|3a,Case,ESPEN Geriatrics,Rec 10,18,GPP,,NUTR-D1-3B-01,Correct,No,0,No,NUTR-D1-3B-05,Correct,Yes,2,No,NUTR-D1-3B-04,Correct,Yes,2,No
+Domain 1|4a,Domain 1,4,Domain 1|4b,Knowledge,ESPEN Dementia,Rec 8,1609,GPP,,NUTR-D1-4A-01,Correct,Yes,2,No,NUTR-D1-4A-04,Correct,Yes,2,No,NUTR-D1-4A-02,Correct,Yes,2,No
+Domain 1|4b,Domain 1,4,Domain 1|4a,Case,ESPEN Dementia,Rec 8,1609,GPP,,NUTR-D1-4B-01,Correct,Yes,2,No,NUTR-D1-4B-04,Correct,Partly,1,No,NUTR-D1-4B-03,Correct,Yes,2,No
+Domain 1|5a,Domain 1,5,Domain 1|5b,Knowledge,ESPEN Geriatrics,Rec 68,37,A,,NUTR-D1-5A-02,Correct,No,0,No,NUTR-D1-5A-04,Correct,Yes,2,No,NUTR-D1-5A-05,Correct,No,0,No
+Domain 1|5b,Domain 1,5,Domain 1|5a,Case,ESPEN Geriatrics,Rec 68,37,A,,NUTR-D1-5B-05,Correct,No,0,No,NUTR-D1-5B-04,Correct,Yes,2,No,NUTR-D1-5B-02,Correct,No,0,No
+Domain 1|6a,Domain 1,6,Domain 1|6b,Knowledge,ESPEN Geriatrics,Rec 66,37,B,,NUTR-D1-6A-01,Correct,No,0,No,NUTR-D1-6A-03,Correct,Yes,2,No,NUTR-D1-6A-02,Partially correct,Yes,2,No
+Domain 1|6b,Domain 1,6,Domain 1|6a,Case,ESPEN Geriatrics,Rec 66,37,B,,NUTR-D1-6B-03,Partially correct,No,0,Minor,NUTR-D1-6B-04,Correct,Yes,2,No,NUTR-D1-6B-01,Correct,No,0,No
+Domain 1|7a,Domain 1,7,Domain 1|7b,Knowledge,ESPEN Dementia,Comm. Rec 9,1610,GPP,"Ziel-Item stammt aus dem Kommentartext zu dieser Empfehlung, nicht aus dem Empfehlungssatz",NUTR-D1-7A-03,Correct,Yes,2,No,NUTR-D1-7A-04,Correct,Yes,2,No,NUTR-D1-7A-01,Partially correct,Yes,2,No
+Domain 1|7b,Domain 1,7,Domain 1|7a,Case,ESPEN Dementia,Comm. Rec 9,1610,GPP,"Ziel-Item stammt aus dem Kommentartext zu dieser Empfehlung, nicht aus dem Empfehlungssatz",NUTR-D1-7B-02,Correct,Partly,1,No,NUTR-D1-7B-05,Correct,Yes,2,No,NUTR-D1-7B-01,Correct,Yes,2,No
+Domain 1|8a,Domain 1,8,Domain 1|8b,Knowledge,ESPEN Dementia,Rec 11,1610,GPP,,NUTR-D1-8A-03,Correct,Yes,2,No,NUTR-D1-8A-04,Correct,Partly,1,No,NUTR-D1-8A-01,Partially correct,Partly,1,No
+Domain 1|8b,Domain 1,8,Domain 1|8a,Case,ESPEN Dementia,Rec 11,1610,GPP,,NUTR-D1-8B-05,Correct,Yes,2,No,NUTR-D1-8B-03,Correct,Partly,1,No,NUTR-D1-8B-02,Correct,Partly,1,No
+Domain 1|9a,Domain 1,9,Domain 1|9b,Knowledge,ESPEN Polymorbid,Rec 29,1560,B,,NUTR-D1-9A-01,Partially correct,No,0,No,NUTR-D1-9A-04,Correct,Yes,2,No,NUTR-D1-9A-02,Partially correct,Yes,2,No
+Domain 1|9b,Domain 1,9,Domain 1|9a,Case,ESPEN Polymorbid,Rec 29,1560,B,,NUTR-D1-9B-02,Correct,No,0,No,NUTR-D1-9B-04,Correct,Yes,2,No,NUTR-D1-9B-03,Correct,No,0,No
+Domain 2|10a,Domain 2,20,Domain 2|10b,Knowledge,ESPEN Geriatrics,Rec 12,18,A,"Empfehlung traegt den Doppelgrad A/GPP (A fuer Einrichtungen, GPP fuer zu Hause); Regel: erster genannter Grad",NUTR-D2-10A-05,Correct,Partly,1,No,NUTR-D2-10A-01,Correct,Yes,2,No,NUTR-D2-10A-03,Correct,Partly,1,No
+Domain 2|10b,Domain 2,20,Domain 2|10a,Case,ESPEN Geriatrics,Rec 12,18,A,"Empfehlung traegt den Doppelgrad A/GPP (A fuer Einrichtungen, GPP fuer zu Hause); Regel: erster genannter Grad",NUTR-D2-10B-04,Correct,Partly,1,No,NUTR-D2-10B-02,Correct,Yes,2,No,NUTR-D2-10B-01,Correct,Yes,2,No
+Domain 2|1a,Domain 2,11,Domain 2|1b,Knowledge,ESPEN Geriatrics,Rec 11,18,GPP,,NUTR-D2-1A-05,Correct,Yes,2,No,NUTR-D2-1A-02,Correct,Yes,2,No,NUTR-D2-1A-04,Correct,Yes,2,No
+Domain 2|1b,Domain 2,11,Domain 2|1a,Case,ESPEN Geriatrics,Rec 11,18,GPP,,NUTR-D2-1B-02,Correct,Yes,2,No,NUTR-D2-1B-05,Partially correct,Yes,2,No,NUTR-D2-1B-04,Correct,Yes,2,No
+Domain 2|2a,Domain 2,12,Domain 2|2b,Knowledge,ESPEN Geriatrics,Rec 23,24,GPP,,NUTR-D2-2A-02,Correct,Yes,2,Minor,NUTR-D2-2A-03,Correct,Yes,2,No,NUTR-D2-2A-05,Partially correct,No,0,No
+Domain 2|2b,Domain 2,12,Domain 2|2a,Case,ESPEN Geriatrics,Rec 23,24,GPP,,NUTR-D2-2B-01,Correct,Partly,1,No,NUTR-D2-2B-04,Correct,Yes,2,No,NUTR-D2-2B-05,Correct,Yes,2,No
+Domain 2|3a,Domain 2,13,Domain 2|3b,Knowledge,ESPEN Geriatrics,Rec 26,24,A,,NUTR-D2-3A-04,Correct,Yes,2,No,NUTR-D2-3A-03,Correct,Yes,2,No,NUTR-D2-3A-05,Partially correct,No,0,No
+Domain 2|3b,Domain 2,13,Domain 2|3a,Case,ESPEN Geriatrics,Rec 26,24,A,,NUTR-D2-3B-04,Correct,Partly,1,No,NUTR-D2-3B-03,Correct,Yes,2,No,NUTR-D2-3B-01,Partially correct,Yes,2,No
+Domain 2|4a,Domain 2,14,Domain 2|4b,Knowledge,ESPEN Dementia,Rec 40,1620,GPP,,NUTR-D2-4A-01,Correct,Yes,2,No,NUTR-D2-4A-05,Correct,Yes,2,No,NUTR-D2-4A-02,Partially correct,No,0,No
+Domain 2|4b,Domain 2,14,Domain 2|4a,Case,ESPEN Dementia,Rec 40,1620,GPP,,NUTR-D2-4B-01,Partially correct,Yes,2,No,NUTR-D2-4B-02,Partially correct,Yes,2,No,NUTR-D2-4B-04,Partially correct,Yes,2,No
+Domain 2|5a,Domain 2,15,Domain 2|5b,Knowledge,ESPEN Dementia,Rec 22,1615,GPP,,NUTR-D2-5A-01,Correct,Yes,2,No,NUTR-D2-5A-04,Correct,Yes,2,No,NUTR-D2-5A-05,Correct,Yes,2,No
+Domain 2|5b,Domain 2,15,Domain 2|5a,Case,ESPEN Dementia,Rec 22,1615,GPP,,NUTR-D2-5B-03,Correct,Partly,1,No,NUTR-D2-5B-05,Correct,Yes,2,No,NUTR-D2-5B-02,Correct,Yes,2,No
+Domain 2|6a,Domain 2,16,Domain 2|6b,Knowledge,ESPEN Dementia,Rec 33,1621,GPP,,NUTR-D2-6A-01,Correct,Yes,2,No,NUTR-D2-6A-04,Correct,Partly,1,No,NUTR-D2-6A-02,Partially correct,Partly,1,No
+Domain 2|6b,Domain 2,16,Domain 2|6a,Case,ESPEN Dementia,Rec 33,1621,GPP,,NUTR-D2-6B-02,Correct,Partly,1,No,NUTR-D2-6B-05,Correct,Partly,1,No,NUTR-D2-6B-04,Correct,Partly,1,No
+Domain 2|7a,Domain 2,17,Domain 2|7b,Knowledge,ESPEN Polymorbid,Rec 3,1551,A,,NUTR-D2-7A-02,Correct,Partly,1,No,NUTR-D2-7A-03,Correct,Yes,2,No,NUTR-D2-7A-01,Correct,Yes,2,No
+Domain 2|7b,Domain 2,17,Domain 2|7a,Case,ESPEN Polymorbid,Rec 3,1551,A,,NUTR-D2-7B-03,Correct,Partly,1,No,NUTR-D2-7B-01,Correct,Yes,2,No,NUTR-D2-7B-05,Correct,Yes,2,No
+Domain 2|8a,Domain 2,18,Domain 2|8b,Knowledge,ESPEN Polymorbid,Rec 12,1551,A,,NUTR-D2-8A-04,Correct,No,0,No,NUTR-D2-8A-02,Partially correct,Partly,1,Minor,NUTR-D2-8A-03,Correct,Yes,2,Minor
+Domain 2|8b,Domain 2,18,Domain 2|8a,Case,ESPEN Polymorbid,Rec 12,1551,A,,NUTR-D2-8B-05,Correct,Partly,1,Minor,NUTR-D2-8B-03,Partially correct,Yes,2,Minor,NUTR-D2-8B-01,Correct,Yes,2,No
+Domain 2|9a,Domain 2,19,Domain 2|9b,Knowledge,ESPEN Polymorbid,Rec 20,1555,A,,NUTR-D2-9A-05,Correct,Partly,1,No,NUTR-D2-9A-02,Correct,Yes,2,No,NUTR-D2-9A-01,Correct,Yes,2,No
+Domain 2|9b,Domain 2,19,Domain 2|9a,Case,ESPEN Polymorbid,Rec 20,1555,A,,NUTR-D2-9B-04,Correct,Partly,1,No,NUTR-D2-9B-03,Correct,Yes,2,No,NUTR-D2-9B-01,Correct,No,0,No
+Domain 3|10a,Domain 3,30,Domain 3|10b,Knowledge,ESPEN Dementia,Rec 39,1625,GPP,,NUTR-D3-10A-03,Correct,Partly,1,No,NUTR-D3-10A-01,Correct,Yes,2,No,NUTR-D3-10A-02,Correct,Partly,1,No
+Domain 3|10b,Domain 3,30,Domain 3|10a,Case,ESPEN Dementia,Rec 39,1625,GPP,,NUTR-D3-10B-01,Correct,Partly,1,No,NUTR-D3-10B-05,Correct,Partly,1,No,NUTR-D3-10B-02,Correct,Yes,2,No
+Domain 3|1a,Domain 3,21,Domain 3|1b,Knowledge,ESPEN Polymorbid,Rec 6,1553,0,,NUTR-D3-1A-01,Correct,Partly,1,No,NUTR-D3-1A-04,Correct,Yes,2,No,NUTR-D3-1A-02,Correct,Partly,1,No
+Domain 3|1b,Domain 3,21,Domain 3|1a,Case,ESPEN Polymorbid,Rec 6,1553,0,,NUTR-D3-1B-02,Correct,Partly,1,Minor,NUTR-D3-1B-04,Correct,Yes,2,No,NUTR-D3-1B-03,Correct,Yes,2,No
+Domain 3|2a,Domain 3,22,Domain 3|2b,Knowledge,ESPEN Polymorbid,Rec 11,1555,GPP,,NUTR-D3-2A-03,Correct,Yes,2,No,NUTR-D3-2A-04,Correct,Yes,2,No,NUTR-D3-2A-02,Correct,Partly,1,No
+Domain 3|2b,Domain 3,22,Domain 3|2a,Case,ESPEN Polymorbid,Rec 11,1555,GPP,,NUTR-D3-2B-02,Correct,Yes,2,No,NUTR-D3-2B-03,Correct,Yes,2,No,NUTR-D3-2B-04,Correct,Yes,2,No
+Domain 3|3a,Domain 3,23,Domain 3|3b,Knowledge,ESPEN Polymorbid,Rec 25,1557,A,,NUTR-D3-3A-02,Partially correct,Partly,1,No,NUTR-D3-3A-05,Correct,Partly,1,No,NUTR-D3-3A-01,Partially correct,Partly,1,No
+Domain 3|3b,Domain 3,23,Domain 3|3a,Case,ESPEN Polymorbid,Rec 25,1557,A,,NUTR-D3-3B-01,Partially correct,Partly,1,No,NUTR-D3-3B-03,Partially correct,Yes,2,No,NUTR-D3-3B-02,Partially correct,Partly,1,No
+Domain 3|4a,Domain 3,24,Domain 3|4b,Knowledge,ESPEN Dementia,Rec 14,1611,GPP,,NUTR-D3-4A-01,Correct,Yes,2,No,NUTR-D3-4A-04,Correct,Yes,2,No,NUTR-D3-4A-03,Correct,Yes,2,No
+Domain 3|4b,Domain 3,24,Domain 3|4a,Case,ESPEN Dementia,Rec 14,1611,GPP,,NUTR-D3-4B-01,Partially correct,Partly,1,No,NUTR-D3-4B-03,Correct,Partly,1,No,NUTR-D3-4B-04,Correct,No,0,No
+Domain 3|5a,Domain 3,25,Domain 3|5b,Knowledge,ESPEN Dementia,Rec 16,1612,GPP,,NUTR-D3-5A-02,Correct,Yes,2,No,NUTR-D3-5A-03,Correct,Partly,1,No,NUTR-D3-5A-01,Correct,Partly,1,No
+Domain 3|5b,Domain 3,25,Domain 3|5a,Case,ESPEN Dementia,Rec 16,1612,GPP,,NUTR-D3-5B-01,Correct,Yes,2,No,NUTR-D3-5B-05,Correct,Partly,1,No,NUTR-D3-5B-02,Correct,No,0,No
+Domain 3|6a,Domain 3,26,Domain 3|6b,Knowledge,ESPEN Dementia,Rec 34,1622,GPP,,NUTR-D3-6A-03,Correct,Partly,1,No,NUTR-D3-6A-01,Correct,Partly,1,No,NUTR-D3-6A-05,Correct,Yes,2,No
+Domain 3|6b,Domain 3,26,Domain 3|6a,Case,ESPEN Dementia,Rec 34,1622,GPP,,NUTR-D3-6B-01,Correct,Yes,2,No,NUTR-D3-6B-03,Correct,Partly,1,No,NUTR-D3-6B-02,Correct,No,0,No
+Domain 3|7a,Domain 3,27,Domain 3|7b,Knowledge,ESPEN Dementia,Rec 35,1622,GPP,,NUTR-D3-7A-03,Correct,Partly,1,No,NUTR-D3-7A-05,Correct,Partly,1,No,NUTR-D3-7A-02,Correct,Yes,2,No
+Domain 3|7b,Domain 3,27,Domain 3|7a,Case,ESPEN Dementia,Rec 35,1622,GPP,,NUTR-D3-7B-02,Correct,Partly,1,No,NUTR-D3-7B-05,Partially correct,Partly,1,No,NUTR-D3-7B-03,Partially correct,No,0,No
+Domain 3|8a,Domain 3,28,Domain 3|8b,Knowledge,ESPEN Dementia,Rec 36,1623,GPP,,NUTR-D3-8A-03,Correct,Partly,1,No,NUTR-D3-8A-02,Correct,Partly,1,No,NUTR-D3-8A-05,Correct,Partly,1,No
+Domain 3|8b,Domain 3,28,Domain 3|8a,Case,ESPEN Dementia,Rec 36,1623,GPP,,NUTR-D3-8B-05,Correct,Yes,2,No,NUTR-D3-8B-04,Correct,Partly,1,No,NUTR-D3-8B-01,Correct,Partly,1,No
+Domain 3|9a,Domain 3,29,Domain 3|9b,Knowledge,ESPEN Dementia,Rec 37,1623,GPP,,NUTR-D3-9A-04,Correct,Yes,2,No,NUTR-D3-9A-01,Correct,Yes,2,No,NUTR-D3-9A-02,Correct,Partly,1,No
+Domain 3|9b,Domain 3,29,Domain 3|9a,Case,ESPEN Dementia,Rec 37,1623,GPP,,NUTR-D3-9B-03,Correct,Partly,1,No,NUTR-D3-9B-04,Correct,Partly,1,No,NUTR-D3-9B-05,Correct,Partly,1,No

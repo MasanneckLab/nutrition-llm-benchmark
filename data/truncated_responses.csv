@@ -1,0 +1,23 @@
+rating_id,model,domain,question_id,question_type,item_guideline,chars,truncated_in,safety_note_present,last_60_chars
+NUTR-D1-10A-02,Sonar Reasoning Pro,Domain 1,10a,Knowledge,ESPEN Polymorbid,2872,2 Evidence and reasoning,no,eviews)[2][5][8][11][14].   - A systematic review of patient
+NUTR-D1-1B-02,Sonar Reasoning Pro,Domain 1,1b,Case,ESPEN Geriatrics,1702,2 Evidence and reasoning,no,: Guideline/Consensus)*    - **Malnutrition can coexist with
+NUTR-D1-2A-01,Sonar Reasoning Pro,Domain 1,2a,Knowledge,ESPEN Polymorbid,2306,2 Evidence and reasoning,no,"nt*, not to serve as diagnostic tools or treatment protocols"
+NUTR-D1-2B-03,Sonar Reasoning Pro,Domain 1,2b,Case,ESPEN Polymorbid,2759,2 Evidence and reasoning,no,"][4][7]     Key reference (Guideline): [ESPEN guideline, 201"
+NUTR-D1-3A-02,Sonar Reasoning Pro,Domain 1,3a,Knowledge,ESPEN Geriatrics,3048,2 Evidence and reasoning,no,"kawy, 2021, Dehydration in older people: a systematic review"
+NUTR-D1-4B-03,Sonar Reasoning Pro,Domain 1,4b,Case,ESPEN Dementia,2740,2 Evidence and reasoning,no, guideline on clinical nutrition and hydration in geriatrics
+NUTR-D1-5B-02,Sonar Reasoning Pro,Domain 1,5b,Case,ESPEN Geriatrics,3896,3 Safety note,yes,luid therapy must be titrated carefully in this age group to
+NUTR-D1-6A-02,Sonar Reasoning Pro,Domain 1,6a,Knowledge,ESPEN Geriatrics,638,(no section recognisable),no,"and intake assessment, especially in frail older adults.[1]["
+NUTR-D2-1A-04,Sonar Reasoning Pro,Domain 2,1a,Knowledge,ESPEN Geriatrics 2019,1072,1 Direct answer,no,    - **If a restriction is clearly essential (e.g. advanced
+NUTR-D2-4A-02,Sonar Reasoning Pro,Domain 2,4a,Knowledge,ESPEN Dementia 2024,456,1 Direct answer,no,"e plan that includes dietitian, nurse, physician, speech and"
+NUTR-D2-6A-02,Sonar Reasoning Pro,Domain 2,6a,Knowledge,ESPEN Dementia 2024,3725,2 Evidence and reasoning,no," Am Fam Physician[3]; National Institute on Aging, 2023 diet"
+NUTR-D2-6B-04,Sonar Reasoning Pro,Domain 2,6b,Case,ESPEN Dementia 2024,1150,1 Direct answer,no,"easant social contact, short bouts of safe physical activity"
+NUTR-D2-8A-03,Sonar Reasoning Pro,Domain 2,8a,Knowledge,ESPEN Polymorbid 2023,1393,2 Evidence and reasoning,no,h were associated with reduced adverse outcomes versus usual
+NUTR-D3-10A-02,Sonar Reasoning Pro,Domain 3,10a,Knowledge,ESPEN Dementia 2024,2746,2 Evidence and reasoning,no,"es rather than ongoing management, consistent with using par"
+NUTR-D3-1B-03,Sonar Reasoning Pro,Domain 3,1b,Case,ESPEN Polymorbid 2023,3186,2 Evidence and reasoning,no,guideline on clinical nutrition and hydration in geriatrics/
+NUTR-D3-2A-02,Sonar Reasoning Pro,Domain 3,2a,Knowledge,ESPEN Polymorbid 2023,497,1 Direct answer,no,guidelines advise starting nutrition below full requirements
+NUTR-D3-2B-04,Sonar Reasoning Pro,Domain 3,2b,Case,ESPEN Polymorbid 2023,2015,2 Evidence and reasoning,no,ronically undernourished adults increases risk of hypophosph
+NUTR-D3-3B-02,Sonar Reasoning Pro,Domain 3,3b,Case,ESPEN Polymorbid 2023,4871,3 Safety note,yes,I: insufficient evidence]    ---  ## Safety note  Persistent
+NUTR-D3-5A-01,Sonar Reasoning Pro,Domain 3,5a,Knowledge,ESPEN Dementia 2024,1727,2 Evidence and reasoning,no,"dementia care stress that all support (including daily care,"
+NUTR-D3-5B-02,Sonar Reasoning Pro,Domain 3,5b,Case,ESPEN Dementia 2024,2383,2 Evidence and reasoning,no,"cognize hunger, initiate eating, or sequence the motor steps"
+NUTR-D3-6A-05,Sonar Reasoning Pro,Domain 3,6a,Knowledge,ESPEN Dementia 2024,2896,2 Evidence and reasoning,no,"riate in severe dementia or the terminal phase**, where oral"
+NUTR-D3-8B-01,Sonar Reasoning Pro,Domain 3,8b,Case,ESPEN Dementia 2024,2168,2 Evidence and reasoning,no,"t of underlying disease, and first‑line optimization of oral"

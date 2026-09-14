@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+.matplotlib/
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+
+# API outputs and private rating material are deliberately not versioned.
+querying/Nutrition/model_outputs/
+querying/Nutrition/openai_batch_runs/
+querying/Nutrition/rating/

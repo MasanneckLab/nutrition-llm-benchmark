@@ -1,0 +1,38 @@
+{
+  "question_count": 60,
+  "prompt_path": "Nutrition/prompt.md",
+  "systems_in_final_analysis": [
+    {
+      "display_name": "Open Evidence",
+      "collection": "manual export",
+      "responses": 60
+    },
+    {
+      "display_name": "GPT-5.5",
+      "requested_model": "gpt-5.5",
+      "resolved_model": "gpt-5.5-2026-04-23",
+      "collection": "OpenAI Batch API",
+      "responses": 60,
+      "temperature": null,
+      "max_completion_tokens": 3000,
+      "completion_window": "24h"
+    },
+    {
+      "display_name": "Sonar Reasoning Pro",
+      "requested_model": "sonar-reasoning-pro",
+      "collection": "Perplexity chat completions API",
+      "responses": 60,
+      "temperature": 0.2,
+      "max_tokens": 3000,
+      "iterations": 1,
+      "search_domain_filter": null,
+      "initial_answers_retained": 47,
+      "replacement_answers": 13,
+      "replacement_parameters_path": "replacement_queries.json"
+    }
+  ],
+  "additional_perplexity_models_collected": [
+    "sonar",
+    "sonar-pro"
+  ]
+}

@@ -1,0 +1,1463 @@
+citation_id,rating_id,model,url,category_old,category_new,reason,verification,commercial
+CIT2-0001,NUTR-D1-1A-02,Open Evidence,,C,C,,,0
+CIT2-0002,NUTR-D1-1A-02,Open Evidence,,C,C,,,0
+CIT2-0003,NUTR-D1-1A-02,Open Evidence,,D,D,,,0
+CIT2-0004,NUTR-D1-1A-02,Open Evidence,,B,B,,,0
+CIT2-0005,NUTR-D1-1A-02,Open Evidence,,D,D,,,0
+CIT2-0006,NUTR-D1-1A-02,Open Evidence,,D,D,,,0
+CIT2-0007,NUTR-D1-1A-02,Open Evidence,,D,D,,,0
+CIT2-0008,NUTR-D1-1A-03,Sonar Reasoning Pro,https://www.andeal.org/vault/pqnew187.pdf,B,B,,,0
+CIT2-0009,NUTR-D1-1A-03,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC12926621/,D,D,,,0
+CIT2-0010,NUTR-D1-1A-03,Sonar Reasoning Pro,https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/obesity-in-adults-screening-and-management-2012,B,B,,,0
+CIT2-0011,NUTR-D1-1A-03,Sonar Reasoning Pro,https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/648048,D,D,,,0
+CIT2-0012,NUTR-D1-1A-03,Sonar Reasoning Pro,https://www.eatrightpro.org/news-center/practice-trends/what-resources-are-available-to-assist-in-assessing-body-weight-in-older-adults,B,B,,,0
+CIT2-0013,NUTR-D1-1A-03,Sonar Reasoning Pro,https://ilaging.illinois.gov/content/dam/soi/en/web/aging/programs/nutrition/documents/idoa-malnutrition-screening-guidance-2021.pdf,F,F,,,0
+CIT2-0015,NUTR-D1-1A-03,Sonar Reasoning Pro,https://www.albertahealthservices.ca/assets/info/nutrition/if-nfs-ng-seniors-health-overview.pdf,F,F,,,0
+CIT2-0016,NUTR-D1-1A-03,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S2667268524000354,D,D,,,0
+CIT2-0017,NUTR-D1-1A-03,Sonar Reasoning Pro,,A,A,,,0
+CIT2-0018,NUTR-D1-1A-03,Sonar Reasoning Pro,,B,B,,,0
+CIT2-0019,NUTR-D1-1A-05,GPT-5.5,,A,A,,,0
+CIT2-0020,NUTR-D1-1A-05,GPT-5.5,,B,B,,,0
+CIT2-0021,NUTR-D1-1A-05,GPT-5.5,,B,B,,,0
+CIT2-0022,NUTR-D1-1B-01,Open Evidence,,C,C,,,0
+CIT2-0023,NUTR-D1-1B-01,Open Evidence,,C,C,,,0
+CIT2-0024,NUTR-D1-1B-01,Open Evidence,,C,C,,,0
+CIT2-0025,NUTR-D1-1B-01,Open Evidence,,D,D,,,0
+CIT2-0026,NUTR-D1-1B-01,Open Evidence,,D,D,,,0
+CIT2-0027,NUTR-D1-1B-01,Open Evidence,,D,D,,,0
+CIT2-0028,NUTR-D1-1B-01,Open Evidence,,B,B,,,0
+CIT2-0029,NUTR-D1-1B-01,Open Evidence,,B,B,,,0
+CIT2-0030,NUTR-D1-1B-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC12280429/,D,D,,,0
+CIT2-0031,NUTR-D1-1B-02,Sonar Reasoning Pro,https://www.consultant360.com/articles/nutritional-assessment-geriatric-patient-comprehensive-approach-toward-evaluating-and,F,F,,,0
+CIT2-0032,NUTR-D1-1B-02,Sonar Reasoning Pro,https://www.mna-elderly.com/sites/default/files/2021-10/mna-guide-english.pdf,F,F,,,0
+CIT2-0033,NUTR-D1-1B-02,Sonar Reasoning Pro,https://hign.org/consultgeri/try-this-series/assessing-nutrition-older-adults,F,F,,,0
+CIT2-0034,NUTR-D1-1B-02,Sonar Reasoning Pro,https://www.binasss.sa.cr/ger/11.pdf,?,D,"library scan, journal not identifiable [reclassified: scientific publication, irrespective of PubMed indexing]",Page content,0
+CIT2-0035,NUTR-D1-1B-02,Sonar Reasoning Pro,https://www.isdi.org/screening-for-adult-malnutrition/,B,B,,,0
+CIT2-0036,NUTR-D1-1B-02,Sonar Reasoning Pro,https://olderadultnutritionscreening.wordpress.com,F,F,,,0
+CIT2-0037,NUTR-D1-1B-02,Sonar Reasoning Pro,https://www.espen.org/files/ESPEN-Guidelines/ESPEN_guideline_on_clincal_nutrition_and_hydration_in_geriatrics.pdf,A,A,,,0
+CIT2-0038,NUTR-D1-1B-02,Sonar Reasoning Pro,https://pubmed.ncbi.nlm.nih.gov/12608501/,D,D,,,0
+CIT2-0039,NUTR-D1-1B-02,Sonar Reasoning Pro,https://www.eatrightpro.org/news-center/practice-trends/what-resources-are-available-to-assist-in-assessing-body-weight-in-older-adults,B,B,,,0
+CIT2-0040,NUTR-D1-1B-02,Sonar Reasoning Pro,https://www.ncbi.nlm.nih.gov/books/NBK532533/,D,D,,,0
+CIT2-0041,NUTR-D1-1B-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC7616526/,D,D,,,0
+CIT2-0042,NUTR-D1-1B-02,Sonar Reasoning Pro,https://ilaging.illinois.gov/content/dam/soi/en/web/aging/programs/nutrition/documents/idoa-malnutrition-screening-guidance-2021.pdf,F,F,,,0
+CIT2-0043,NUTR-D1-1B-02,Sonar Reasoning Pro,https://www.albertahealthservices.ca/assets/info/nutrition/if-nfs-ng-seniors-health-overview.pdf,F,F,,,0
+CIT2-0044,NUTR-D1-1B-02,Sonar Reasoning Pro,https://cardiology.medicine.ufl.edu/2020/08/13/malnutrition-in-the-obese-commonly-overlooked-but-with-serious-consequences/,D,D,,,0
+CIT2-0045,NUTR-D1-1B-03,GPT-5.5,,A,A,,,0
+CIT2-0046,NUTR-D1-1B-03,GPT-5.5,,B,B,,,0
+CIT2-0047,NUTR-D1-1B-03,GPT-5.5,,B,B,,,0
+CIT2-0048,NUTR-D1-2A-01,Sonar Reasoning Pro,https://ilaging.illinois.gov/content/dam/soi/en/web/aging/programs/nutrition/documents/idoa-malnutrition-screening-guidance-2021.pdf,F,F,,,0
+CIT2-0049,NUTR-D1-2A-01,Sonar Reasoning Pro,https://www.health.state.mn.us/docs/people/wic/localagency/program/mom/chsctns/ch5/sctn5_3all.pdf,?,F,WIC manual of a state agency,Page content,0
+CIT2-0050,NUTR-D1-2A-01,Sonar Reasoning Pro,https://www.bapen.org.uk/pdfs/must/must_full.pdf,B,B,,,0
+CIT2-0051,NUTR-D1-2A-01,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC6679209/,D,D,,,0
+CIT2-0052,NUTR-D1-2A-01,Sonar Reasoning Pro,https://malnutritionquality.org/wp-content/uploads/Toolkit_Screening.pdf,B,B,,,0
+CIT2-0053,NUTR-D1-2A-01,Sonar Reasoning Pro,https://nutritionalassessment.org,?,F,home page without a document,Page content,0
+CIT2-0054,NUTR-D1-2A-01,Sonar Reasoning Pro,https://www.mna-elderly.com/sites/default/files/2021-10/mna-guide-english.pdf,F,F,,,0
+CIT2-0055,NUTR-D1-2A-01,Sonar Reasoning Pro,https://nutritioncare.org/wp-content/uploads/2024/12/Nutrition-Screen-Assess-Diagnose-Children.pdf,F,F,,,0
+CIT2-0056,NUTR-D1-2A-01,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC9228435/,D,D,,,0
+CIT2-0057,NUTR-D1-2A-01,Sonar Reasoning Pro,https://www.youtube.com/watch?v=pKlAEZHOVvc,F,F,,,0
+CIT2-0058,NUTR-D1-2A-01,Sonar Reasoning Pro,https://www.anfponline.org/docs/default-source/legacy-docs/docs/ce-articles/nc122023.pdf,B,B,,,0
+CIT2-0059,NUTR-D1-2A-01,Sonar Reasoning Pro,https://www.sciencedirect.com/topics/medicine-and-dentistry/nutrition-screening,D,D,,,0
+CIT2-0060,NUTR-D1-2A-01,Sonar Reasoning Pro,https://www.andeal.org/topic.cfm?menu=5382,B,B,,,0
+CIT2-0061,NUTR-D1-2A-02,GPT-5.5,,B,B,,,0
+CIT2-0062,NUTR-D1-2A-02,GPT-5.5,,B,B,,,0
+CIT2-0063,NUTR-D1-2A-02,GPT-5.5,,D,D,,,0
+CIT2-0064,NUTR-D1-2A-05,Open Evidence,,C,C,,,0
+CIT2-0065,NUTR-D1-2A-05,Open Evidence,,D,D,,,0
+CIT2-0066,NUTR-D1-2A-05,Open Evidence,,C,C,,,0
+CIT2-0067,NUTR-D1-2A-05,Open Evidence,,D,D,,,0
+CIT2-0068,NUTR-D1-2A-05,Open Evidence,,C,C,,,0
+CIT2-0069,NUTR-D1-2B-03,Sonar Reasoning Pro,https://www.nespen.nl/wp-content/uploads/2022/04/2018_Nutritional-support-for-polymorbid-internal-medicine-patients.pdf,A,A,,,0
+CIT2-0070,NUTR-D1-2B-03,Sonar Reasoning Pro,https://practicalgastro.com/2019/08/02/a-clinicians-guide-to-defining-identifying-and-documenting-malnutrition-in-hospitalized-patients/,?,F,journal without indexing,Page content,0
+CIT2-0071,NUTR-D1-2B-03,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC12888403/,D,D,,,0
+CIT2-0072,NUTR-D1-2B-03,Sonar Reasoning Pro,https://www.espen.org/files/ESPEN-Guidelines/PIIS0261561417302364.pdf,B,B,,,0
+CIT2-0073,NUTR-D1-2B-03,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC7343301/,D,D,,,0
+CIT2-0074,NUTR-D1-2B-03,Sonar Reasoning Pro,https://pubmed.ncbi.nlm.nih.gov/41640076/,D,D,,,0
+CIT2-0075,NUTR-D1-2B-03,Sonar Reasoning Pro,https://www.espen.org/files/ESPEN-Guidelines/ESPEN_guideline_on_nutritional_support_for_polymorbid_medical_in_patients.pdf,A,A,,,0
+CIT2-0076,NUTR-D1-2B-03,Sonar Reasoning Pro,https://med.virginia.edu/ginutrition/wp-content/uploads/sites/199/2014/06/Documenting-Malnutrition-November-17.pdf,D,D,,,0
+CIT2-0077,NUTR-D1-2B-03,Sonar Reasoning Pro,https://bpac.org.nz/bpj/2011/may/elderly.aspx,B,B,,,0
+CIT2-0078,NUTR-D1-2B-03,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC8880030/,D,D,,,0
+CIT2-0079,NUTR-D1-2B-03,Sonar Reasoning Pro,https://uat.nutritioncare.org/text-based-resource/key-nutrition-screening-assessment-and-malnutrition-diagnostic-processes-and-tools-for-adults/,B,B,,,0
+CIT2-0080,NUTR-D1-2B-03,Sonar Reasoning Pro,https://www.health.vic.gov.au/older-people-in-hospital/nutrition-and-swallowing-in-older-people/nutrition-and-hydration,F,F,,,0
+CIT2-0081,NUTR-D1-2B-03,Sonar Reasoning Pro,https://www.andeal.org/topic.cfm?cat=5163&Reset=true,B,B,,,0
+CIT2-0082,NUTR-D1-2B-03,Sonar Reasoning Pro,https://www.nationwidechildrens.org/family-resources-education/700childrens/2024/09/malnutrition-diagnosis-and-treatment,?,F,hospital information page,Page content,0
+CIT2-0083,NUTR-D1-2B-03,Sonar Reasoning Pro,https://www.albertahealthservices.ca/assets/info/nutrition/if-nfs-ng-seniors-health-overview.pdf,F,F,,,0
+CIT2-0084,NUTR-D1-2B-03,Sonar Reasoning Pro,,B,B,,,0
+CIT2-0085,NUTR-D1-2B-04,GPT-5.5,,B,B,,,0
+CIT2-0086,NUTR-D1-2B-04,GPT-5.5,,B,B,,,0
+CIT2-0087,NUTR-D1-2B-04,GPT-5.5,,A,A,,,0
+CIT2-0088,NUTR-D1-2B-04,GPT-5.5,,D,D,,,0
+CIT2-0089,NUTR-D1-2B-05,Open Evidence,,D,D,,,0
+CIT2-0090,NUTR-D1-2B-05,Open Evidence,,C,C,,,0
+CIT2-0091,NUTR-D1-2B-05,Open Evidence,,C,C,,,0
+CIT2-0092,NUTR-D1-2B-05,Open Evidence,,D,D,,,0
+CIT2-0093,NUTR-D1-2B-05,Open Evidence,,B,B,,,0
+CIT2-0094,NUTR-D1-3A-01,Open Evidence,,D,D,,,0
+CIT2-0095,NUTR-D1-3A-01,Open Evidence,,D,D,,,0
+CIT2-0096,NUTR-D1-3A-01,Open Evidence,,D,D,,,0
+CIT2-0097,NUTR-D1-3A-01,Open Evidence,,B,B,,,0
+CIT2-0098,NUTR-D1-3A-01,Open Evidence,,B,B,,,0
+CIT2-0099,NUTR-D1-3A-01,Open Evidence,,B,B,,,0
+CIT2-0100,NUTR-D1-3A-01,Open Evidence,,B,B,,,0
+CIT2-0101,NUTR-D1-3A-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC10255140/,D,D,,,0
+CIT2-0102,NUTR-D1-3A-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC10644957/,D,D,,,0
+CIT2-0103,NUTR-D1-3A-02,Sonar Reasoning Pro,https://www.youtube.com/watch?v=OCWvaUcSPOU,F,F,,,0
+CIT2-0104,NUTR-D1-3A-02,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0105,NUTR-D1-3A-02,Sonar Reasoning Pro,https://www.ncbi.nlm.nih.gov/books/NBK555956/,D,D,,,0
+CIT2-0106,NUTR-D1-3A-02,Sonar Reasoning Pro,https://nursingcecentral.com/symptoms-of-dehydration-in-elderly/,?,F,continuing education provider,Page content,1
+CIT2-0107,NUTR-D1-3A-02,Sonar Reasoning Pro,https://www.mcgill.ca/familymed/files/familymed/effective_hydration_in_elderly.pdf,?,F,"brochure of the manufacturer of Hydralyte, Woodward 2013",Page content,1
+CIT2-0108,NUTR-D1-3A-02,Sonar Reasoning Pro,https://www.crns.ca/wp-content/uploads/2022/06/Dehydration-Adult-CDT-2022.pdf,B,B,,,0
+CIT2-0109,NUTR-D1-3A-02,Sonar Reasoning Pro,https://www.health.vic.gov.au/sites/default/files/migrated/files/collections/factsheets/s/scp-dehydration-pdf.pdf,F,F,,,0
+CIT2-0110,NUTR-D1-3A-02,Sonar Reasoning Pro,https://www.japi.org/article/japi-71-12-47,D,D,,,0
+CIT2-0111,NUTR-D1-3A-02,Sonar Reasoning Pro,https://www.osmosis.org/learn/Geriatric_considerations_-_Dehydration:_Nursing,?,F,learning portal,Page content,0
+CIT2-0112,NUTR-D1-3A-02,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/abs/pii/S0167494321000431,D,D,,,0
+CIT2-0113,NUTR-D1-3A-02,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/abs/pii/S2405457717302826,D,D,,,0
+CIT2-0114,NUTR-D1-3A-02,Sonar Reasoning Pro,https://www.medscape.com/viewarticle/463744_4,F,F,,,0
+CIT2-0115,NUTR-D1-3A-02,Sonar Reasoning Pro,https://bmjopen.bmj.com/content/16/2/e095874,D,D,,,0
+CIT2-0116,NUTR-D1-3A-03,GPT-5.5,,A,A,,,0
+CIT2-0117,NUTR-D1-3A-03,GPT-5.5,,D,D,,,0
+CIT2-0118,NUTR-D1-3A-03,GPT-5.5,,D,D,,,0
+CIT2-0119,NUTR-D1-3B-01,Open Evidence,,D,D,,,0
+CIT2-0120,NUTR-D1-3B-01,Open Evidence,,D,D,,,0
+CIT2-0121,NUTR-D1-3B-01,Open Evidence,,D,D,,,0
+CIT2-0122,NUTR-D1-3B-01,Open Evidence,,D,D,,,0
+CIT2-0123,NUTR-D1-3B-01,Open Evidence,,B,B,,,0
+CIT2-0124,NUTR-D1-3B-01,Open Evidence,,D,D,,,0
+CIT2-0125,NUTR-D1-3B-01,Open Evidence,,D,D,,,0
+CIT2-0126,NUTR-D1-3B-01,Open Evidence,,D,D,,,0
+CIT2-0127,NUTR-D1-3B-01,Open Evidence,,D,D,,,0
+CIT2-0128,NUTR-D1-3B-01,Open Evidence,,D,D,,,0
+CIT2-0129,NUTR-D1-3B-04,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC10255140/,D,D,,,0
+CIT2-0130,NUTR-D1-3B-04,Sonar Reasoning Pro,https://link.springer.com/chapter/10.1007/978-3-030-63892-4_7,D,D,,,0
+CIT2-0131,NUTR-D1-3B-04,Sonar Reasoning Pro,https://www.espen.org/files/ESPEN-Guidelines/ESPEN_practical_guideline_Clinical_nutrition_and_hydration_in_geriatrics.pdf,A,A*,"ESPEN practical guideline, short version",Page content,0
+CIT2-0132,NUTR-D1-3B-04,Sonar Reasoning Pro,https://csomaycenter.uiowa.edu/sites/csomaycenter.uiowa.edu/files/2022-05/2019_Hydration%20Management%20(Guideline,D,D,,,0
+CIT2-0133,NUTR-D1-3B-04,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC8470893/,D,D,,,0
+CIT2-0134,NUTR-D1-3B-04,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC10644957/,D,D,,,0
+CIT2-0135,NUTR-D1-3B-04,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC7694182/,D,D,,,0
+CIT2-0136,NUTR-D1-3B-04,Sonar Reasoning Pro,https://www.hcpa.info/wp-content/uploads/2024/08/Identifying-low-intake-dehydration-in-older-people-new-1.pdf,F,F,,,0
+CIT2-0137,NUTR-D1-3B-04,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/abs/pii/S2405457723001730,D,D,,,0
+CIT2-0138,NUTR-D1-3B-04,Sonar Reasoning Pro,https://www.studocu.com/in/document/himachal-pradesh-university/m-sc-nursing/hydration-in-the-elderly/103334333,?,F,student notes exchange,Page content,0
+CIT2-0139,NUTR-D1-3B-04,Sonar Reasoning Pro,https://www.ncbi.nlm.nih.gov/books/NBK555956/,D,D,,,0
+CIT2-0140,NUTR-D1-3B-04,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC8233832/,D,D,,,0
+CIT2-0141,NUTR-D1-3B-04,Sonar Reasoning Pro,https://www.mcgill.ca/familymed/files/familymed/effective_hydration_in_elderly.pdf,?,F,"brochure of the manufacturer of Hydralyte, Woodward 2013",Page content,1
+CIT2-0142,NUTR-D1-3B-04,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0143,NUTR-D1-3B-04,Sonar Reasoning Pro,https://www.health.vic.gov.au/older-people-in-hospital/nutrition-and-swallowing-in-older-people/nutrition-and-hydration,F,F,,,0
+CIT2-0144,NUTR-D1-3B-04,Sonar Reasoning Pro,https://dietitiansondemand.com/chronic-dehydration-in-the-elderly-are-we-doing-enough/,F,F,,,0
+CIT2-0145,NUTR-D1-3B-04,Sonar Reasoning Pro,,A,A,,,0
+CIT2-0146,NUTR-D1-3B-04,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0147,NUTR-D1-3B-04,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0148,NUTR-D1-3B-04,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0149,NUTR-D1-3B-05,GPT-5.5,,D,D,,,0
+CIT2-0150,NUTR-D1-3B-05,GPT-5.5,,A,A,,,0
+CIT2-0151,NUTR-D1-3B-05,GPT-5.5,,A,A,,,0
+CIT2-0152,NUTR-D1-4A-01,Open Evidence,,B,B,,,0
+CIT2-0153,NUTR-D1-4A-01,Open Evidence,,C,C,,,0
+CIT2-0154,NUTR-D1-4A-01,Open Evidence,,D,D,,,0
+CIT2-0155,NUTR-D1-4A-01,Open Evidence,,D,D,,,0
+CIT2-0156,NUTR-D1-4A-01,Open Evidence,,D,D,,,0
+CIT2-0157,NUTR-D1-4A-01,Open Evidence,,C,C,,,0
+CIT2-0158,NUTR-D1-4A-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC10343750/,D,D,,,0
+CIT2-0159,NUTR-D1-4A-02,Sonar Reasoning Pro,https://www.caregiveraction.org/dehydration-in-dementia/,F,F,,,0
+CIT2-0160,NUTR-D1-4A-02,Sonar Reasoning Pro,https://ilaging.illinois.gov/content/dam/soi/en/web/aging/programs/nutrition/documents/idoa-malnutrition-screening-guidance-2021.pdf,F,F,,,0
+CIT2-0161,NUTR-D1-4A-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC5986442/,D,D,,,0
+CIT2-0162,NUTR-D1-4A-02,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S0261561424001468,D,D,,,0
+CIT2-0163,NUTR-D1-4A-02,Sonar Reasoning Pro,https://guidestareldercare.com/blog/dehydration-cognitive-functioning-adls,F,F,,,0
+CIT2-0164,NUTR-D1-4A-02,Sonar Reasoning Pro,https://www.bda.uk.com/resource/dementia-and-diet.html,A,F,"BDA Food Fact Sheet, patient information",Page content,0
+CIT2-0165,NUTR-D1-4A-02,Sonar Reasoning Pro,https://seniorservicesofamerica.com/dementia-and-dehydration/,F,F,,,0
+CIT2-0166,NUTR-D1-4A-02,Sonar Reasoning Pro,https://www.mna-elderly.com/sites/default/files/2021-10/mna-guide-english.pdf,F,F,,,0
+CIT2-0167,NUTR-D1-4A-02,Sonar Reasoning Pro,https://www.alzdiscovery.org/cognitive-vitality/blog/can-dehydration-impair-cognitive-function,F,F,,,0
+CIT2-0168,NUTR-D1-4A-02,Sonar Reasoning Pro,https://pubmed.ncbi.nlm.nih.gov/38772068/,D,D,,,0
+CIT2-0169,NUTR-D1-4A-02,Sonar Reasoning Pro,https://www.dementiauk.org/information-and-support/health-advice/hydration/,F,F,,,0
+CIT2-0170,NUTR-D1-4A-02,Sonar Reasoning Pro,https://www.espen.org/documents/ESPEN_GL_Dementia_ClinNutr2015.pdf,A,A,,,0
+CIT2-0171,NUTR-D1-4A-02,Sonar Reasoning Pro,https://www.bannerhealth.com/healthcareblog/better-me/ask-the-expert-dehydration-in-dementia-patients,F,F,,,0
+CIT2-0172,NUTR-D1-4A-02,Sonar Reasoning Pro,https://www.alzint.org/resource/nutrition-and-dementia/,F,F,,,0
+CIT2-0173,NUTR-D1-4A-04,GPT-5.5,,A,A,,,0
+CIT2-0174,NUTR-D1-4A-04,GPT-5.5,,B,B,,,0
+CIT2-0175,NUTR-D1-4A-04,GPT-5.5,,D,D,,,0
+CIT2-0176,NUTR-D1-4B-01,Open Evidence,,B,B,,,0
+CIT2-0177,NUTR-D1-4B-01,Open Evidence,,C,C,,,0
+CIT2-0178,NUTR-D1-4B-01,Open Evidence,,C,C,,,0
+CIT2-0179,NUTR-D1-4B-01,Open Evidence,,B,B,,,0
+CIT2-0180,NUTR-D1-4B-01,Open Evidence,,D,D,,,0
+CIT2-0181,NUTR-D1-4B-03,Sonar Reasoning Pro,https://www.alzint.org/resource/nutrition-and-dementia/,F,F,,,0
+CIT2-0182,NUTR-D1-4B-03,Sonar Reasoning Pro,https://koelschseniorcommunities.com/resource/understanding-weight-loss-in-dementia-causes-stages-and-management/,?,F,care home operator,Page content,1
+CIT2-0183,NUTR-D1-4B-03,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC10962800/,D,D,,,0
+CIT2-0184,NUTR-D1-4B-03,Sonar Reasoning Pro,https://www.ouhealth.com/documents/7.4-Dietary-Measures-to-Prevent-Weight-Loss-in-Dementia.pdf,F,F,,,0
+CIT2-0185,NUTR-D1-4B-03,Sonar Reasoning Pro,https://memorylanehome.com/blog/care-plan-for-dementia-patient-in-nursing-home,?,F,care home operator,Page content,1
+CIT2-0186,NUTR-D1-4B-03,Sonar Reasoning Pro,https://stellishealth.com/4-common-causes-of-unplanned-weight-loss-in-seniors/,?,F,provider blog,Page content,1
+CIT2-0187,NUTR-D1-4B-03,Sonar Reasoning Pro,https://aspe.hhs.gov/reports/examining-models-dementia-care-final-report-0,?,D,"ASPE commissioned research report, RTI International [reclassified: scientific publication, irrespective of PubMed indexing]",Page content,0
+CIT2-0188,NUTR-D1-4B-03,Sonar Reasoning Pro,https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease,F,F,,,0
+CIT2-0189,NUTR-D1-4B-03,Sonar Reasoning Pro,https://www.alz.org/help-support/caregiving/daily-care/food-eating,F,F,,,0
+CIT2-0190,NUTR-D1-4B-03,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC6779159/,D,D,,,0
+CIT2-0191,NUTR-D1-4B-03,Sonar Reasoning Pro,https://www.agingcare.com/articles/determine-if-senior-in-senior-living-is-eating-154464.htm,F,F,,,0
+CIT2-0192,NUTR-D1-4B-03,Sonar Reasoning Pro,https://www.summersetalc.com/2020/12/02/dementia-and-weight-loss/,?,F,care home operator,Page content,1
+CIT2-0193,NUTR-D1-4B-03,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S0899900723000357,D,D,,,0
+CIT2-0194,NUTR-D1-4B-04,GPT-5.5,,A,A,,,0
+CIT2-0195,NUTR-D1-4B-04,GPT-5.5,,B,B,,,0
+CIT2-0196,NUTR-D1-4B-04,GPT-5.5,,D,D,,,0
+CIT2-0197,NUTR-D1-5A-02,Open Evidence,,D,D,,,0
+CIT2-0198,NUTR-D1-5A-02,Open Evidence,,D,D,,,0
+CIT2-0199,NUTR-D1-5A-02,Open Evidence,,D,D,,,0
+CIT2-0200,NUTR-D1-5A-02,Open Evidence,,D,D,,,0
+CIT2-0201,NUTR-D1-5A-02,Open Evidence,,D,D,,,0
+CIT2-0202,NUTR-D1-5A-02,Open Evidence,,D,D,,,0
+CIT2-0203,NUTR-D1-5A-02,Open Evidence,,D,D,,,0
+CIT2-0204,NUTR-D1-5A-02,Open Evidence,,B,B,,,0
+CIT2-0205,NUTR-D1-5A-04,GPT-5.5,,D,D,,,0
+CIT2-0206,NUTR-D1-5A-04,GPT-5.5,,A,A,,,0
+CIT2-0207,NUTR-D1-5A-05,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0208,NUTR-D1-5A-05,Sonar Reasoning Pro,https://cieah.ulpgc.es/es/physical-signs-of-dehydration-in-the-elderly,?,F,information page of a university centre,Page content,0
+CIT2-0209,NUTR-D1-5A-05,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC10255140/,D,D,,,0
+CIT2-0210,NUTR-D1-5A-05,Sonar Reasoning Pro,https://www.hmpgloballearningnetwork.com/site/wmp/empirical-studies/measures-skin-turgor-humans-systematic-review-literature,F,F,,,0
+CIT2-0211,NUTR-D1-5A-05,Sonar Reasoning Pro,https://geekymedics.com/hydration-status-assessment-osce-guide/,?,F,learning portal,Page content,0
+CIT2-0212,NUTR-D1-5A-05,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC10644957/,D,D,,,0
+CIT2-0213,NUTR-D1-5A-05,Sonar Reasoning Pro,https://www.japi.org/article/japi-71-12-47,D,D,,,0
+CIT2-0214,NUTR-D1-5A-05,Sonar Reasoning Pro,https://www.cochrane.org/about-us/news/featured-review-clinical-symptoms-signs-and-tests-identification-impending-and-current-water,D,D,,,0
+CIT2-0215,NUTR-D1-5A-05,Sonar Reasoning Pro,https://repository.uwl.ac.uk/id/eprint/3613/,D,D,,,0
+CIT2-0216,NUTR-D1-5A-05,Sonar Reasoning Pro,https://pabau.com/templates/skin-turgor-test-template/,?,F,"practice software, template",Page content,1
+CIT2-0217,NUTR-D1-5A-05,Sonar Reasoning Pro,https://medlineplus.gov/ency/article/003281.htm,F,F,,,0
+CIT2-0218,NUTR-D1-5A-05,Sonar Reasoning Pro,https://www.droracle.ai/articles/1101897/how-is-skin-turgor-assessed-during-a-physical-examination,F,F,,,0
+CIT2-0219,NUTR-D1-5A-05,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/abs/pii/S1525861014006148,D,D,,,0
+CIT2-0220,NUTR-D1-5A-05,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0221,NUTR-D1-5A-05,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0222,NUTR-D1-5A-05,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0223,NUTR-D1-5B-02,Sonar Reasoning Pro,https://seniorservicesofamerica.com/what-are-symptoms-of-dehydration-in-elderly-people/,F,F,,,0
+CIT2-0224,NUTR-D1-5B-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC10644957/,D,D,,,0
+CIT2-0225,NUTR-D1-5B-02,Sonar Reasoning Pro,https://www.jarlife.net/3188-comparing-older-adults-presenting-with-dehydration-as-a-primary-diagnosis-versus-a-secondary-diagnosis-in-the-emergency-department.html,D,D,,,0
+CIT2-0226,NUTR-D1-5B-02,Sonar Reasoning Pro,https://arcadiahomecare.com/dehydration-in-older-adults/,?,F,home care provider,Page content,1
+CIT2-0227,NUTR-D1-5B-02,Sonar Reasoning Pro,https://www.ncbi.nlm.nih.gov/books/NBK555956/,D,D,,,0
+CIT2-0228,NUTR-D1-5B-02,Sonar Reasoning Pro,https://aquoralspray.com/dry-mouth-in-older-adults-causes-prevention-and-effective-treatment-options/,F,F,,,0
+CIT2-0229,NUTR-D1-5B-02,Sonar Reasoning Pro,https://www.thegoodcaregroup.com/live-in-care/conditions-we-care/dehydration-elderly/,?,F,home care provider,Page content,1
+CIT2-0230,NUTR-D1-5B-02,Sonar Reasoning Pro,https://www.crns.ca/wp-content/uploads/2022/06/Dehydration-Adult-CDT-2022.pdf,B,B,,,0
+CIT2-0231,NUTR-D1-5B-02,Sonar Reasoning Pro,https://elmirageer.com/spotting-dehydration-in-seniors-do-you-know-the-signs/,?,F,"emergency clinic, promotional blog",Page content,1
+CIT2-0232,NUTR-D1-5B-02,Sonar Reasoning Pro,https://www.sqwincher.com/2024/12/17/dehydration-in-seniors-signs-and-symptoms/,?,F,beverage manufacturer,Page content,1
+CIT2-0233,NUTR-D1-5B-02,Sonar Reasoning Pro,https://www.japi.org/article/japi-71-12-47,D,D,,,0
+CIT2-0234,NUTR-D1-5B-02,Sonar Reasoning Pro,https://www.facebook.com/vrpmedicalcenter/posts/dont-wait-until-its-too-late%F0%9D%90%92%F0%9D%90%9E%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%9E-%F0%9D%90%83%F0%9D%90%9E%F0%9D%90%A1%F0%9D%90%B2%F0%9D%90%9D%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A7-is-more-than-just-being-thirstyit/1291386283197170/,F,F,,,0
+CIT2-0235,NUTR-D1-5B-02,Sonar Reasoning Pro,https://www.hebrewseniorlife.org/blog/dehydration-seniors-why-its-different-and-what-you-need-know,F,F,,,0
+CIT2-0236,NUTR-D1-5B-02,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/abs/pii/S0167494321000431,D,D,,,0
+CIT2-0237,NUTR-D1-5B-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC5289886/,D,D,,,0
+CIT2-0238,NUTR-D1-5B-04,GPT-5.5,,D,D,,,0
+CIT2-0239,NUTR-D1-5B-04,GPT-5.5,,A,A,,,0
+CIT2-0240,NUTR-D1-5B-04,GPT-5.5,,D,D,,,0
+CIT2-0241,NUTR-D1-5B-05,Open Evidence,,D,D,,,0
+CIT2-0242,NUTR-D1-5B-05,Open Evidence,,D,D,,,0
+CIT2-0243,NUTR-D1-5B-05,Open Evidence,,B,B,,,0
+CIT2-0244,NUTR-D1-5B-05,Open Evidence,,D,D,,,0
+CIT2-0245,NUTR-D1-5B-05,Open Evidence,,D,D,,,0
+CIT2-0246,NUTR-D1-5B-05,Open Evidence,,D,D,,,0
+CIT2-0247,NUTR-D1-5B-05,Open Evidence,,D,D,,,0
+CIT2-0248,NUTR-D1-5B-05,Open Evidence,,D,D,,,0
+CIT2-0249,NUTR-D1-5B-05,Open Evidence,,D,D,,,0
+CIT2-0250,NUTR-D1-5B-05,Open Evidence,,B,B,,,0
+CIT2-0251,NUTR-D1-6A-01,Open Evidence,,D,D,,,0
+CIT2-0252,NUTR-D1-6A-01,Open Evidence,,D,D,,,0
+CIT2-0253,NUTR-D1-6A-01,Open Evidence,,D,D,,,0
+CIT2-0254,NUTR-D1-6A-01,Open Evidence,,D,D,,,0
+CIT2-0255,NUTR-D1-6A-01,Open Evidence,,D,D,,,0
+CIT2-0256,NUTR-D1-6A-01,Open Evidence,,D,D,,,0
+CIT2-0257,NUTR-D1-6A-01,Open Evidence,,D,D,,,0
+CIT2-0258,NUTR-D1-6A-01,Open Evidence,,D,D,,,0
+CIT2-0259,NUTR-D1-6A-01,Open Evidence,,D,D,,,0
+CIT2-0260,NUTR-D1-6A-02,Sonar Reasoning Pro,https://www.espen.org/files/ESPEN-Guidelines/ESPEN_practical_guideline_Clinical_nutrition_and_hydration_in_geriatrics.pdf,A,A*,"ESPEN practical guideline, short version",Page content,0
+CIT2-0261,NUTR-D1-6A-02,Sonar Reasoning Pro,https://www.droracle.ai/articles/963375/what-laboratory-tests-should-be-ordered-to-evaluate-failure,F,F,,,0
+CIT2-0262,NUTR-D1-6A-02,Sonar Reasoning Pro,https://www.ncbi.nlm.nih.gov/books/NBK555956/,D,D,,,0
+CIT2-0263,NUTR-D1-6A-02,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/abs/pii/S2405457723001730,D,D,,,0
+CIT2-0264,NUTR-D1-6A-02,Sonar Reasoning Pro,https://www.hcpa.info/wp-content/uploads/2024/08/Identifying-low-intake-dehydration-in-older-people-new-1.pdf,F,F,,,0
+CIT2-0265,NUTR-D1-6A-02,Sonar Reasoning Pro,https://www.japi.org/article/japi-71-12-47,D,D,,,0
+CIT2-0266,NUTR-D1-6A-03,GPT-5.5,,A,A,,,0
+CIT2-0267,NUTR-D1-6A-03,GPT-5.5,,D,D,,,0
+CIT2-0268,NUTR-D1-6A-03,GPT-5.5,,D,D,,,0
+CIT2-0269,NUTR-D1-6B-01,Sonar Reasoning Pro,https://www.nature.com/articles/s41598-025-14405-1,D,D,,,0
+CIT2-0270,NUTR-D1-6B-01,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0271,NUTR-D1-6B-01,Sonar Reasoning Pro,https://researchportal.ukhsa.gov.uk/en/publications/diagnostic-accuracy-of-calculated-serum-osmolarity-to-predict-deh/,?,D,repository entry of a published paper,Page content,0
+CIT2-0272,NUTR-D1-6B-01,Sonar Reasoning Pro,https://emedicine.medscape.com/article/2099042-overview,?,F,Medscape Reference,Page content,0
+CIT2-0273,NUTR-D1-6B-01,Sonar Reasoning Pro,https://www.webmd.com/a-to-z-guides/serum-osmolality-test,F,F,,,0
+CIT2-0274,NUTR-D1-6B-01,Sonar Reasoning Pro,https://healthmatters.io/understand-blood-test-results/osmolality,?,F,commercial laboratory value explanation service,Page content,1
+CIT2-0275,NUTR-D1-6B-01,Sonar Reasoning Pro,https://www.ucsfhealth.org/care/medical-tests/osmolality-blood-test,?,F,hospital patient information,Page content,0
+CIT2-0276,NUTR-D1-6B-01,Sonar Reasoning Pro,https://www.droracle.ai/articles/609429/what-does-a-serum-osmolality-of-300-within-the,F,F,,,0
+CIT2-0277,NUTR-D1-6B-01,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0278,NUTR-D1-6B-03,Open Evidence,,D,D,,,0
+CIT2-0279,NUTR-D1-6B-03,Open Evidence,,D,D,,,0
+CIT2-0280,NUTR-D1-6B-03,Open Evidence,,D,D,,,0
+CIT2-0281,NUTR-D1-6B-03,Open Evidence,,D,D,,,0
+CIT2-0282,NUTR-D1-6B-03,Open Evidence,,D,D,,,0
+CIT2-0283,NUTR-D1-6B-03,Open Evidence,,D,D,,,0
+CIT2-0284,NUTR-D1-6B-03,Open Evidence,,D,D,,,0
+CIT2-0285,NUTR-D1-6B-03,Open Evidence,,D,D,,,0
+CIT2-0286,NUTR-D1-6B-03,Open Evidence,,C,C,,,0
+CIT2-0287,NUTR-D1-6B-03,Open Evidence,,D,D,,,0
+CIT2-0288,NUTR-D1-6B-03,Open Evidence,,B,B,,,0
+CIT2-0289,NUTR-D1-6B-03,Open Evidence,,B,B,,,0
+CIT2-0290,NUTR-D1-6B-04,GPT-5.5,,A,A,,,0
+CIT2-0291,NUTR-D1-6B-04,GPT-5.5,,D,D,,,0
+CIT2-0292,NUTR-D1-7A-01,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC3356862/,D,D,,,0
+CIT2-0293,NUTR-D1-7A-01,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S0261561424001468,D,D,,,0
+CIT2-0294,NUTR-D1-7A-01,Sonar Reasoning Pro,https://pubmed.ncbi.nlm.nih.gov/32213008/,D,D,,,0
+CIT2-0295,NUTR-D1-7A-01,Sonar Reasoning Pro,https://www.alzint.org/u/nutrition-and-dementia.pdf,F,F,,,0
+CIT2-0296,NUTR-D1-7A-01,Sonar Reasoning Pro,https://paltmed.org/sites/default/files/2024-10/Altered%20Nutrition%20Status%20CPG%2008092024.pdf,B,B,,,0
+CIT2-0298,NUTR-D1-7A-01,Sonar Reasoning Pro,https://certificates.stanmoreuk.org/guides/3983127/assessment-of-nutritional-needs-in-dementia-care.pdf,?,F,certificate provider,Page content,1
+CIT2-0299,NUTR-D1-7A-01,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC6849562/,D,D,,,0
+CIT2-0300,NUTR-D1-7A-01,Sonar Reasoning Pro,https://journals.rcni.com/doi/pdf/10.7748/nop.2022.e1389,?,D,"Nursing Older People, identifier not resolvable [reclassified: scientific publication, irrespective of PubMed indexing]",Page content,0
+CIT2-0301,NUTR-D1-7A-01,Sonar Reasoning Pro,https://www.thelancet.com/journals/lanhl/article/PIIS2666-7568(22,D,D,,,0
+CIT2-0302,NUTR-D1-7A-01,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC12892694/,D,D,,,0
+CIT2-0303,NUTR-D1-7A-01,Sonar Reasoning Pro,https://www.alz.org/help-support/caregiving/daily-care/food-eating,F,F,,,0
+CIT2-0304,NUTR-D1-7A-01,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0305,NUTR-D1-7A-01,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0306,NUTR-D1-7A-01,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0307,NUTR-D1-7A-01,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0308,NUTR-D1-7A-01,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0309,NUTR-D1-7A-01,Sonar Reasoning Pro,,A,A,,,0
+CIT2-0310,NUTR-D1-7A-03,Open Evidence,,B,B,,,0
+CIT2-0311,NUTR-D1-7A-03,Open Evidence,,D,D,,,0
+CIT2-0312,NUTR-D1-7A-03,Open Evidence,,C,C,,,0
+CIT2-0313,NUTR-D1-7A-03,Open Evidence,,C,C,,,0
+CIT2-0314,NUTR-D1-7A-03,Open Evidence,,D,D,,,0
+CIT2-0315,NUTR-D1-7A-04,GPT-5.5,,A,A,,,0
+CIT2-0316,NUTR-D1-7A-04,GPT-5.5,,B,B,,,0
+CIT2-0317,NUTR-D1-7A-04,GPT-5.5,,D,D,,,0
+CIT2-0318,NUTR-D1-7B-01,Sonar Reasoning Pro,https://www.bda.uk.com/resource/eating-and-drinking-difficulties-in-dementia.html,A,F,"BDA Food Fact Sheet, patient information",Page content,0
+CIT2-0319,NUTR-D1-7B-01,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC6849562/,D,D,,,0
+CIT2-0320,NUTR-D1-7B-01,Sonar Reasoning Pro,https://alzheimer.ca/en/document/3750,F,F,,,0
+CIT2-0321,NUTR-D1-7B-01,Sonar Reasoning Pro,https://hign.org/consultgeri/try-this-series/assessing-nutrition-older-adults,F,F,,,0
+CIT2-0322,NUTR-D1-7B-01,Sonar Reasoning Pro,https://www.alzint.org/resource/nutrition-and-dementia/,F,F,,,0
+CIT2-0323,NUTR-D1-7B-01,Sonar Reasoning Pro,https://pure.johnshopkins.edu/en/publications/nutritional-status-is-associated-with-severe-dementia-and-mortali,D,D,,,0
+CIT2-0324,NUTR-D1-7B-01,Sonar Reasoning Pro,https://www.alzra.org/blog/what-to-do-if-dementia-patients-stop-eating/,F,F,,,0
+CIT2-0325,NUTR-D1-7B-01,Sonar Reasoning Pro,https://www.mna-elderly.com,F,F,,,0
+CIT2-0326,NUTR-D1-7B-01,Sonar Reasoning Pro,https://lonestarneurology.net/blog/dementia-patient-not-eating/,F,F,,,0
+CIT2-0327,NUTR-D1-7B-01,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC5318140/,D,D,,,0
+CIT2-0328,NUTR-D1-7B-01,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC10343750/,D,D,,,0
+CIT2-0329,NUTR-D1-7B-01,Sonar Reasoning Pro,https://www.alz.org/professionals/health-systems-medical-professionals/cognitive-assessment,F,F,,,0
+CIT2-0330,NUTR-D1-7B-01,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S0261561424001468,D,D,,,0
+CIT2-0331,NUTR-D1-7B-01,Sonar Reasoning Pro,https://www.alz.org/help-support/caregiving/daily-care/food-eating,F,F,,,0
+CIT2-0332,NUTR-D1-7B-01,Sonar Reasoning Pro,https://www.brightstarcare.com/blog/dementia-patient-refusing-care/,?,F,home care provider,Page content,1
+CIT2-0333,NUTR-D1-7B-01,Sonar Reasoning Pro,,A,A,,,0
+CIT2-0334,NUTR-D1-7B-01,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0335,NUTR-D1-7B-01,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0336,NUTR-D1-7B-01,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0337,NUTR-D1-7B-02,Open Evidence,,B,B,,,0
+CIT2-0338,NUTR-D1-7B-02,Open Evidence,,C,C,,,0
+CIT2-0339,NUTR-D1-7B-02,Open Evidence,,B,B,,,0
+CIT2-0340,NUTR-D1-7B-02,Open Evidence,,C,C,,,0
+CIT2-0341,NUTR-D1-7B-02,Open Evidence,,B,B,,,0
+CIT2-0342,NUTR-D1-7B-02,Open Evidence,,B,B,,,0
+CIT2-0343,NUTR-D1-7B-02,Open Evidence,,D,D,,,0
+CIT2-0344,NUTR-D1-7B-02,Open Evidence,,D,D,,,0
+CIT2-0345,NUTR-D1-7B-05,GPT-5.5,,A,A,,,0
+CIT2-0346,NUTR-D1-7B-05,GPT-5.5,,B,B,,,0
+CIT2-0347,NUTR-D1-7B-05,GPT-5.5,,B,B,,,0
+CIT2-0348,NUTR-D1-8A-01,Sonar Reasoning Pro,https://alzheimer.ca/en/document/3750,F,F,,,0
+CIT2-0349,NUTR-D1-8A-01,Sonar Reasoning Pro,https://www.bda.uk.com/resource/dementia-and-diet.html,A,F,"BDA Food Fact Sheet, patient information",Page content,0
+CIT2-0350,NUTR-D1-8A-01,Sonar Reasoning Pro,https://www.todaysdietitian.com/caring-for-dementia-patients/,F,F,,,0
+CIT2-0351,NUTR-D1-8A-01,Sonar Reasoning Pro,https://www.h2health.com/diet-suggestions-for-people-with-dementia/,?,F,therapy provider,Page content,1
+CIT2-0352,NUTR-D1-8A-01,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC6849562/,D,D,,,0
+CIT2-0353,NUTR-D1-8A-01,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC7772186/,D,D,,,0
+CIT2-0354,NUTR-D1-8A-01,Sonar Reasoning Pro,https://www.alzint.org/resource/nutrition-and-dementia/,F,F,,,0
+CIT2-0355,NUTR-D1-8A-01,Sonar Reasoning Pro,https://www.youtube.com/watch?v=a8GW1DVDPCY,F,F,,,0
+CIT2-0356,NUTR-D1-8A-01,Sonar Reasoning Pro,https://themanorvillageusa.com/blog/the-role-of-nutrition-in-managing-dementia-symptoms/,?,F,care home operator,Page content,1
+CIT2-0357,NUTR-D1-8A-01,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S0261561424001468,D,D,,,0
+CIT2-0358,NUTR-D1-8A-01,Sonar Reasoning Pro,https://www.alz.org/help-support/caregiving/daily-care/food-eating,F,F,,,0
+CIT2-0359,NUTR-D1-8A-01,Sonar Reasoning Pro,https://alz-journals.onlinelibrary.wiley.com/doi/10.1016/j.jalz.2011.05.471,F,F,,,0
+CIT2-0360,NUTR-D1-8A-01,Sonar Reasoning Pro,,A,A,,,0
+CIT2-0361,NUTR-D1-8A-03,Open Evidence,,B,B,,,0
+CIT2-0362,NUTR-D1-8A-03,Open Evidence,,D,D,,,0
+CIT2-0363,NUTR-D1-8A-03,Open Evidence,,D,D,,,0
+CIT2-0364,NUTR-D1-8A-03,Open Evidence,,D,D,,,0
+CIT2-0365,NUTR-D1-8A-04,GPT-5.5,,A,A,,,0
+CIT2-0366,NUTR-D1-8A-04,GPT-5.5,,B,B,,,0
+CIT2-0367,NUTR-D1-8A-04,GPT-5.5,,D,D,,,0
+CIT2-0368,NUTR-D1-8B-02,Sonar Reasoning Pro,https://alzheimer.ca/en/document/3750,F,F,,,0
+CIT2-0369,NUTR-D1-8B-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC12280697/,D,D,,,0
+CIT2-0370,NUTR-D1-8B-02,Sonar Reasoning Pro,https://www.bda.uk.com/resource/dementia-and-diet.html,A,F,"BDA Food Fact Sheet, patient information",Page content,0
+CIT2-0371,NUTR-D1-8B-02,Sonar Reasoning Pro,https://www.ouhealth.com/documents/7.4-Dietary-Measures-to-Prevent-Weight-Loss-in-Dementia.pdf,F,F,,,0
+CIT2-0372,NUTR-D1-8B-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC10343750/,D,D,,,0
+CIT2-0373,NUTR-D1-8B-02,Sonar Reasoning Pro,,A,A,,,0
+CIT2-0374,NUTR-D1-8B-02,Sonar Reasoning Pro,https://www.alzint.org/resource/nutrition-and-dementia/,F,F,,,0
+CIT2-0375,NUTR-D1-8B-02,Sonar Reasoning Pro,https://www.consultant360.com/articles/nutritional-assessment-geriatric-patient-comprehensive-approach-toward-evaluating-and,F,F,,,0
+CIT2-0376,NUTR-D1-8B-02,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S0261561424001468,D,D,,,0
+CIT2-0377,NUTR-D1-8B-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC7772186/,D,D,,,0
+CIT2-0378,NUTR-D1-8B-02,Sonar Reasoning Pro,https://www.albertahealthservices.ca/assets/info/nutrition/if-nfs-ng-seniors-health-overview.pdf,F,F,,,0
+CIT2-0379,NUTR-D1-8B-02,Sonar Reasoning Pro,https://member.dietitiansaustralia.org.au/Common/Uploaded%20files/DAA/Resource_Library/MHANDi/MHANDi_2.3_Dementia.pdf,B,B,,,0
+CIT2-0380,NUTR-D1-8B-02,Sonar Reasoning Pro,https://www.bda.uk.com/resource/eating-and-drinking-difficulties-in-dementia.html,A,F,"BDA Food Fact Sheet, patient information",Page content,0
+CIT2-0381,NUTR-D1-8B-02,Sonar Reasoning Pro,https://hign.org/consultgeri/try-this-series/assessing-nutrition-older-adults,F,F,,,0
+CIT2-0382,NUTR-D1-8B-02,Sonar Reasoning Pro,https://www.alz.org/help-support/caregiving/daily-care/food-eating,F,F,,,0
+CIT2-0383,NUTR-D1-8B-02,Sonar Reasoning Pro,,B,B,,,0
+CIT2-0384,NUTR-D1-8B-03,GPT-5.5,,A,A,,,0
+CIT2-0385,NUTR-D1-8B-03,GPT-5.5,,B,B,,,0
+CIT2-0386,NUTR-D1-8B-03,GPT-5.5,,D,D,,,0
+CIT2-0387,NUTR-D1-8B-05,Open Evidence,,C,C,,,0
+CIT2-0388,NUTR-D1-8B-05,Open Evidence,,C,C,,,0
+CIT2-0389,NUTR-D1-8B-05,Open Evidence,,D,D,,,0
+CIT2-0390,NUTR-D1-8B-05,Open Evidence,,B,B,,,0
+CIT2-0391,NUTR-D1-8B-05,Open Evidence,,D,D,,,0
+CIT2-0392,NUTR-D1-8B-05,Open Evidence,,D,D,,,0
+CIT2-0393,NUTR-D1-8B-05,Open Evidence,,D,D,,,0
+CIT2-0394,NUTR-D1-8B-05,Open Evidence,,D,D,,,0
+CIT2-0395,NUTR-D1-8B-05,Open Evidence,,D,D,,,0
+CIT2-0396,NUTR-D1-9A-01,Open Evidence,,D,D,,,0
+CIT2-0397,NUTR-D1-9A-01,Open Evidence,,D,D,,,0
+CIT2-0398,NUTR-D1-9A-01,Open Evidence,,D,D,,,0
+CIT2-0399,NUTR-D1-9A-01,Open Evidence,,D,D,,,0
+CIT2-0400,NUTR-D1-9A-01,Open Evidence,,B,B,,,0
+CIT2-0401,NUTR-D1-9A-01,Open Evidence,,D,D,,,0
+CIT2-0402,NUTR-D1-9A-01,Open Evidence,,D,D,,,0
+CIT2-0403,NUTR-D1-9A-01,Open Evidence,,D,D,,,0
+CIT2-0404,NUTR-D1-9A-01,Open Evidence,,C,C,,,0
+CIT2-0405,NUTR-D1-9A-01,Open Evidence,,D,D,,,0
+CIT2-0406,NUTR-D1-9A-02,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0407,NUTR-D1-9A-02,Sonar Reasoning Pro,https://www.espen.org/files/ESPEN-Guidelines/ESPEN-practical-guideline-Nutritional-support-for-polymorbid-medical-inpatients.pdf,A,A*,"ESPEN practical guideline, short version",Page content,0
+CIT2-0408,NUTR-D1-9A-02,Sonar Reasoning Pro,https://scholarlypublications.universiteitleiden.nl/access/item:4297662/download,?,D,"thesis, Leiden [reclassified: scientific publication, irrespective of PubMed indexing]",Page content,0
+CIT2-0410,NUTR-D1-9A-02,Sonar Reasoning Pro,https://boris-portal.unibe.ch/bitstreams/ba26b0bf-60c5-4fc8-9b23-d75d96aed71f/download,D,D,,,0
+CIT2-0411,NUTR-D1-9A-02,Sonar Reasoning Pro,https://www.espen.org/files/ESPEN-Guidelines/ESPEN_guideline_on_nutritional_support_for_polymorbid_medical_in_patients.pdf,A,A,,,0
+CIT2-0412,NUTR-D1-9A-02,Sonar Reasoning Pro,https://evolutionmedicine.com/2018/01/07/anorexia-and-the-acute-phase-response/,?,F,Blog,Page content,0
+CIT2-0413,NUTR-D1-9A-02,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S026156142300208X,D,D,,,0
+CIT2-0414,NUTR-D1-9A-02,Sonar Reasoning Pro,,A,A,,,0
+CIT2-0415,NUTR-D1-9A-04,GPT-5.5,,A,A,,,0
+CIT2-0416,NUTR-D1-9A-04,GPT-5.5,,D,D,,,0
+CIT2-0417,NUTR-D1-9A-04,GPT-5.5,,D,D,,,0
+CIT2-0418,NUTR-D1-9B-02,Open Evidence,,B,B,,,0
+CIT2-0419,NUTR-D1-9B-02,Open Evidence,,B,B,,,0
+CIT2-0420,NUTR-D1-9B-02,Open Evidence,,C,C,,,0
+CIT2-0421,NUTR-D1-9B-02,Open Evidence,,C,C,,,0
+CIT2-0422,NUTR-D1-9B-02,Open Evidence,,B,B,,,0
+CIT2-0423,NUTR-D1-9B-02,Open Evidence,,D,D,,,0
+CIT2-0424,NUTR-D1-9B-02,Open Evidence,,C,C,,,0
+CIT2-0425,NUTR-D1-9B-03,Sonar Reasoning Pro,https://pubmed.ncbi.nlm.nih.gov/19497548/,D,D,,,0
+CIT2-0426,NUTR-D1-9B-03,Sonar Reasoning Pro,https://link.springer.com/article/10.1007/s41999-020-00303-4,D,D,,,0
+CIT2-0427,NUTR-D1-9B-03,Sonar Reasoning Pro,https://www.nature.com/articles/s41430-021-00977-4,D,D,,,0
+CIT2-0428,NUTR-D1-9B-03,Sonar Reasoning Pro,https://pubmed.ncbi.nlm.nih.gov/39683604/,D,D,,,0
+CIT2-0429,NUTR-D1-9B-03,Sonar Reasoning Pro,https://www.diva-portal.org/smash/get/diva2:1787793/FULLTEXT01.pdf,?,D,"thesis, Swedish repository [reclassified: scientific publication, irrespective of PubMed indexing]",Page content,0
+CIT2-0430,NUTR-D1-9B-03,Sonar Reasoning Pro,https://ejgg.org/articles/relationship-between-neutrophil-lymphocyte-ratio-and-malnutrition-in-older-adults/doi/ejgg.galenos.2021.450,?,D,"European Journal of Geriatrics and Gerontology [reclassified: scientific publication, irrespective of PubMed indexing]",Page content,0
+CIT2-0431,NUTR-D1-9B-03,Sonar Reasoning Pro,https://dergipark.org.tr/en/download/article-file/2824731,?,D,"Dergipark, Turkish journal platform [reclassified: scientific publication, irrespective of PubMed indexing]",Page content,0
+CIT2-0432,NUTR-D1-9B-03,Sonar Reasoning Pro,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10768166/,D,D,,,0
+CIT2-0433,NUTR-D1-9B-03,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC7280354/,D,D,,,0
+CIT2-0434,NUTR-D1-9B-03,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC8428736/,D,D,,,0
+CIT2-0435,NUTR-D1-9B-03,Sonar Reasoning Pro,https://academic.oup.com/biomedgerontology/article-abstract/53A/2/M81/571123,D,D,,,0
+CIT2-0436,NUTR-D1-9B-03,Sonar Reasoning Pro,https://pdfs.semanticscholar.org/1126/ba697107aff8bc3cdd7f95709bec64e58d7a.pdf,D,D,,,0
+CIT2-0437,NUTR-D1-9B-03,Sonar Reasoning Pro,https://pdfs.semanticscholar.org/7112/cb9da83c3df89ba5b10f7d2e985403df201a.pdf,D,D,,,0
+CIT2-0438,NUTR-D1-9B-03,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC12075539/,D,D,,,0
+CIT2-0439,NUTR-D1-9B-03,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC6770921/,D,D,,,0
+CIT2-0440,NUTR-D1-9B-03,Sonar Reasoning Pro,"https://www.archivesofmedicalscience.com/Assessment-of-inflammatory-markers-disease-severity-and-comorbidities-in-very-elderly,119018,0,2.html",?,D,Archives of Medical Science,Page content,0
+CIT2-0441,NUTR-D1-9B-03,Sonar Reasoning Pro,,B,B,,,0
+CIT2-0442,NUTR-D1-9B-03,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0443,NUTR-D1-9B-03,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0444,NUTR-D1-9B-03,Sonar Reasoning Pro,,B,B,,,0
+CIT2-0445,NUTR-D1-9B-04,GPT-5.5,,B,B,,,0
+CIT2-0446,NUTR-D1-9B-04,GPT-5.5,,B,B,,,0
+CIT2-0447,NUTR-D1-9B-04,GPT-5.5,,D,D,,,0
+CIT2-0448,NUTR-D1-10A-02,Sonar Reasoning Pro,https://www.espen.org/files/ESPEN-Guidelines/ESPEN-practical-guideline-Nutritional-support-for-polymorbid-medical-inpatients.pdf,A,A*,"ESPEN practical guideline, short version",Page content,0
+CIT2-0449,NUTR-D1-10A-02,Sonar Reasoning Pro,https://www.physio-pedia.com/Comprehensive_Geriatric_Assessment,?,F,Wiki,Page content,0
+CIT2-0450,NUTR-D1-10A-02,Sonar Reasoning Pro,https://bcmj.org/articles/health-outcomes-patients-complex-chronic-diseases-program,?,D,"BC Medical Journal [reclassified: scientific publication, irrespective of PubMed indexing]",Page content,0
+CIT2-0451,NUTR-D1-10A-02,Sonar Reasoning Pro,https://boris-portal.unibe.ch/bitstreams/ba26b0bf-60c5-4fc8-9b23-d75d96aed71f/download,D,D,,,0
+CIT2-0452,NUTR-D1-10A-02,Sonar Reasoning Pro,https://www.bgs.org.uk/sites/default/files/content/resources/files/2019-03-12/CGA%20Toolkit%20for%20Primary%20Care%20Practitioners_0.pdf,B,B,,,0
+CIT2-0453,NUTR-D1-10A-02,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S1526590007008991,D,D,,,0
+CIT2-0454,NUTR-D1-10A-02,Sonar Reasoning Pro,https://www.espen.org/files/ESPEN-Guidelines/ESPEN_guideline_on_nutritional_support_for_polymorbid_medical_in_patients.pdf,A,A,,,0
+CIT2-0455,NUTR-D1-10A-02,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/abs/pii/S0953620514000776,D,D,,,0
+CIT2-0456,NUTR-D1-10A-02,Sonar Reasoning Pro,https://crownschool.uchicago.edu/student-life/advocates-forum/chronic-disease-management-improving-outcomes-reducing-costs,D,D,,,0
+CIT2-0457,NUTR-D1-10A-02,Sonar Reasoning Pro,https://www.aanep.org.ar/es/attachment/download/156,?,D,"document download, Argentine nutrition society [reclassified: scientific publication, irrespective of PubMed indexing]",Page content,0
+CIT2-0458,NUTR-D1-10A-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC6439176/,D,D,,,0
+CIT2-0459,NUTR-D1-10A-02,Sonar Reasoning Pro,https://www.ncbi.nlm.nih.gov/books/NBK465018/,D,D,,,0
+CIT2-0460,NUTR-D1-10A-02,Sonar Reasoning Pro,https://clinicalnutrition.science/en/nutribib/nutritional-therapy/special-clinical-situations/polymorbid-medical-inpatients/espen-guidelines-on-nutritional-support-polymorbid-patient-2023/,A,A,,,0
+CIT2-0461,NUTR-D1-10A-02,Sonar Reasoning Pro,https://siog.org/educational-resources/comprehensive-geriatric-assessment/,?,F,educational page on CGA,Page content,0
+CIT2-0462,NUTR-D1-10A-02,Sonar Reasoning Pro,https://pubmed.ncbi.nlm.nih.gov/41484477/,D,D,,,0
+CIT2-0463,NUTR-D1-10A-04,Open Evidence,,D,D,,,0
+CIT2-0464,NUTR-D1-10A-04,Open Evidence,,D,D,,,0
+CIT2-0465,NUTR-D1-10A-04,Open Evidence,,D,D,,,0
+CIT2-0466,NUTR-D1-10A-04,Open Evidence,,D,D,,,0
+CIT2-0467,NUTR-D1-10A-04,Open Evidence,,D,D,,,0
+CIT2-0468,NUTR-D1-10A-04,Open Evidence,,D,D,,,0
+CIT2-0469,NUTR-D1-10A-04,Open Evidence,,D,D,,,0
+CIT2-0470,NUTR-D1-10A-04,Open Evidence,,C,C,,,0
+CIT2-0471,NUTR-D1-10A-05,GPT-5.5,,A,A,,,0
+CIT2-0472,NUTR-D1-10A-05,GPT-5.5,,D,D,,,0
+CIT2-0473,NUTR-D1-10A-05,GPT-5.5,,D,D,,,0
+CIT2-0474,NUTR-D1-10B-01,Sonar Reasoning Pro,https://www.linkedin.com/posts/abbott-nutrition-health-institute_espen-guidelines-on-nutritional-support-for-activity-7165759407279067137-PGXt,B,B,,,0
+CIT2-0475,NUTR-D1-10B-01,Sonar Reasoning Pro,https://www.jnursinghomeresearch.com/1012-review-and-analysis-of-indicators-in-nutrition-screening-tools-that-identify-malnutrition-among-long-term-care-residents.html,?,D,"Journal of Nursing Home Research [reclassified: scientific publication, irrespective of PubMed indexing]",Page content,0
+CIT2-0476,NUTR-D1-10B-01,Sonar Reasoning Pro,https://www.espen.org/files/ESPEN-Guidelines/ESPEN-practical-guideline-Nutritional-support-for-polymorbid-medical-inpatients.pdf,A,A*,"ESPEN practical guideline, short version",Page content,0
+CIT2-0477,NUTR-D1-10B-01,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC5634387/,D,D,,,0
+CIT2-0478,NUTR-D1-10B-01,Sonar Reasoning Pro,https://www.nespen.nl/wp-content/uploads/2022/04/2018_Nutritional-support-for-polymorbid-internal-medicine-patients.pdf,A,A,,,0
+CIT2-0479,NUTR-D1-10B-01,Sonar Reasoning Pro,https://www.consultant360.com/articles/nutritional-assessment-geriatric-patient-comprehensive-approach-toward-evaluating-and,F,F,,,0
+CIT2-0480,NUTR-D1-10B-01,Sonar Reasoning Pro,https://www.e-cnr.org/journal/view.php?doi=10.7762%2Fcnr.2025.14.2.91,?,D,"Clinical Nutrition Research, PMID 40386660",PubMed query,0
+CIT2-0481,NUTR-D1-10B-01,Sonar Reasoning Pro,https://hign.org/consultgeri/try-this-series/assessing-nutrition-older-adults,F,F,,,0
+CIT2-0482,NUTR-D1-10B-01,Sonar Reasoning Pro,https://www.jarlife.net/1020-nutritional-follow-up-after-discharge-of-malnourished-geriatric-patients-design-of-a-randomized-clinical-study.html,D,D,,,0
+CIT2-0483,NUTR-D1-10B-01,Sonar Reasoning Pro,https://www.espen.org/files/ESPEN-Guidelines/ESPEN_guideline_on_clincal_nutrition_and_hydration_in_geriatrics.pdf,B,B,,,0
+CIT2-0484,NUTR-D1-10B-01,Sonar Reasoning Pro,https://www.espen.org/files/ESPEN-Guidelines/ESPEN_guideline_on_nutritional_support_for_polymorbid_medical_in_patients.pdf,A,A,,,0
+CIT2-0485,NUTR-D1-10B-01,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC8399049/,D,D,,,0
+CIT2-0486,NUTR-D1-10B-01,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC7011201/,D,D,,,0
+CIT2-0487,NUTR-D1-10B-01,Sonar Reasoning Pro,https://www.andeal.org/vault/pqnew187.pdf,B,B,,,0
+CIT2-0488,NUTR-D1-10B-01,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S026156142300208X,D,D,,,0
+CIT2-0489,NUTR-D1-10B-02,GPT-5.5,,B,B,,,0
+CIT2-0490,NUTR-D1-10B-02,GPT-5.5,,A,A,,,0
+CIT2-0491,NUTR-D1-10B-02,GPT-5.5,,D,D,,,0
+CIT2-0492,NUTR-D1-10B-05,Open Evidence,,C,C,,,0
+CIT2-0493,NUTR-D1-10B-05,Open Evidence,,D,D,,,0
+CIT2-0494,NUTR-D1-10B-05,Open Evidence,,C,C,,,0
+CIT2-0495,NUTR-D1-10B-05,Open Evidence,,B,B,,,0
+CIT2-0496,NUTR-D1-10B-05,Open Evidence,,D,D,,,0
+CIT2-0497,NUTR-D1-10B-05,Open Evidence,,D,D,,,0
+CIT2-0498,NUTR-D1-10B-05,Open Evidence,,D,D,,,0
+CIT2-0499,NUTR-D1-10B-05,Open Evidence,,D,D,,,0
+CIT2-0500,NUTR-D2-1A-02,GPT-5.5,,A,A,,,0
+CIT2-0501,NUTR-D2-1A-02,GPT-5.5,,D,D,,,0
+CIT2-0502,NUTR-D2-1A-04,Sonar Reasoning Pro,https://www.espen.org/files/ESPEN-Guidelines/ESPEN_guideline_on_clincal_nutrition_and_hydration_in_geriatrics.pdf,A,A,,,0
+CIT2-0503,NUTR-D2-1A-04,Sonar Reasoning Pro,https://www.eatrightpro.org/news-center/research-briefs/nutrition-interventions-for-malnutrition-in-older-adults,B,B,,,0
+CIT2-0504,NUTR-D2-1A-04,Sonar Reasoning Pro,https://www.andeal.org/vault/pqnew187.pdf,B,B,,,0
+CIT2-0505,NUTR-D2-1A-04,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC2920201/,D,D,,,0
+CIT2-0506,NUTR-D2-1A-04,Sonar Reasoning Pro,https://www.consultant360.com/articles/nutritional-assessment-geriatric-patient-comprehensive-approach-toward-evaluating-and,F,F,,,0
+CIT2-0507,NUTR-D2-1A-04,Sonar Reasoning Pro,https://www.apta.org/patient-care/evidence-based-practice-resources/test-measures/mini-nutritional-assessment-mna,?,F,"description of the MNA test, resource page",Page content,0
+CIT2-0508,NUTR-D2-1A-04,Sonar Reasoning Pro,https://pubmed.ncbi.nlm.nih.gov/19932533/,D,D,,,0
+CIT2-0509,NUTR-D2-1A-04,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S1279770723009685,D,D,,,0
+CIT2-0510,NUTR-D2-1A-04,Sonar Reasoning Pro,https://hign.org/consultgeri/try-this-series/assessing-nutrition-older-adults,F,F,,,0
+CIT2-0511,NUTR-D2-1A-04,Sonar Reasoning Pro,https://www.mna-elderly.com,F,F,,,0
+CIT2-0512,NUTR-D2-1A-04,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC8399049/,D,D,,,0
+CIT2-0513,NUTR-D2-1A-04,Sonar Reasoning Pro,https://www.andeal.org/topic.cfm?menu=6064,B,B,,,0
+CIT2-0514,NUTR-D2-1A-04,Sonar Reasoning Pro,https://acl.gov/sites/default/files/nutrition/Malnutrition-Issue-Brief-ACL2017.pdf,?,D,"Administration for Community Living, fact sheets [reclassified: scientific publication, irrespective of PubMed indexing]",Page content,0
+CIT2-0515,NUTR-D2-1A-04,Sonar Reasoning Pro,http://acl.gov/senior-nutrition/nutrition-guidelines,?,D,"Administration for Community Living, fact sheets [reclassified: scientific publication, irrespective of PubMed indexing]",Page content,0
+CIT2-0516,NUTR-D2-1A-04,Sonar Reasoning Pro,https://www.webmd.com/healthy-aging/what-to-know-about-malnutrition-in-older-adults,F,F,,,0
+CIT2-0517,NUTR-D2-1A-05,Open Evidence,,C,C,,,0
+CIT2-0518,NUTR-D2-1A-05,Open Evidence,,C,C,,,0
+CIT2-0519,NUTR-D2-1A-05,Open Evidence,,D,D,,,0
+CIT2-0520,NUTR-D2-1A-05,Open Evidence,,B,B,,,0
+CIT2-0521,NUTR-D2-1A-05,Open Evidence,,B,B,,,0
+CIT2-0522,NUTR-D2-1A-05,Open Evidence,,B,B,,,0
+CIT2-0523,NUTR-D2-1A-05,Open Evidence,,C,C,,,0
+CIT2-0524,NUTR-D2-1B-02,Open Evidence,,C,C,,,0
+CIT2-0525,NUTR-D2-1B-02,Open Evidence,,C,C,,,0
+CIT2-0526,NUTR-D2-1B-02,Open Evidence,,B,B,,,0
+CIT2-0527,NUTR-D2-1B-02,Open Evidence,,B,B,,,0
+CIT2-0528,NUTR-D2-1B-02,Open Evidence,,B,B,,,0
+CIT2-0529,NUTR-D2-1B-04,Sonar Reasoning Pro,https://www.chestnutsquare.info/a-senior-guide-to-low-sodium-diets,?,F,care home operator,Page content,1
+CIT2-0530,NUTR-D2-1B-04,Sonar Reasoning Pro,https://www.webmd.com/healthy-aging/what-to-know-about-malnutrition-in-older-adults,F,F,,,0
+CIT2-0531,NUTR-D2-1B-04,Sonar Reasoning Pro,https://austinpublishinggroup.com/cardiovascular-diseases/fulltext/ajcd-v8-id1040.php,?,D,"Austin Publishing Group [reclassified: scientific publication, irrespective of PubMed indexing]",Page content,0
+CIT2-0533,NUTR-D2-1B-04,Sonar Reasoning Pro,https://ask.ifas.ufl.edu/publication/FS157,D,D,,,0
+CIT2-0534,NUTR-D2-1B-04,Sonar Reasoning Pro,https://www.cfrjournal.com/articles/prevalence-and-prognostic-significance-malnutrition-assessed-two-scoring-systems?language_content_entity=en,?,D,Cardiac Failure Review,Page content,0
+CIT2-0535,NUTR-D2-1B-04,Sonar Reasoning Pro,https://extension.oregonstate.edu/catalog/pub/pnw-767-nutrition-older-adults,D,D,,,0
+CIT2-0536,NUTR-D2-1B-04,Sonar Reasoning Pro,https://acl.gov/sites/default/files/nutrition/Malnutrition-Issue-Brief-ACL2017.pdf,?,D,"Administration for Community Living, fact sheets [reclassified: scientific publication, irrespective of PubMed indexing]",Page content,0
+CIT2-0537,NUTR-D2-1B-04,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S1279770723020882,D,D,,,0
+CIT2-0538,NUTR-D2-1B-04,Sonar Reasoning Pro,https://www.heart.org/en/news/2024/12/18/the-changing-nutritional-needs-of-older-adults-and-how-to-meet-them,?,F,AHA news article,Page content,0
+CIT2-0539,NUTR-D2-1B-04,Sonar Reasoning Pro,https://www.facebook.com/100064841171206/posts/why-are-older-people-at-risk-of-malnutritionthese-things-are-concerns-in-the-old/705576034128470/,F,F,,,0
+CIT2-0540,NUTR-D2-1B-04,Sonar Reasoning Pro,https://www.jacc.org/doi/10.1016/j.jacadv.2023.100633,?,D,"JACC Advances, PMID 38938359",PubMed query,0
+CIT2-0541,NUTR-D2-1B-04,Sonar Reasoning Pro,https://www.albertahealthservices.ca/assets/info/nutrition/if-nfs-ng-seniors-health-overview.pdf,F,F,,,0
+CIT2-0542,NUTR-D2-1B-04,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/abs/pii/S0261561411001464,D,D,,,0
+CIT2-0543,NUTR-D2-1B-04,Sonar Reasoning Pro,https://papers.ssrn.com/sol3/Delivery.cfm/876c434c-6fce-4555-8192-29ccb56dd0cb-MECA.pdf?abstractid=5365412&mirid=1,?,D,"SSRN preprint [reclassified: scientific publication, irrespective of PubMed indexing]",Page content,0
+CIT2-0544,NUTR-D2-1B-04,Sonar Reasoning Pro,,A,A,,,0
+CIT2-0545,NUTR-D2-1B-05,GPT-5.5,,A,A,,,0
+CIT2-0546,NUTR-D2-2A-02,Open Evidence,,C,C,,,0
+CIT2-0547,NUTR-D2-2A-02,Open Evidence,,C,C,,,0
+CIT2-0548,NUTR-D2-2A-02,Open Evidence,,D,D,,,0
+CIT2-0549,NUTR-D2-2A-02,Open Evidence,,C,C,,,0
+CIT2-0550,NUTR-D2-2A-02,Open Evidence,,D,D,,,0
+CIT2-0551,NUTR-D2-2A-03,GPT-5.5,,A,A,,,0
+CIT2-0552,NUTR-D2-2A-03,GPT-5.5,,D,D,,,0
+CIT2-0553,NUTR-D2-2A-05,Sonar Reasoning Pro,https://www.eatrightpro.org/news-center/research-briefs/nutrition-interventions-for-malnutrition-in-older-adults,B,B,,,0
+CIT2-0554,NUTR-D2-2A-05,Sonar Reasoning Pro,https://bpac.org.nz/bpj/2011/may/elderly.aspx,B,B,,,0
+CIT2-0555,NUTR-D2-2A-05,Sonar Reasoning Pro,https://www.andeal.org/vault/pqnew187.pdf,B,B,,,0
+CIT2-0556,NUTR-D2-2A-05,Sonar Reasoning Pro,https://generations.asaging.org/malnutrition-elders-how-help/,F,F,,,0
+CIT2-0557,NUTR-D2-2A-05,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC8399049/,D,D,,,0
+CIT2-0558,NUTR-D2-2A-05,Sonar Reasoning Pro,https://www.smgg.es/wp-content/uploads/2025/07/desnutricion-en-adultos-mayores-articulo-junio-2025.pdf,?,F,article PDF of a Spanish professional society,Page content,0
+CIT2-0559,NUTR-D2-2A-05,Sonar Reasoning Pro,https://acl.gov/sites/default/files/nutrition/Malnutrition-Issue-Brief-ACL2017.pdf,?,D,"Administration for Community Living, fact sheets [reclassified: scientific publication, irrespective of PubMed indexing]",Page content,0
+CIT2-0560,NUTR-D2-2A-05,Sonar Reasoning Pro,https://www.ovid.com/journals/nejm/fulltext/10.1056/nejmra2412275~malnutrition-in-older-adults,?,D,"NEJM review, full-text link via Ovid",Page content,0
+CIT2-0561,NUTR-D2-2B-01,Open Evidence,,C,C,,,0
+CIT2-0562,NUTR-D2-2B-01,Open Evidence,,C,C,,,0
+CIT2-0563,NUTR-D2-2B-01,Open Evidence,,D,D,,,0
+CIT2-0564,NUTR-D2-2B-04,GPT-5.5,,A,A,,,0
+CIT2-0565,NUTR-D2-2B-04,GPT-5.5,,D,D,,,0
+CIT2-0567,NUTR-D2-2B-05,Sonar Reasoning Pro,https://services.nhslothian.scot/carehomes/wp-content/uploads/sites/31/2022/03/Mananging-Malnutrition-in-the-Care-Home-v2-2021.pdf,?,F,"local care pathway, NHS Lothian",Page content,0
+CIT2-0568,NUTR-D2-2B-05,Sonar Reasoning Pro,https://www.jstage.jst.go.jp/article/juoeh/46/2/46_227/_html/-char/en,?,D,Journal of UOEH via J-Stage,Page content,0
+CIT2-0569,NUTR-D2-2B-05,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC6678789/,D,D,,,0
+CIT2-0570,NUTR-D2-2B-05,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC12526267/,D,D,,,0
+CIT2-0571,NUTR-D2-2B-05,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC12880254/,D,D,,,0
+CIT2-0572,NUTR-D2-2B-05,Sonar Reasoning Pro,https://www.sgmays.org/the-role-of-nutrition-in-long-term-care/,?,F,care home operator,Page content,1
+CIT2-0573,NUTR-D2-2B-05,Sonar Reasoning Pro,https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1694&context=honors,D,D,,,0
+CIT2-0574,NUTR-D2-2B-05,Sonar Reasoning Pro,https://www.espen.org/files/ESPEN-Guidelines/ESPEN_guideline_on_hospital_nutrition.pdf,B,B,,,0
+CIT2-0575,NUTR-D2-2B-05,Sonar Reasoning Pro,https://www.ncbi.nlm.nih.gov/books/NBK225311/,D,D,,,0
+CIT2-0576,NUTR-D2-2B-05,Sonar Reasoning Pro,https://resource.medpro.com/preventing-malnutition-dehydration-seniorcare,?,F,"insurer, risk management",Page content,1
+CIT2-0577,NUTR-D2-2B-05,Sonar Reasoning Pro,https://www.shakerplace.org/news/nutritional-support-in-skilled-nursing-promoting-healing-and-recovery/,?,F,care home operator,Page content,1
+CIT2-0578,NUTR-D2-2B-05,Sonar Reasoning Pro,https://nursinghometruth.com/neglect/malnutrition-nursing-homes/,?,F,law firm advertising,Page content,1
+CIT2-0579,NUTR-D2-2B-05,Sonar Reasoning Pro,https://www.nursinghomelawcenter.org/nursing-home-neglect/malnutrition/,?,F,law firm advertising,Page content,1
+CIT2-0580,NUTR-D2-2B-05,Sonar Reasoning Pro,,A,A,,,0
+CIT2-0581,NUTR-D2-2B-05,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0582,NUTR-D2-2B-05,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0583,NUTR-D2-2B-05,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0584,NUTR-D2-3A-03,GPT-5.5,,A,A,,,0
+CIT2-0585,NUTR-D2-3A-03,GPT-5.5,,A*,A*,,,0
+CIT2-0586,NUTR-D2-3A-03,GPT-5.5,,D,D,,,0
+CIT2-0587,NUTR-D2-3A-04,Open Evidence,,C,C,,,0
+CIT2-0588,NUTR-D2-3A-04,Open Evidence,,C,C,,,0
+CIT2-0589,NUTR-D2-3A-04,Open Evidence,,D,D,,,0
+CIT2-0590,NUTR-D2-3A-04,Open Evidence,,D,D,,,0
+CIT2-0591,NUTR-D2-3A-04,Open Evidence,,D,D,,,0
+CIT2-0592,NUTR-D2-3A-04,Open Evidence,,C,C,,,0
+CIT2-0593,NUTR-D2-3A-05,Sonar Reasoning Pro,https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2023.1182445/full,D,D,,,0
+CIT2-0594,NUTR-D2-3A-05,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/abs/pii/S1568163711000900,D,D,,,0
+CIT2-0595,NUTR-D2-3A-05,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC11435358/,D,D,,,0
+CIT2-0596,NUTR-D2-3A-05,Sonar Reasoning Pro,https://www.centerwatch.com/clinical-trials/listings/NCT06781619/effect-of-plant-based-high-energy-high-protein-oral-nutritional-supplement-on-nutritional-intake-in-patients-with-or-at-risk-of-disease-related-malnutrition,?,F,trial listing,Page content,1
+CIT2-0597,NUTR-D2-3A-05,Sonar Reasoning Pro,https://www.bapen.org.uk/education/nutrition-support/nutrition-by-mouth/oral-nutritional-supplements-ons/,B,B,,,0
+CIT2-0598,NUTR-D2-3A-05,Sonar Reasoning Pro,https://austinpublishinggroup.com/nutrition-metabolism/fulltext/ajnm-v8-id1106.php,?,D,"Austin Publishing Group [reclassified: scientific publication, irrespective of PubMed indexing]",Page content,0
+CIT2-0599,NUTR-D2-3A-05,Sonar Reasoning Pro,https://www.malnutritionpathway.co.uk/library/ons.pdf,?,B,"Managing Adult Malnutrition, consensus pathway of British professional bodies",Page content,0
+CIT2-0600,NUTR-D2-3A-05,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC9066874/,D,D,,,0
+CIT2-0601,NUTR-D2-3A-05,Sonar Reasoning Pro,https://uat.nutritioncare.org/wp-content/uploads/2025/07/MAW-ONS-Practice-Tool-Clinician.pdf,B,B,,,0
+CIT2-0602,NUTR-D2-3A-05,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S1279770723004840,D,D,,,0
+CIT2-0603,NUTR-D2-3A-05,Sonar Reasoning Pro,https://www.ncbi.nlm.nih.gov/books/NBK109266/,D,D,,,0
+CIT2-0604,NUTR-D2-3A-05,Sonar Reasoning Pro,https://www.nestlemedicalhub.com/oral-nutrition-supplements-ons,?,F,"Nestle Health Science, product portal",Page content,1
+CIT2-0605,NUTR-D2-3B-01,Sonar Reasoning Pro,https://www.espen.org/files/ESPEN-Guidelines/ESPEN_practical_guideline_Clinical_nutrition_and_hydration_in_geriatrics.pdf,A,A*,"ESPEN practical guideline, short version",Page content,0
+CIT2-0606,NUTR-D2-3B-01,Sonar Reasoning Pro,https://www.andeal.org/vault/pqnew187.pdf,B,B,,,0
+CIT2-0607,NUTR-D2-3B-01,Sonar Reasoning Pro,https://bpac.org.nz/bpj/2011/may/elderly.aspx,B,B,,,0
+CIT2-0608,NUTR-D2-3B-01,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC8001033/,D,D,,,0
+CIT2-0609,NUTR-D2-3B-01,Sonar Reasoning Pro,https://www.isdi.org/adult-malnutrition-and-oral-nutritional-supplements/,B,B,,,0
+CIT2-0610,NUTR-D2-3B-01,Sonar Reasoning Pro,https://www.who.int/tools/elena/interventions/nutrition-older-people,B,B,,,0
+CIT2-0611,NUTR-D2-3B-01,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC11643944/,D,D,,,0
+CIT2-0612,NUTR-D2-3B-01,Sonar Reasoning Pro,https://www.jarlife.net/3993-nutritional-adequacy-and-oral-nutritional-supplementation-in-older-community-dwelling-adults.html,D,D,,,0
+CIT2-0613,NUTR-D2-3B-01,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S1525861021002978,D,D,,,0
+CIT2-0614,NUTR-D2-3B-01,Sonar Reasoning Pro,,A,A,,,0
+CIT2-0615,NUTR-D2-3B-03,GPT-5.5,,A,A,,,0
+CIT2-0616,NUTR-D2-3B-03,GPT-5.5,,D,D,,,0
+CIT2-0617,NUTR-D2-3B-04,Open Evidence,,C,C,,,0
+CIT2-0618,NUTR-D2-3B-04,Open Evidence,,C,C,,,0
+CIT2-0619,NUTR-D2-3B-04,Open Evidence,,D,D,,,0
+CIT2-0620,NUTR-D2-3B-04,Open Evidence,,D,D,,,0
+CIT2-0621,NUTR-D2-3B-04,Open Evidence,,D,D,,,0
+CIT2-0622,NUTR-D2-3B-04,Open Evidence,,D,D,,,0
+CIT2-0623,NUTR-D2-4A-01,Open Evidence,,B,B,,,0
+CIT2-0624,NUTR-D2-4A-01,Open Evidence,,C,C,,,0
+CIT2-0625,NUTR-D2-4A-01,Open Evidence,,C,C,,,0
+CIT2-0626,NUTR-D2-4A-01,Open Evidence,,D,D,,,0
+CIT2-0627,NUTR-D2-4A-01,Open Evidence,,D,D,,,0
+CIT2-0628,NUTR-D2-4A-01,Open Evidence,,D,D,,,0
+CIT2-0629,NUTR-D2-4A-02,Sonar Reasoning Pro,https://www.bda.uk.com/resource/dementia-and-diet.html,A,F,"BDA Food Fact Sheet, patient information",Page content,0
+CIT2-0630,NUTR-D2-4A-02,Sonar Reasoning Pro,https://www.bda.uk.com/resource/eating-and-drinking-difficulties-in-dementia.html,A,F,"BDA Food Fact Sheet, patient information",Page content,0
+CIT2-0631,NUTR-D2-4A-02,Sonar Reasoning Pro,https://aspe.hhs.gov/reports/examining-models-dementia-care-final-report-0,?,D,"ASPE commissioned research report, RTI International [reclassified: scientific publication, irrespective of PubMed indexing]",Page content,0
+CIT2-0632,NUTR-D2-4A-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC12157949/,D,D,,,0
+CIT2-0633,NUTR-D2-4A-02,Sonar Reasoning Pro,https://www.aldendesplaines.com/hydration-strategies-for-adults-with-dementia/,?,F,care home operator,Page content,1
+CIT2-0634,NUTR-D2-4A-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC11869813/,D,D,,,0
+CIT2-0635,NUTR-D2-4A-02,Sonar Reasoning Pro,https://www.alzint.org/resource/nutrition-and-dementia/,F,F,,,0
+CIT2-0636,NUTR-D2-4A-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC4855348/,D,D,,,0
+CIT2-0637,NUTR-D2-4A-02,Sonar Reasoning Pro,https://milkeninstitute.org/sites/default/files/2021-11/Comprehensive%20Dementia%20Care%20Models_Executive%20Summary.pdf,?,F,think tank report,Page content,0
+CIT2-0638,NUTR-D2-4A-02,Sonar Reasoning Pro,https://academic.oup.com/ageing/article/53/Supplement_2/ii30/7668921,D,D,,,0
+CIT2-0639,NUTR-D2-4A-02,Sonar Reasoning Pro,https://www.alzra.org/blog/what-to-do-if-dementia-patients-stop-eating/,F,F,,,0
+CIT2-0640,NUTR-D2-4A-02,Sonar Reasoning Pro,https://www.youtube.com/watch?v=bm10_-bNG7M,F,F,,,0
+CIT2-0641,NUTR-D2-4A-02,Sonar Reasoning Pro,https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2023.1266955/full,D,D,,,0
+CIT2-0642,NUTR-D2-4A-02,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S0261561424001468,D,D,,,0
+CIT2-0643,NUTR-D2-4A-02,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S1279770723005018,D,D,,,0
+CIT2-0644,NUTR-D2-4A-05,GPT-5.5,,A,A,,,0
+CIT2-0645,NUTR-D2-4A-05,GPT-5.5,,D,D,,,0
+CIT2-0646,NUTR-D2-4A-05,GPT-5.5,,D,D,,,0
+CIT2-0647,NUTR-D2-4B-01,Open Evidence,,C,C,,,0
+CIT2-0648,NUTR-D2-4B-01,Open Evidence,,B,B,,,0
+CIT2-0649,NUTR-D2-4B-01,Open Evidence,,C,C,,,0
+CIT2-0650,NUTR-D2-4B-01,Open Evidence,,D,D,,,0
+CIT2-0651,NUTR-D2-4B-01,Open Evidence,,B,B,,,0
+CIT2-0652,NUTR-D2-4B-01,Open Evidence,,B,B,,,0
+CIT2-0653,NUTR-D2-4B-01,Open Evidence,,B,B,,,0
+CIT2-0654,NUTR-D2-4B-01,Open Evidence,,C,C,,,0
+CIT2-0655,NUTR-D2-4B-02,GPT-5.5,,A,A,,,0
+CIT2-0656,NUTR-D2-4B-02,GPT-5.5,,B,B,,,0
+CIT2-0657,NUTR-D2-4B-02,GPT-5.5,,D,D,,,0
+CIT2-0658,NUTR-D2-4B-04,Sonar Reasoning Pro,https://www.caregiveraction.org/dehydration-in-dementia/,F,F,,,0
+CIT2-0659,NUTR-D2-4B-04,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S0261561424001468,D,D,,,0
+CIT2-0660,NUTR-D2-4B-04,Sonar Reasoning Pro,https://www.alzint.org/resource/nutrition-and-dementia/,F,F,,,0
+CIT2-0661,NUTR-D2-4B-04,Sonar Reasoning Pro,https://www.espen.org/documents/ESPEN_GL_Dementia_ClinNutr2015.pdf,A,A,,,0
+CIT2-0662,NUTR-D2-4B-04,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC6650688/,D,D,,,0
+CIT2-0663,NUTR-D2-4B-04,Sonar Reasoning Pro,https://member.dietitiansaustralia.org.au/Common/Uploaded%20files/DAA/Resource_Library/MHANDi/MHANDi_2.3_Dementia.pdf,B,B,,,0
+CIT2-0664,NUTR-D2-4B-04,Sonar Reasoning Pro,https://www.bda.uk.com/resource/dementia-and-diet.html,A,F,"BDA Food Fact Sheet, patient information",Page content,0
+CIT2-0665,NUTR-D2-4B-04,Sonar Reasoning Pro,https://alzheimer.ca/en/document/3750,F,F,,,0
+CIT2-0666,NUTR-D2-4B-04,Sonar Reasoning Pro,https://www.alz.org/help-support/caregiving/daily-care/food-eating,F,F,,,0
+CIT2-0667,NUTR-D2-4B-04,Sonar Reasoning Pro,https://www.alzra.org/blog/what-to-do-if-dementia-patients-stop-eating/,F,F,,,0
+CIT2-0668,NUTR-D2-4B-04,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC10657712/,D,D,,,0
+CIT2-0669,NUTR-D2-5A-01,Open Evidence,,B,B,,,0
+CIT2-0670,NUTR-D2-5A-01,Open Evidence,,B,B,,,0
+CIT2-0671,NUTR-D2-5A-01,Open Evidence,,B,B,,,0
+CIT2-0672,NUTR-D2-5A-01,Open Evidence,,D,D,,,0
+CIT2-0673,NUTR-D2-5A-01,Open Evidence,,C,C,,,0
+CIT2-0674,NUTR-D2-5A-01,Open Evidence,,D,D,,,0
+CIT2-0675,NUTR-D2-5A-01,Open Evidence,,D,D,,,0
+CIT2-0676,NUTR-D2-5A-04,GPT-5.5,,A,A,,,0
+CIT2-0677,NUTR-D2-5A-04,GPT-5.5,,D,D,,,0
+CIT2-0678,NUTR-D2-5A-04,GPT-5.5,,D,D,,,0
+CIT2-0680,NUTR-D2-5A-05,Sonar Reasoning Pro,https://www.droracle.ai/articles/193025/what-are-the-recommended-appetite-stimulants-for-elderly-patients,F,F,,,0
+CIT2-0681,NUTR-D2-5A-05,Sonar Reasoning Pro,https://www.droracle.ai/articles/743612/what-are-the-best-appetite-stimulant-options-for-a,F,F,,,0
+CIT2-0682,NUTR-D2-5A-05,Sonar Reasoning Pro,https://ispub.com/IJANP/11/1/9279,?,D,"Internet Scientific Publications [reclassified: scientific publication, irrespective of PubMed indexing]",Page content,0
+CIT2-0683,NUTR-D2-5A-05,Sonar Reasoning Pro,https://www.merckmanuals.com/en-ca/professional/nutritional-disorders/nutritional-support/nutritional-support-for-patients-who-are-dying-or-have-severe-dementia,F,F,,,0
+CIT2-0684,NUTR-D2-5A-05,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC6850597/,D,D,,,0
+CIT2-0685,NUTR-D2-5A-05,Sonar Reasoning Pro,https://www.mdedge.com/familymedicine/article/62827/geriatrics/should-we-use-appetite-stimulants-malnourished-elderly,B,B,,,0
+CIT2-0686,NUTR-D2-5A-05,Sonar Reasoning Pro,https://www.ouhealth.com/documents/7.4-Dietary-Measures-to-Prevent-Weight-Loss-in-Dementia.pdf,F,F,,,0
+CIT2-0687,NUTR-D2-5A-05,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC3164780/,D,D,,,0
+CIT2-0688,NUTR-D2-5A-05,Sonar Reasoning Pro,https://www.caringfortheages.com/article/S1526-4114(23,?,F,AMDA association newspaper,Page content,0
+CIT2-0689,NUTR-D2-5A-05,Sonar Reasoning Pro,https://www.betterrx.com/en/blog/clinical-resource-guide-appetite-stimulants,?,F,hospice medication provider,Page content,1
+CIT2-0690,NUTR-D2-5A-05,Sonar Reasoning Pro,https://agec.uams.edu/weightlossmgmt/,D,D,,,0
+CIT2-0691,NUTR-D2-5A-05,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC5921190/,D,D,,,0
+CIT2-0692,NUTR-D2-5A-05,Sonar Reasoning Pro,https://www.nccdp.org/dementia-and-increased-appetite-how-to-manage-sudden-overeating/,B,B,,,0
+CIT2-0693,NUTR-D2-5A-05,Sonar Reasoning Pro,,A,A,,,0
+CIT2-0694,NUTR-D2-5A-05,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0695,NUTR-D2-5A-05,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0696,NUTR-D2-5A-05,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0697,NUTR-D2-5A-05,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0698,NUTR-D2-5A-05,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0699,NUTR-D2-5A-05,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0700,NUTR-D2-5B-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC5921190/,D,D,,,0
+CIT2-0702,NUTR-D2-5B-02,Sonar Reasoning Pro,https://www.merckmanuals.com/en-ca/professional/nutritional-disorders/nutritional-support/nutritional-support-for-patients-who-are-dying-or-have-severe-dementia,F,F,,,0
+CIT2-0703,NUTR-D2-5B-02,Sonar Reasoning Pro,https://www.ouhealth.com/documents/7.4-Dietary-Measures-to-Prevent-Weight-Loss-in-Dementia.pdf,F,F,,,0
+CIT2-0704,NUTR-D2-5B-02,Sonar Reasoning Pro,https://www.droracle.ai/articles/796649/what-medications-can-be-used-to-increase-appetite-in,F,F,,,0
+CIT2-0705,NUTR-D2-5B-02,Sonar Reasoning Pro,https://www.droracle.ai/articles/525440/what-medications-can-stimulate-appetite-in-patients-with-decreased,F,F,,,0
+CIT2-0706,NUTR-D2-5B-02,Sonar Reasoning Pro,https://www.droracle.ai/articles/193025/what-are-the-recommended-appetite-stimulants-for-elderly-patients,F,F,,,0
+CIT2-0707,NUTR-D2-5B-02,Sonar Reasoning Pro,https://cfps.org.sg/publications/the-singapore-family-physician/article/2001_pdf,?,D,"The Singapore Family Physician [reclassified: scientific publication, irrespective of PubMed indexing]",Page content,0
+CIT2-0708,NUTR-D2-5B-02,Sonar Reasoning Pro,https://www.betterrx.com/en/blog/clinical-resource-guide-appetite-stimulants,?,F,hospice medication provider,Page content,1
+CIT2-0709,NUTR-D2-5B-02,Sonar Reasoning Pro,https://agec.uams.edu/weightlossmgmt/,D,D,,,0
+CIT2-0710,NUTR-D2-5B-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC3164780/,D,D,,,0
+CIT2-0711,NUTR-D2-5B-02,Sonar Reasoning Pro,https://www.hmpgloballearningnetwork.com/site/altc/content/strategies-improving-care-patients-with-advanced-dementia-and-eating-problems-full-title-bel,F,F,,,0
+CIT2-0712,NUTR-D2-5B-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC6850597/,D,D,,,0
+CIT2-0713,NUTR-D2-5B-02,Sonar Reasoning Pro,https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia,F,F,,,0
+CIT2-0714,NUTR-D2-5B-02,Sonar Reasoning Pro,https://www.alz.org/help-support/caregiving/daily-care/food-eating,F,F,,,0
+CIT2-0715,NUTR-D2-5B-02,Sonar Reasoning Pro,https://www.facebook.com/groups/alzheimershelpandsupport/posts/1309914974331689/,F,F,,,0
+CIT2-0716,NUTR-D2-5B-02,Sonar Reasoning Pro,,A,A,,,0
+CIT2-0717,NUTR-D2-5B-03,Open Evidence,,B,B,,,0
+CIT2-0718,NUTR-D2-5B-03,Open Evidence,,B,B,,,0
+CIT2-0719,NUTR-D2-5B-03,Open Evidence,,D,D,,,0
+CIT2-0720,NUTR-D2-5B-03,Open Evidence,,D,D,,,0
+CIT2-0721,NUTR-D2-5B-03,Open Evidence,,D,D,,,0
+CIT2-0722,NUTR-D2-5B-03,Open Evidence,,D,D,,,0
+CIT2-0723,NUTR-D2-5B-03,Open Evidence,,C,C,,,0
+CIT2-0724,NUTR-D2-5B-03,Open Evidence,,C,C,,,0
+CIT2-0725,NUTR-D2-5B-05,GPT-5.5,,A,A,,,0
+CIT2-0726,NUTR-D2-5B-05,GPT-5.5,,D,D,,,0
+CIT2-0727,NUTR-D2-5B-05,GPT-5.5,,D,D,,,0
+CIT2-0728,NUTR-D2-5B-05,GPT-5.5,,D,D,,,0
+CIT2-0729,NUTR-D2-6A-01,Open Evidence,,B,B,,,0
+CIT2-0730,NUTR-D2-6A-01,Open Evidence,,D,D,,,0
+CIT2-0731,NUTR-D2-6A-01,Open Evidence,,D,D,,,0
+CIT2-0732,NUTR-D2-6A-01,Open Evidence,,D,D,,,0
+CIT2-0733,NUTR-D2-6A-01,Open Evidence,,D,D,,,0
+CIT2-0734,NUTR-D2-6A-01,Open Evidence,,D,D,,,0
+CIT2-0735,NUTR-D2-6A-02,Sonar Reasoning Pro,https://www.alzint.org/resource/nutrition-and-dementia/,F,F,,,0
+CIT2-0736,NUTR-D2-6A-02,Sonar Reasoning Pro,https://www.bda.uk.com/resource/dementia-and-diet.html,A,F,"BDA Food Fact Sheet, patient information",Page content,0
+CIT2-0737,NUTR-D2-6A-02,Sonar Reasoning Pro,https://www.aafp.org/afp/2020/0301/p272,B,B,,,0
+CIT2-0738,NUTR-D2-6A-02,Sonar Reasoning Pro,https://academic.oup.com/ageing/article/53/Supplement_2/ii30/7668921,D,D,,,0
+CIT2-0739,NUTR-D2-6A-02,Sonar Reasoning Pro,https://alzheimer.ca/en/document/3750,F,F,,,0
+CIT2-0740,NUTR-D2-6A-02,Sonar Reasoning Pro,https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-and-cognitive-function-dementia-and-alzheimers-disease-science,F,F,,,0
+CIT2-0741,NUTR-D2-6A-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC8912288/,D,D,,,0
+CIT2-0742,NUTR-D2-6A-02,Sonar Reasoning Pro,https://pubmed.ncbi.nlm.nih.gov/26522922/,D,D,,,0
+CIT2-0743,NUTR-D2-6A-02,Sonar Reasoning Pro,https://careforth.com/blog/what-are-the-best-vitamins-for-dementia-patients-11-vitamins-minerals-and-herbs-to-improve-well-being-0/,?,F,home care provider,Page content,1
+CIT2-0744,NUTR-D2-6A-02,Sonar Reasoning Pro,https://lpi.oregonstate.edu/mic/health-disease/alzheimer-disease,F,F,,,0
+CIT2-0745,NUTR-D2-6A-02,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S0261561424001468,D,D,,,0
+CIT2-0746,NUTR-D2-6A-02,Sonar Reasoning Pro,https://www.alz.org/news/2022/daily-multivitamin-slows-cognitive-aging-in-three-year-study-published-in-em-alzheimer-s-dementia,F,F,,,0
+CIT2-0747,NUTR-D2-6A-02,Sonar Reasoning Pro,https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease,F,F,,,0
+CIT2-0748,NUTR-D2-6A-02,Sonar Reasoning Pro,https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.12404,D,D,,,0
+CIT2-0749,NUTR-D2-6A-02,Sonar Reasoning Pro,https://www.goodrx.com/conditions/dementia/supplements-for-dementia,?,F,commercial health portal,Page content,1
+CIT2-0750,NUTR-D2-6A-04,GPT-5.5,,A,A,,,0
+CIT2-0751,NUTR-D2-6A-04,GPT-5.5,,D,D,,,0
+CIT2-0752,NUTR-D2-6B-02,Open Evidence,,B,B,,,0
+CIT2-0753,NUTR-D2-6B-02,Open Evidence,,D,D,,,0
+CIT2-0754,NUTR-D2-6B-02,Open Evidence,,D,D,,,0
+CIT2-0755,NUTR-D2-6B-02,Open Evidence,,D,D,,,0
+CIT2-0756,NUTR-D2-6B-02,Open Evidence,,C,C,,,0
+CIT2-0757,NUTR-D2-6B-04,Sonar Reasoning Pro,https://thebristal.com/blog/low-energy-and-alzheimers-overcoming-dementia-fatigue/,F,F,,,0
+CIT2-0758,NUTR-D2-6B-04,Sonar Reasoning Pro,https://www.aapa.org/education/clinical-resource-library/nps-toolkit/nonpharmacologic-interventions-for-nps/,?,F,"toolkit page, not a guideline",Page content,0
+CIT2-0759,NUTR-D2-6B-04,Sonar Reasoning Pro,https://www.bda.uk.com/resource/dementia-and-diet.html,A,F,"BDA Food Fact Sheet, patient information",Page content,0
+CIT2-0760,NUTR-D2-6B-04,Sonar Reasoning Pro,https://www.barrowneuro.org/for-physicians-researchers/education/grand-rounds-publications-media/barrow-quarterly/volume-22-issue-1-2006/nonpharmacological-interventions-for-use-in-dementia/,?,F,in-house magazine of a hospital,Page content,0
+CIT2-0761,NUTR-D2-6B-04,Sonar Reasoning Pro,https://www.lovedayandco.com/knowledge-hub/supplements-for-dementia/,?,F,care provider,Page content,1
+CIT2-0762,NUTR-D2-6B-04,Sonar Reasoning Pro,https://www.alzheimers.org.uk/about-dementia/treatments/dementia-medication/non-drug-approaches-changes-mood-and-behaviour,F,F,,,0
+CIT2-0763,NUTR-D2-6B-04,Sonar Reasoning Pro,https://neuraleffects.com/blog/dementia-treatment-options/,?,F,provider blog,Page content,1
+CIT2-0764,NUTR-D2-6B-04,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC6140014/,D,D,,,0
+CIT2-0765,NUTR-D2-6B-04,Sonar Reasoning Pro,https://www.nccdp.org/best-foods-for-dementia-patients-to-eat-guide-for-caregivers/,F,F,,,0
+CIT2-0766,NUTR-D2-6B-04,Sonar Reasoning Pro,https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2025.1527242/full,D,D,,,0
+CIT2-0767,NUTR-D2-6B-04,Sonar Reasoning Pro,https://www.nccih.nih.gov/health/providers/digest/dietary-supplements-and-cognitive-function-dementia-and-alzheimers-disease-science,F,F,,,0
+CIT2-0768,NUTR-D2-6B-04,Sonar Reasoning Pro,https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/nonpharmacological-interventions-in-dementia/CB4C6A081FFB24A29106998463D8D8BC,D,D,,,0
+CIT2-0769,NUTR-D2-6B-04,Sonar Reasoning Pro,https://www.goodrx.com/conditions/dementia/supplements-for-dementia,?,F,commercial health portal,Page content,1
+CIT2-0770,NUTR-D2-6B-04,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S2274580724006423,D,D,,,0
+CIT2-0771,NUTR-D2-6B-04,Sonar Reasoning Pro,https://patient.uwhealth.org/education/supplements-to-treat-alzheimers-disease-dementia,F,F,,,0
+CIT2-0772,NUTR-D2-6B-05,GPT-5.5,,A,A,,,0
+CIT2-0773,NUTR-D2-6B-05,GPT-5.5,,B,B,,,0
+CIT2-0774,NUTR-D2-6B-05,GPT-5.5,,D,D,,,0
+CIT2-0775,NUTR-D2-6B-05,GPT-5.5,,D,D,,,0
+CIT2-0776,NUTR-D2-7A-01,Sonar Reasoning Pro,https://www.espen.org/files/ESPEN-Guidelines/ESPEN_guideline_on_nutritional_support_for_polymorbid_medical_in_patients.pdf,A,A,,,0
+CIT2-0777,NUTR-D2-7A-01,Sonar Reasoning Pro,https://www.cambridge.org/core/services/aop-cambridge-core/content/view/15814C9FE7CDF249B11FEC9A4B0BA803/S0029665124004695a.pdf/managing-malnutrition-and-multimorbidity-in-primary-care-dietary-approaches-to-reduce-treatment-burden.pdf,D,D,,,0
+CIT2-0778,NUTR-D2-7A-01,Sonar Reasoning Pro,https://kclpure.kcl.ac.uk/ws/files/74502190/ESPEN_guidelines_on_nutritional_GOMES_Publishedonline24July2017_GREEN_AAM_CC_BY_NC_ND_.pdf,B,B,,,0
+CIT2-0779,NUTR-D2-7A-01,Sonar Reasoning Pro,https://clinicalnutrition.science/cms/upload/dateien/NutriBib/4_Nutritional_Therapy/2023_Guideline_Polymorbid_algorithm_overall.pdf,?,B,"NutriBib, guideline collection",Page content,0
+CIT2-0780,NUTR-D2-7A-01,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/abs/pii/S0261561424000086,D,D,,,0
+CIT2-0781,NUTR-D2-7A-01,Sonar Reasoning Pro,https://www.linkedin.com/posts/abbott-nutrition-health-institute_espen-guidelines-on-nutritional-support-for-activity-7165759407279067137-PGXt,B,B,,,0
+CIT2-0782,NUTR-D2-7A-01,Sonar Reasoning Pro,https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2755665,D,D,,,0
+CIT2-0783,NUTR-D2-7A-03,GPT-5.5,,A,A,,,0
+CIT2-0784,NUTR-D2-7A-03,GPT-5.5,,D,D,,,0
+CIT2-0785,NUTR-D2-7A-03,GPT-5.5,,D,D,,,0
+CIT2-0786,NUTR-D2-7A-03,GPT-5.5,,D,D,,,0
+CIT2-0787,NUTR-D2-7B-01,GPT-5.5,,A,A,,,0
+CIT2-0788,NUTR-D2-7B-01,GPT-5.5,,B,B,,,0
+CIT2-0789,NUTR-D2-7B-01,GPT-5.5,,D,D,,,0
+CIT2-0790,NUTR-D2-7B-01,GPT-5.5,,D,D,,,0
+CIT2-0791,NUTR-D2-7B-03,Open Evidence,,D,D,,,0
+CIT2-0792,NUTR-D2-7B-03,Open Evidence,,C,C,,,0
+CIT2-0793,NUTR-D2-7B-03,Open Evidence,,C,C,,,0
+CIT2-0794,NUTR-D2-7B-03,Open Evidence,,D,D,,,0
+CIT2-0795,NUTR-D2-7B-03,Open Evidence,,C,C,,,0
+CIT2-0796,NUTR-D2-7B-03,Open Evidence,,D,D,,,0
+CIT2-0797,NUTR-D2-7B-03,Open Evidence,,D,D,,,0
+CIT2-0798,NUTR-D2-7B-05,Sonar Reasoning Pro,https://www.thelancet.com/journals/lanhl/article/PIIS2666-7568(22,D,D,,,0
+CIT2-0799,NUTR-D2-7B-05,Sonar Reasoning Pro,https://www.todaysgeriatricmedicine.com/archive/071708pf.shtml,?,F,trade magazine,Page content,0
+CIT2-0800,NUTR-D2-7B-05,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC9574861/,D,D,,,0
+CIT2-0801,NUTR-D2-7B-05,Sonar Reasoning Pro,https://ifnmujournal.com/gmj/article/view/e-GMJ2025-A04,?,D,"Galician Medical Journal [reclassified: scientific publication, irrespective of PubMed indexing]",Page content,0
+CIT2-0802,NUTR-D2-7B-05,Sonar Reasoning Pro,https://www.healthinaging.org/tools-and-tips/ask-expert-tube-feeding-and-alternatives-older-adults-advanced-dementia,?,F,"AGS foundation, patient information",Page content,0
+CIT2-0803,NUTR-D2-7B-05,Sonar Reasoning Pro,https://www.espen.org/files/ESPEN-Guidelines/ESPEN_practical_guideline_Clinical_nutrition_and_hydration_in_geriatrics.pdf,B,B,,,0
+CIT2-0804,NUTR-D2-7B-05,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC10087699/,D,D,,,0
+CIT2-0805,NUTR-D2-7B-05,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC11265322/,D,D,,,0
+CIT2-0806,NUTR-D2-7B-05,Sonar Reasoning Pro,https://www.andeal.org/topic.cfm?menu=6064,B,B,,,0
+CIT2-0807,NUTR-D2-7B-05,Sonar Reasoning Pro,,B,B,,,0
+CIT2-0808,NUTR-D2-7B-05,Sonar Reasoning Pro,https://www.ncbi.nlm.nih.gov/books/NBK532876/,D,D,,,0
+CIT2-0809,NUTR-D2-7B-05,Sonar Reasoning Pro,https://uat.nutritioncare.org/wp-content/uploads/2025/07/MAW-ONS-Practice-Tool-Clinician.pdf,B,B,,,0
+CIT2-0810,NUTR-D2-7B-05,Sonar Reasoning Pro,https://www.isdi.org/adult-malnutrition-and-oral-nutritional-supplements/,B,B,,,0
+CIT2-0811,NUTR-D2-7B-05,Sonar Reasoning Pro,https://aspenjournals.onlinelibrary.wiley.com/doi/10.1177/0884533611405794,D,D,,,0
+CIT2-0812,NUTR-D2-7B-05,Sonar Reasoning Pro,https://www.ncbi.nlm.nih.gov/books/NBK225301/,D,D,,,0
+CIT2-0813,NUTR-D2-7B-05,Sonar Reasoning Pro,,B,B,,,0
+CIT2-0814,NUTR-D2-7B-05,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0815,NUTR-D2-8A-02,GPT-5.5,,A,A,,,0
+CIT2-0816,NUTR-D2-8A-03,Sonar Reasoning Pro,https://www.nespen.nl/wp-content/uploads/2022/04/2018_Nutritional-support-for-polymorbid-internal-medicine-patients.pdf,A,A,,,0
+CIT2-0817,NUTR-D2-8A-03,Sonar Reasoning Pro,https://nutritioncare.org/wp-content/uploads/2024/12/Protein-Supplement-For-Long-Term-Care-Patients.pdf,F,F,,,0
+CIT2-0818,NUTR-D2-8A-03,Sonar Reasoning Pro,https://www.mdanderson.org/cancerwise/how-much-protein-do-i-need-a-dietitian-answers.h00-159781179.html,?,F,hospital blog,Page content,0
+CIT2-0819,NUTR-D2-8A-03,Sonar Reasoning Pro,https://www.health.harvard.edu/blog/how-much-protein-do-you-need-every-day-201506188096,D,D,,,0
+CIT2-0820,NUTR-D2-8A-03,Sonar Reasoning Pro,https://boris-portal.unibe.ch/bitstreams/ba26b0bf-60c5-4fc8-9b23-d75d96aed71f/download,D,D,,,0
+CIT2-0821,NUTR-D2-8A-03,Sonar Reasoning Pro,https://www.espen.org/files/ESPEN-Guidelines/ESPEN_guideline_on_nutritional_support_for_polymorbid_medical_in_patients.pdf,A,A,,,0
+CIT2-0822,NUTR-D2-8A-03,Sonar Reasoning Pro,https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/are-you-getting-too-much-protein,F,F,,,0
+CIT2-0823,NUTR-D2-8A-03,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S026156142300208X,D,D,,,0
+CIT2-0824,NUTR-D2-8A-04,Open Evidence,,C,C,,,0
+CIT2-0825,NUTR-D2-8A-04,Open Evidence,,D,D,,,0
+CIT2-0826,NUTR-D2-8A-04,Open Evidence,,D,D,,,0
+CIT2-0827,NUTR-D2-8A-04,Open Evidence,,D,D,,,0
+CIT2-0828,NUTR-D2-8A-04,Open Evidence,,B,B,,,0
+CIT2-0829,NUTR-D2-8A-04,Open Evidence,,C,C,,,0
+CIT2-0830,NUTR-D2-8A-04,Open Evidence,,B,B,,,0
+CIT2-0831,NUTR-D2-8B-01,Sonar Reasoning Pro,https://www.espen.org/files/ESPEN-Guidelines/ESPEN_guideline_on_hospital_nutrition.pdf,B,B,,,0
+CIT2-0832,NUTR-D2-8B-01,Sonar Reasoning Pro,https://www.espen.org/files/ESPEN-Guidelines/ESPEN_practical_guideline_Clinical_nutrition_and_hydration_in_geriatrics.pdf,B,B,,,0
+CIT2-0833,NUTR-D2-8B-01,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC8880030/,D,D,,,0
+CIT2-0834,NUTR-D2-8B-01,Sonar Reasoning Pro,https://www.has-sante.fr/upload/docs/application/pdf/malnutrition_elderly_quick_ref_guide.pdf,?,B,"Haute Autorite de Sante, national malnutrition guideline",Page content,0
+CIT2-0835,NUTR-D2-8B-01,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC8399049/,D,D,,,0
+CIT2-0836,NUTR-D2-8B-01,Sonar Reasoning Pro,https://acl.gov/sites/default/files/nutrition/Malnutrition-Issue-Brief-ACL2017.pdf,?,D,"Administration for Community Living, fact sheets [reclassified: scientific publication, irrespective of PubMed indexing]",Page content,0
+CIT2-0837,NUTR-D2-8B-01,Sonar Reasoning Pro,https://bpac.org.nz/bpj/2011/may/elderly.aspx,B,B,,,0
+CIT2-0838,NUTR-D2-8B-01,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC6678789/,D,D,,,0
+CIT2-0839,NUTR-D2-8B-01,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC9545538/,D,D,,,0
+CIT2-0840,NUTR-D2-8B-01,Sonar Reasoning Pro,https://extension.oregonstate.edu/catalog/pub/pnw-767-nutrition-older-adults,D,D,,,0
+CIT2-0841,NUTR-D2-8B-01,Sonar Reasoning Pro,https://www.ncoa.org/article/8-ways-to-help-older-adults-boost-their-nutrition/,F,F,,,0
+CIT2-0842,NUTR-D2-8B-03,GPT-5.5,,B,B,,,0
+CIT2-0843,NUTR-D2-8B-03,GPT-5.5,,A,A,,,0
+CIT2-0844,NUTR-D2-8B-03,GPT-5.5,,B,B,,,0
+CIT2-0845,NUTR-D2-8B-05,Open Evidence,,C,C,,,0
+CIT2-0846,NUTR-D2-8B-05,Open Evidence,,C,C,,,0
+CIT2-0847,NUTR-D2-8B-05,Open Evidence,,C,C,,,0
+CIT2-0848,NUTR-D2-8B-05,Open Evidence,,D,D,,,0
+CIT2-0849,NUTR-D2-9A-01,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/abs/pii/S1525861010004019,D,D,,,0
+CIT2-0850,NUTR-D2-9A-01,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC6722626/,D,D,,,0
+CIT2-0851,NUTR-D2-9A-01,Sonar Reasoning Pro,https://pubmed.ncbi.nlm.nih.gov/21527171/,D,D,,,0
+CIT2-0852,NUTR-D2-9A-01,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC12888403/,D,D,,,0
+CIT2-0853,NUTR-D2-9A-01,Sonar Reasoning Pro,https://www.espen.org/files/ESPEN-Guidelines/ESPEN-practical-guideline-Nutritional-support-for-polymorbid-medical-inpatients.pdf,A,A*,"ESPEN practical guideline, short version",Page content,0
+CIT2-0854,NUTR-D2-9A-01,Sonar Reasoning Pro,https://www.andeal.org/topic.cfm?menu=6064,B,B,,,0
+CIT2-0855,NUTR-D2-9A-01,Sonar Reasoning Pro,https://www.nespen.nl/wp-content/uploads/2022/04/2018_Nutritional-support-for-polymorbid-internal-medicine-patients.pdf,A,A,,,0
+CIT2-0856,NUTR-D2-9A-01,Sonar Reasoning Pro,https://www.jnursinghomeresearch.com/2580-never-too-early-parenteral-nutrition-administration-in-elderly-emergency-general-surgery-patients.html,?,D,"Journal of Nursing Home Research [reclassified: scientific publication, irrespective of PubMed indexing]",Page content,0
+CIT2-0857,NUTR-D2-9A-01,Sonar Reasoning Pro,https://pubmed.ncbi.nlm.nih.gov/36209627/,D,D,,,0
+CIT2-0858,NUTR-D2-9A-01,Sonar Reasoning Pro,https://e-cnr.org/DOIx.php?id=10.7762%2Fcnr.2025.14.2.91,?,D,"Clinical Nutrition Research, PMID 40386660",PubMed query,0
+CIT2-0859,NUTR-D2-9A-01,Sonar Reasoning Pro,https://www.espen.org/files/ESPEN-Guidelines/ESPEN_guideline_on_nutritional_support_for_polymorbid_medical_in_patients.pdf,A,A,,,0
+CIT2-0860,NUTR-D2-9A-01,Sonar Reasoning Pro,https://ctv.veeva.com/study/effect-of-continued-nutritional-support-at-hospital-discharge-on-mortality-frailty-functional-outc,?,F,trial listing,Page content,1
+CIT2-0861,NUTR-D2-9A-01,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S026156142300208X,D,D,,,0
+CIT2-0862,NUTR-D2-9A-01,Sonar Reasoning Pro,https://jdc.jefferson.edu/mphcapstone_presentation/270/,D,D,,,0
+CIT2-0863,NUTR-D2-9A-02,GPT-5.5,,A,A,,,0
+CIT2-0864,NUTR-D2-9A-02,GPT-5.5,,D,D,,,0
+CIT2-0865,NUTR-D2-9A-02,GPT-5.5,,D,D,,,0
+CIT2-0866,NUTR-D2-9A-05,Open Evidence,,D,D,,,0
+CIT2-0867,NUTR-D2-9A-05,Open Evidence,,C,C,,,0
+CIT2-0868,NUTR-D2-9A-05,Open Evidence,,D,D,,,0
+CIT2-0869,NUTR-D2-9A-05,Open Evidence,,C,C,,,0
+CIT2-0870,NUTR-D2-9A-05,Open Evidence,,B,B,,,0
+CIT2-0871,NUTR-D2-9A-05,Open Evidence,,C,C,,,0
+CIT2-0872,NUTR-D2-9A-05,Open Evidence,,D,D,,,0
+CIT2-0873,NUTR-D2-9B-01,Sonar Reasoning Pro,https://nutritioncare.org/wp-content/uploads/2024/12/Discharge-Planning-Interventions-Patients-with-Malnutrition.pdf,F,F,,,0
+CIT2-0874,NUTR-D2-9B-01,Sonar Reasoning Pro,https://primarycare.northeastlondon.icb.nhs.uk/wp-content/uploads/2024/03/Oral-nutritional-supplements-ONS-guideline-adults-NEL_02.2024.pdf,F,F,,,0
+CIT2-0875,NUTR-D2-9B-01,Sonar Reasoning Pro,https://malnutritionquality.org/wp-content/uploads/Toolkit_Discharge.pdf,B,B,,,0
+CIT2-0876,NUTR-D2-9B-01,Sonar Reasoning Pro,https://www.nottsapc.nhs.uk/media/shtncr35/sip-feeds-full-guideline.pdf,F,F,,,0
+CIT2-0877,NUTR-D2-9B-01,Sonar Reasoning Pro,https://defeatmalnutrition.today/wp-content/uploads/2023/05/DMT_CMS_Discharge_Planning_Comments_Final_revised.pdf,?,F,statement of a campaign coalition,Page content,0
+CIT2-0878,NUTR-D2-9B-01,Sonar Reasoning Pro,https://www.malnutritionpathway.co.uk/library/ons_pathway.pdf,?,B,"Managing Adult Malnutrition, consensus pathway of British professional bodies",Page content,0
+CIT2-0879,NUTR-D2-9B-01,Sonar Reasoning Pro,https://www.jarlife.net/1020-nutritional-follow-up-after-discharge-of-malnourished-geriatric-patients-design-of-a-randomized-clinical-study.html,D,D,,,0
+CIT2-0880,NUTR-D2-9B-01,Sonar Reasoning Pro,https://pubmed.ncbi.nlm.nih.gov/32563598/,D,D,,,0
+CIT2-0881,NUTR-D2-9B-01,Sonar Reasoning Pro,https://gfs.com/en-us/ideas/nutritions-vital-role-in-discharge-planning/,?,F,food wholesaler,Page content,1
+CIT2-0882,NUTR-D2-9B-01,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S0261561423001425,D,D,,,0
+CIT2-0883,NUTR-D2-9B-01,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC5872216/,D,D,,,0
+CIT2-0884,NUTR-D2-9B-01,Sonar Reasoning Pro,https://www.proconnect.abbott/content/dam/an/hcpproconnect/uk/en/resource-content/CS%2080048%20Gabriella%20FINAL_tcm1411-57929.pdf.coredownload.pdf,?,F,"Abbott, manufacturer portal",Page content,1
+CIT2-0885,NUTR-D2-9B-01,Sonar Reasoning Pro,https://www.ohioafp.org/wfmu-article/the-importance-of-nutrition-discharge-plans/,?,F,association article,Page content,0
+CIT2-0886,NUTR-D2-9B-01,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S0261561426000579,D,D,,,0
+CIT2-0887,NUTR-D2-9B-01,Sonar Reasoning Pro,https://jdc.jefferson.edu/cgi/viewcontent.cgi?article=1255&context=mphcapstone_presentation&filename=0&type=additional,D,D,,,0
+CIT2-0888,NUTR-D2-9B-03,GPT-5.5,,A,A,,,0
+CIT2-0889,NUTR-D2-9B-03,GPT-5.5,,B,B,,,0
+CIT2-0890,NUTR-D2-9B-03,GPT-5.5,,D,D,,,0
+CIT2-0891,NUTR-D2-9B-04,Open Evidence,,D,D,,,0
+CIT2-0892,NUTR-D2-9B-04,Open Evidence,,C,C,,,0
+CIT2-0893,NUTR-D2-9B-04,Open Evidence,,C,C,,,0
+CIT2-0894,NUTR-D2-9B-04,Open Evidence,,B,B,,,0
+CIT2-0895,NUTR-D2-9B-04,Open Evidence,,C,C,,,0
+CIT2-0896,NUTR-D2-9B-04,Open Evidence,,D,D,,,0
+CIT2-0897,NUTR-D2-10A-01,GPT-5.5,,A,A,,,0
+CIT2-0898,NUTR-D2-10A-01,GPT-5.5,,D,D,,,0
+CIT2-0899,NUTR-D2-10A-01,GPT-5.5,,D,D,,,0
+CIT2-0900,NUTR-D2-10A-03,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC6678789/,D,D,,,0
+CIT2-0901,NUTR-D2-10A-03,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC12526267/,D,D,,,0
+CIT2-0902,NUTR-D2-10A-03,Sonar Reasoning Pro,https://bpac.org.nz/bpj/2011/may/elderly.aspx,B,B,,,0
+CIT2-0903,NUTR-D2-10A-03,Sonar Reasoning Pro,http://www.mealsonwheelsamerica.org/research/addressing-malnutrition-in-older-adults-during-care-transition/,?,F,service organisation,Page content,0
+CIT2-0904,NUTR-D2-10A-03,Sonar Reasoning Pro,https://www.eatrightpro.org/news-center/research-briefs/nutrition-interventions-for-malnutrition-in-older-adults,B,B,,,0
+CIT2-0905,NUTR-D2-10A-03,Sonar Reasoning Pro,https://generations.asaging.org/malnutrition-elders-how-help/,F,F,,,0
+CIT2-0906,NUTR-D2-10A-03,Sonar Reasoning Pro,https://www.andeal.org/files/files/MiOA/84_MOA_Community_PractitionerGuide0116.pdf,B,B,,,0
+CIT2-0907,NUTR-D2-10A-03,Sonar Reasoning Pro,https://www.hebrewseniorlife.org/blog/how-prevent-malnutrition-older-adults,F,F,,,0
+CIT2-0908,NUTR-D2-10A-03,Sonar Reasoning Pro,https://extension.oregonstate.edu/catalog/pub/pnw-767-nutrition-older-adults,D,D,,,0
+CIT2-0909,NUTR-D2-10A-03,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S1568163721001483,D,D,,,0
+CIT2-0910,NUTR-D2-10A-05,Open Evidence,,C,C,,,0
+CIT2-0911,NUTR-D2-10A-05,Open Evidence,,C,C,,,0
+CIT2-0912,NUTR-D2-10A-05,Open Evidence,,D,D,,,0
+CIT2-0913,NUTR-D2-10A-05,Open Evidence,,D,D,,,0
+CIT2-0914,NUTR-D2-10A-05,Open Evidence,,B,B,,,0
+CIT2-0915,NUTR-D2-10B-01,Sonar Reasoning Pro,https://www.bgs.org.uk/dysphagia-management-for-older-people,B,B,,,0
+CIT2-0916,NUTR-D2-10B-01,Sonar Reasoning Pro,https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/6-swallowing-nutrition-and-oral-care,?,B,Canadian Stroke Best Practice Recommendations,Page content,0
+CIT2-0917,NUTR-D2-10B-01,Sonar Reasoning Pro,https://www.hebrewseniorlife.org/blog/dysphagia-seniors-what-it-and-what-you-should-know,F,F,,,0
+CIT2-0918,NUTR-D2-10B-01,Sonar Reasoning Pro,https://www.medbridge.com/blog/treating-aging-swallow-one-size-not-fit,?,F,continuing education provider,Page content,1
+CIT2-0919,NUTR-D2-10B-01,Sonar Reasoning Pro,https://www.agingcare.com/articles/dysphagia-how-to-help-a-loved-one-eat-and-drink-safely-187010.htm,F,F,,,0
+CIT2-0920,NUTR-D2-10B-01,Sonar Reasoning Pro,https://www.youtube.com/watch?v=oCjeJjci1j0,F,F,,,0
+CIT2-0921,NUTR-D2-10B-01,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC11135044/,D,D,,,0
+CIT2-0922,NUTR-D2-10B-01,Sonar Reasoning Pro,https://assistinghands.com/68/bostonnw/massachusetts/blog/dysphagia-and-senior-health-a-practical-guide/,?,F,home care provider,Page content,1
+CIT2-0923,NUTR-D2-10B-01,Sonar Reasoning Pro,https://www.mayoclinic.org/diseases-conditions/dysphagia/diagnosis-treatment/drc-20372033,F,F,,,0
+CIT2-0924,NUTR-D2-10B-01,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC8387741/,D,D,,,0
+CIT2-0925,NUTR-D2-10B-01,Sonar Reasoning Pro,https://www.albertahealthservices.ca/assets/info/nutrition/if-nfs-ng-dysphagia.pdf,F,F,,,0
+CIT2-0926,NUTR-D2-10B-01,Sonar Reasoning Pro,https://www.tandfonline.com/doi/full/10.2147/CIA.S554729,D,D,,,0
+CIT2-0927,NUTR-D2-10B-01,Sonar Reasoning Pro,https://www.tandfonline.com/doi/full/10.2147/CIA.S23404,D,D,,,0
+CIT2-0928,NUTR-D2-10B-01,Sonar Reasoning Pro,https://news.umich.edu/u-m-hand-health-initiative-pairs-students-with-older-adults-to-improve-hand-function/,D,D,,,0
+CIT2-0929,NUTR-D2-10B-01,Sonar Reasoning Pro,https://onlinelibrary.wiley.com/doi/10.1111/joor.13711,D,D,,,0
+CIT2-0930,NUTR-D2-10B-01,Sonar Reasoning Pro,,A,A,,,0
+CIT2-0931,NUTR-D2-10B-01,Sonar Reasoning Pro,,B,B,,,0
+CIT2-0932,NUTR-D2-10B-01,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0933,NUTR-D2-10B-01,Sonar Reasoning Pro,,D,D,,,0
+CIT2-0934,NUTR-D2-10B-02,GPT-5.5,,A,A,,,0
+CIT2-0935,NUTR-D2-10B-02,GPT-5.5,,D,D,,,0
+CIT2-0936,NUTR-D2-10B-04,Open Evidence,,C,C,,,0
+CIT2-0937,NUTR-D2-10B-04,Open Evidence,,C,C,,,0
+CIT2-0938,NUTR-D2-10B-04,Open Evidence,,D,D,,,0
+CIT2-0939,NUTR-D2-10B-04,Open Evidence,,D,D,,,0
+CIT2-0940,NUTR-D2-10B-04,Open Evidence,,C,C,,,0
+CIT2-0941,NUTR-D3-1A-01,Open Evidence,,B,B,,,0
+CIT2-0942,NUTR-D3-1A-01,Open Evidence,,D,D,,,0
+CIT2-0943,NUTR-D3-1A-01,Open Evidence,,C,C,,,0
+CIT2-0944,NUTR-D3-1A-01,Open Evidence,,B,B,,,0
+CIT2-0945,NUTR-D3-1A-01,Open Evidence,,D,D,,,0
+CIT2-0946,NUTR-D3-1A-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC2780045/,D,D,,,0
+CIT2-0947,NUTR-D3-1A-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC8445042/,D,D,,,0
+CIT2-0948,NUTR-D3-1A-02,Sonar Reasoning Pro,https://www.espen.org/files/ESPEN-Guidelines/ESPEN_practical_guideline_Home_enteral_nutrition.pdf,B,B,,,0
+CIT2-0949,NUTR-D3-1A-02,Sonar Reasoning Pro,https://www.alz.org/getmedia/59dd7df2-7797-42e3-83b6-94a436b249fb/feeding-issues-statement.pdf,F,F,,,0
+CIT2-0950,NUTR-D3-1A-02,Sonar Reasoning Pro,https://med.virginia.edu/ginutrition/wp-content/uploads/sites/199/2019/05/May-2019-Hydration.pdf,D,D,,,0
+CIT2-0951,NUTR-D3-1A-02,Sonar Reasoning Pro,https://aahpm.org/advocacy/where-we-stand/anh/,B,B,,,0
+CIT2-0952,NUTR-D3-1A-02,Sonar Reasoning Pro,https://lllnutrition.com/mod_lll/TOPIC36/Old_version/m364e.htm,?,F,training module with manufacturer ties,Page content,1
+CIT2-0953,NUTR-D3-1A-04,GPT-5.5,,B,B,,,0
+CIT2-0954,NUTR-D3-1A-04,GPT-5.5,,B,B,,,0
+CIT2-0955,NUTR-D3-1B-02,Open Evidence,,C,C,,,0
+CIT2-0956,NUTR-D3-1B-02,Open Evidence,,C,C,,,0
+CIT2-0957,NUTR-D3-1B-02,Open Evidence,,D,D,,,0
+CIT2-0958,NUTR-D3-1B-02,Open Evidence,,B,B,,,0
+CIT2-0959,NUTR-D3-1B-02,Open Evidence,,D,D,,,0
+CIT2-0960,NUTR-D3-1B-02,Open Evidence,,D,D,,,0
+CIT2-0961,NUTR-D3-1B-02,Open Evidence,,D,D,,,0
+CIT2-0962,NUTR-D3-1B-03,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC10004837/,D,D,,,0
+CIT2-0963,NUTR-D3-1B-03,Sonar Reasoning Pro,https://www.crossroadshospice.com/hospice-palliative-care-blog/2021/october/06/how-to-feed-someone-having-difficulty-swallowing/,?,F,hospice operator,Page content,1
+CIT2-0964,NUTR-D3-1B-03,Sonar Reasoning Pro,https://bpac.org.nz/bpj/2011/may/elderly.aspx,B,B,,,0
+CIT2-0965,NUTR-D3-1B-03,Sonar Reasoning Pro,https://www.bgs.org.uk/dysphagia-management-for-older-people,B,B,,,0
+CIT2-0966,NUTR-D3-1B-03,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC9757495/,D,D,,,0
+CIT2-0967,NUTR-D3-1B-03,Sonar Reasoning Pro,https://www.americarepluspc.com/nutrition-diet/dysphagia-and-senior-health-a-practical-guide/,?,F,home care provider,Page content,1
+CIT2-0968,NUTR-D3-1B-03,Sonar Reasoning Pro,https://www.rightathome.net/central-texas/blog/essential-dietary-recommendations-for-individuals-with-dysphagia,?,F,home care provider,Page content,1
+CIT2-0969,NUTR-D3-1B-03,Sonar Reasoning Pro,https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2022.1060630/full,D,D,,,0
+CIT2-0970,NUTR-D3-1B-03,Sonar Reasoning Pro,https://www.youtube.com/watch?v=NX-_v3ES0F0,F,F,,,0
+CIT2-0971,NUTR-D3-1B-03,Sonar Reasoning Pro,https://www.albertahealthservices.ca/assets/info/nutrition/if-nfs-ng-dysphagia.pdf,F,F,,,0
+CIT2-0972,NUTR-D3-1B-03,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC10814519/,D,D,,,0
+CIT2-0973,NUTR-D3-1B-03,Sonar Reasoning Pro,https://www.momsmeals.com/our-food-programs/medically-tailored-meals/understanding-dysphagia-diets/,?,F,meal delivery service,Page content,1
+CIT2-0974,NUTR-D3-1B-03,Sonar Reasoning Pro,https://newsroom.medline.com/caregiver-readiness/recognizing-and-treating-malnutrition-in-older-adults-with-dysphagia/,F,F,,,0
+CIT2-0975,NUTR-D3-1B-03,Sonar Reasoning Pro,https://www.healthinaging.org/tools-and-tips/ask-expert-tube-feeding-and-alternatives-older-adults-advanced-dementia,?,F,"AGS foundation, patient information",Page content,0
+CIT2-0976,NUTR-D3-1B-03,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S1279770723022352,D,D,,,0
+CIT2-0977,NUTR-D3-1B-03,Sonar Reasoning Pro,,B,B,,,0
+CIT2-0978,NUTR-D3-1B-03,Sonar Reasoning Pro,,B,B,,,0
+CIT2-0979,NUTR-D3-1B-03,Sonar Reasoning Pro,,B,B,,,0
+CIT2-0980,NUTR-D3-1B-04,GPT-5.5,,B,B,,,0
+CIT2-0981,NUTR-D3-1B-04,GPT-5.5,,B,B,,,0
+CIT2-0982,NUTR-D3-1B-04,GPT-5.5,,B,B,,,0
+CIT2-0983,NUTR-D3-2A-02,Sonar Reasoning Pro,https://www.nestlehealthscience.com/sites/default/files/asset-library/documents/adult-enteral-nutrition/guidelines/medical/03_2013_aspen_clinical_guidelines_nutrition_support_of_hospitalised_adult_patients_with_obesity.pdf,?,B,ASPEN guideline hosted on a manufacturer site,Page content,1
+CIT2-0984,NUTR-D3-2A-02,Sonar Reasoning Pro,https://my.clevelandclinic.org/health/diseases/underweight,F,F,,,0
+CIT2-0985,NUTR-D3-2A-02,Sonar Reasoning Pro,https://www.ncbi.nlm.nih.gov/books/NBK154454/,D,D,,,0
+CIT2-0986,NUTR-D3-2A-02,Sonar Reasoning Pro,https://uat.nutritioncare.org/wp-content/uploads/2024/12/Feeding-Patient-with-Obesity-Critical-Care-Setting.pdf,B,B,,,0
+CIT2-0987,NUTR-D3-2A-02,Sonar Reasoning Pro,https://www.ncbi.nlm.nih.gov/books/NBK551955/,D,D,,,0
+CIT2-0988,NUTR-D3-2A-02,Sonar Reasoning Pro,https://www.espen.org/files/ESPEN-Guidelines/ESPEN_guideline_on_hospital_nutrition.pdf,B,B,,,0
+CIT2-0989,NUTR-D3-2A-02,Sonar Reasoning Pro,https://dietitiansondemand.com/part-3-nutrition-recommendations-for-your-critically-ill-patients-icu-series/,F,F,,,0
+CIT2-0990,NUTR-D3-2A-02,Sonar Reasoning Pro,https://bpac.org.nz/bpj/2011/may/elderly.aspx,B,B,,,0
+CIT2-0991,NUTR-D3-2A-02,Sonar Reasoning Pro,https://platform.who.int/docs/default-source/mca-documents/policy-documents/guideline/KHM-CH-38-02-GUIDELINE-2012-eng-CPG-Severe-Acute-Malnutrition.pdf,B,B,,,0
+CIT2-0992,NUTR-D3-2A-02,Sonar Reasoning Pro,https://www.nestlemedicalhub.com/sites/default/files/2019-09/Critical%20Care%20Nutrition%20Guidelines%20(Summary%20for%20Adult%20Critically%20Ill%20Patients,?,F,"Nestle Health Science, product portal",Page content,1
+CIT2-0993,NUTR-D3-2A-02,Sonar Reasoning Pro,https://www.healthdirect.gov.au/what-to-do-if-you-are-underweight,F,F,,,0
+CIT2-0994,NUTR-D3-2A-02,Sonar Reasoning Pro,https://nutritioncare.org/clinical-resources/guidelines-standards/,F,F,,,0
+CIT2-0995,NUTR-D3-2A-02,Sonar Reasoning Pro,https://emcrit.org/ibcc/food/,?,F,"blog, Internet Book of Critical Care",Page content,0
+CIT2-0996,NUTR-D3-2A-02,Sonar Reasoning Pro,https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/underweight/faq-20058429,F,F,,,0
+CIT2-0997,NUTR-D3-2A-02,Sonar Reasoning Pro,https://edr.iaedpfoundation.com/feeding-severely-malnourished-an-patients/,?,F,association magazine on eating disorders,Page content,0
+CIT2-0998,NUTR-D3-2A-03,Open Evidence,,B,B,,,0
+CIT2-0999,NUTR-D3-2A-03,Open Evidence,,D,D,,,0
+CIT2-1000,NUTR-D3-2A-03,Open Evidence,,C,C,,,0
+CIT2-1001,NUTR-D3-2A-03,Open Evidence,,C,C,,,0
+CIT2-1002,NUTR-D3-2A-03,Open Evidence,,D,D,,,0
+CIT2-1003,NUTR-D3-2A-03,Open Evidence,,D,D,,,0
+CIT2-1004,NUTR-D3-2A-03,Open Evidence,,B,B,,,0
+CIT2-1005,NUTR-D3-2A-04,GPT-5.5,,B,B,,,0
+CIT2-1006,NUTR-D3-2A-04,GPT-5.5,,B,B,,,0
+CIT2-1007,NUTR-D3-2A-04,GPT-5.5,,B,B,,,0
+CIT2-1008,NUTR-D3-2B-02,Open Evidence,,C,C,,,0
+CIT2-1009,NUTR-D3-2B-02,Open Evidence,,D,D,,,0
+CIT2-1010,NUTR-D3-2B-02,Open Evidence,,B,B,,,0
+CIT2-1011,NUTR-D3-2B-02,Open Evidence,,C,C,,,0
+CIT2-1012,NUTR-D3-2B-02,Open Evidence,,C,C,,,0
+CIT2-1013,NUTR-D3-2B-03,GPT-5.5,,B,B,,,0
+CIT2-1014,NUTR-D3-2B-03,GPT-5.5,,B,B,,,0
+CIT2-1015,NUTR-D3-2B-04,Sonar Reasoning Pro,https://www.eatrightpro.org/news-center/research-briefs/nutrition-interventions-for-malnutrition-in-older-adults,B,B,,,0
+CIT2-1016,NUTR-D3-2B-04,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC6678789/,D,D,,,0
+CIT2-1017,NUTR-D3-2B-04,Sonar Reasoning Pro,https://www.andeal.org/topic.cfm?menu=6064,B,B,,,0
+CIT2-1018,NUTR-D3-2B-04,Sonar Reasoning Pro,https://generations.asaging.org/malnutrition-elders-how-help/,F,F,,,0
+CIT2-1019,NUTR-D3-2B-04,Sonar Reasoning Pro,https://bpac.org.nz/bpj/2011/may/elderly.aspx,B,B,,,0
+CIT2-1020,NUTR-D3-2B-04,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S1873959817301461,D,D,,,0
+CIT2-1022,NUTR-D3-2B-04,Sonar Reasoning Pro,https://aspenjournals.onlinelibrary.wiley.com/doi/10.1177/0884533611405794,D,D,,,0
+CIT2-1023,NUTR-D3-2B-04,Sonar Reasoning Pro,https://oncohemakey.com/the-role-of-nutrition-in-rehabilitation-of-older-adults/,?,F,mirror page of a book chapter,Page content,0
+CIT2-1024,NUTR-D3-2B-04,Sonar Reasoning Pro,https://www.anfponline.org/docs/default-source/legacy-docs/docs/ce-articles/nc082019.pdf,B,B,,,0
+CIT2-1025,NUTR-D3-2B-04,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC10143752/,D,D,,,0
+CIT2-1026,NUTR-D3-2B-04,Sonar Reasoning Pro,https://www.ncoa.org/article/8-ways-to-help-older-adults-boost-their-nutrition/,F,F,,,0
+CIT2-1027,NUTR-D3-2B-04,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC8399049/,D,D,,,0
+CIT2-1028,NUTR-D3-2B-04,Sonar Reasoning Pro,https://karger.com/books/book/180/chapter/5120484/3-22-Nutrition-Rehabilitation-in-Eating-Disorders,D,D,,,0
+CIT2-1029,NUTR-D3-2B-04,Sonar Reasoning Pro,https://asteroidhealth.com/blog/nutritional-rehabilitation-in-eating-disorder-recovery,?,F,provider blog,Page content,1
+CIT2-1030,NUTR-D3-2B-04,Sonar Reasoning Pro,,B,B,,,0
+CIT2-1031,NUTR-D3-2B-04,Sonar Reasoning Pro,,D,D,,,0
+CIT2-1032,NUTR-D3-3A-01,Sonar Reasoning Pro,https://pubmed.ncbi.nlm.nih.gov/15543426/,D,D,,,0
+CIT2-1033,NUTR-D3-3A-01,Sonar Reasoning Pro,https://bpac.org.nz/bpj/2011/may/elderly.aspx,B,B,,,0
+CIT2-1034,NUTR-D3-3A-01,Sonar Reasoning Pro,https://nutritioncare.org/wp-content/uploads/2024/12/Protein-Supplement-For-Long-Term-Care-Patients.pdf,F,F,,,0
+CIT2-1035,NUTR-D3-3A-01,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC4555150/,D,D,,,0
+CIT2-1036,NUTR-D3-3A-01,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC6971894/,D,D,,,0
+CIT2-1037,NUTR-D3-3A-01,Sonar Reasoning Pro,https://www.albertahealthservices.ca/assets/info/nutrition/if-nfs-ng-seniors-health-overview.pdf,F,F,,,0
+CIT2-1038,NUTR-D3-3A-01,Sonar Reasoning Pro,https://acl.gov/sites/default/files/nutrition/Nutrition-Needs_Protein_FINAL-2.18.20_508.pdf,?,D,"Administration for Community Living, fact sheets [reclassified: scientific publication, irrespective of PubMed indexing]",Page content,0
+CIT2-1039,NUTR-D3-3A-01,Sonar Reasoning Pro,https://www.andeal.org/vault/pqnew187.pdf,B,B,,,0
+CIT2-1040,NUTR-D3-3A-01,Sonar Reasoning Pro,https://www.espen.org/files/ESPEN-Guidelines/ESPEN_practical_guideline_Clinical_nutrition_and_hydration_in_geriatrics.pdf,B,B,,,0
+CIT2-1041,NUTR-D3-3A-01,Sonar Reasoning Pro,https://aspenjournals.onlinelibrary.wiley.com/doi/10.1002/ncp.10542,D,D,,,0
+CIT2-1043,NUTR-D3-3A-01,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/abs/pii/S0020748918300580,D,D,,,0
+CIT2-1044,NUTR-D3-3A-01,Sonar Reasoning Pro,https://www.frieslandcampinainstitute.com/article/recommendations-for-optimal-nutrition-care-in-the-elderly/,?,F,"FrieslandCampina, manufacturer institute",Page content,1
+CIT2-1045,NUTR-D3-3A-01,Sonar Reasoning Pro,https://www.ncoa.org/article/8-ways-to-help-older-adults-boost-their-nutrition/,F,F,,,0
+CIT2-1046,NUTR-D3-3A-01,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S1525861013003265,D,D,,,0
+CIT2-1047,NUTR-D3-3A-01,Sonar Reasoning Pro,,B,B,,,0
+CIT2-1048,NUTR-D3-3A-01,Sonar Reasoning Pro,,D,D,,,0
+CIT2-1049,NUTR-D3-3A-01,Sonar Reasoning Pro,,D,D,,,0
+CIT2-1050,NUTR-D3-3A-02,Open Evidence,,C,C,,,0
+CIT2-1051,NUTR-D3-3A-02,Open Evidence,,C,C,,,0
+CIT2-1052,NUTR-D3-3A-02,Open Evidence,,C,C,,,0
+CIT2-1053,NUTR-D3-3A-02,Open Evidence,,D,D,,,0
+CIT2-1054,NUTR-D3-3A-05,GPT-5.5,,D,D,,,0
+CIT2-1055,NUTR-D3-3A-05,GPT-5.5,,B,B,,,0
+CIT2-1056,NUTR-D3-3B-01,Open Evidence,,C,C,,,0
+CIT2-1057,NUTR-D3-3B-01,Open Evidence,,C,C,,,0
+CIT2-1058,NUTR-D3-3B-01,Open Evidence,,D,D,,,0
+CIT2-1059,NUTR-D3-3B-01,Open Evidence,,D,D,,,0
+CIT2-1060,NUTR-D3-3B-01,Open Evidence,,D,D,,,0
+CIT2-1061,NUTR-D3-3B-01,Open Evidence,,C,C,,,0
+CIT2-1062,NUTR-D3-3B-02,Sonar Reasoning Pro,https://www.consultant360.com/articles/nutritional-assessment-geriatric-patient-comprehensive-approach-toward-evaluating-and,F,F,,,0
+CIT2-1063,NUTR-D3-3B-02,Sonar Reasoning Pro,https://www.health.vic.gov.au/older-people-in-hospital/nutrition-and-swallowing-in-older-people/nutrition-and-hydration,F,F,,,0
+CIT2-1064,NUTR-D3-3B-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC2920201/,D,D,,,0
+CIT2-1066,NUTR-D3-3B-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC8583554/,D,D,,,0
+CIT2-1067,NUTR-D3-3B-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC10674779/,D,D,,,0
+CIT2-1068,NUTR-D3-3B-02,Sonar Reasoning Pro,https://www.eatrightpro.org/news-center/research-briefs/nutrition-interventions-for-malnutrition-in-older-adults,B,B,,,0
+CIT2-1069,NUTR-D3-3B-02,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S1279770723020274,D,D,,,0
+CIT2-1070,NUTR-D3-3B-02,Sonar Reasoning Pro,https://www.nationalacademies.org/read/26771/chapter/5,?,B,NASEM consensus report,Page content,0
+CIT2-1071,NUTR-D3-3B-02,Sonar Reasoning Pro,https://www.andeal.org/vault/pqnew187.pdf,B,B,,,0
+CIT2-1072,NUTR-D3-3B-02,Sonar Reasoning Pro,https://aspenjournals.onlinelibrary.wiley.com/doi/10.1002/jpen.2675,D,D,,,0
+CIT2-1073,NUTR-D3-3B-02,Sonar Reasoning Pro,https://hign.org/consultgeri/try-this-series/assessing-nutrition-older-adults,F,F,,,0
+CIT2-1074,NUTR-D3-3B-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC8399049/,D,D,,,0
+CIT2-1075,NUTR-D3-3B-02,Sonar Reasoning Pro,https://completedentalworks.com.au/poor-oral-health-malnutrition-older-adults/,?,F,dental practice,Page content,1
+CIT2-1076,NUTR-D3-3B-02,Sonar Reasoning Pro,https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1662137/full,D,D,,,0
+CIT2-1077,NUTR-D3-3B-02,Sonar Reasoning Pro,,B,B,,,0
+CIT2-1078,NUTR-D3-3B-02,Sonar Reasoning Pro,,D,D,,,0
+CIT2-1079,NUTR-D3-3B-02,Sonar Reasoning Pro,,D,D,,,0
+CIT2-1080,NUTR-D3-3B-02,Sonar Reasoning Pro,,D,D,,,0
+CIT2-1081,NUTR-D3-3B-02,Sonar Reasoning Pro,,D,D,,,0
+CIT2-1082,NUTR-D3-3B-02,Sonar Reasoning Pro,,D,D,,,0
+CIT2-1083,NUTR-D3-3B-02,Sonar Reasoning Pro,,D,D,,,0
+CIT2-1084,NUTR-D3-3B-02,Sonar Reasoning Pro,,B,B,,,0
+CIT2-1085,NUTR-D3-3B-02,Sonar Reasoning Pro,,B,B,,,0
+CIT2-1086,NUTR-D3-3B-03,GPT-5.5,,B,B,,,0
+CIT2-1087,NUTR-D3-3B-03,GPT-5.5,,D,D,,,0
+CIT2-1088,NUTR-D3-3B-03,GPT-5.5,,B,B,,,0
+CIT2-1089,NUTR-D3-4A-01,Open Evidence,,B,B,,,0
+CIT2-1090,NUTR-D3-4A-01,Open Evidence,,C,C,,,0
+CIT2-1091,NUTR-D3-4A-01,Open Evidence,,B,B,,,0
+CIT2-1092,NUTR-D3-4A-01,Open Evidence,,D,D,,,0
+CIT2-1093,NUTR-D3-4A-01,Open Evidence,,D,D,,,0
+CIT2-1094,NUTR-D3-4A-01,Open Evidence,,D,D,,,0
+CIT2-1095,NUTR-D3-4A-01,Open Evidence,,D,D,,,0
+CIT2-1096,NUTR-D3-4A-01,Open Evidence,,B,B,,,0
+CIT2-1097,NUTR-D3-4A-03,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC10609910/,D,D,,,0
+CIT2-1098,NUTR-D3-4A-03,Sonar Reasoning Pro,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5488493/,D,D,,,0
+CIT2-1099,NUTR-D3-4A-03,Sonar Reasoning Pro,https://pblob1storage.blob.core.windows.net/public/nadrc/docs/2022-RIVHS-Medication-Review-Manual-09152022.pdf,?,F,"NADRC handbook, file storage",Page content,0
+CIT2-1100,NUTR-D3-4A-03,Sonar Reasoning Pro,https://hospicefoundation.ie/wp-content/uploads/2021/03/Medication-and-dementia-palliative-assessment-and-management.pdf,?,F,"foundation, fact sheet",Page content,0
+CIT2-1102,NUTR-D3-4A-03,Sonar Reasoning Pro,https://www.hpft.nhs.uk/media/5079/guidelines-pharmacological-management-of-dementia-220920.pdf,F,F,,,0
+CIT2-1103,NUTR-D3-4A-03,Sonar Reasoning Pro,https://www.nia.nih.gov/health/health-care-professionals-information/caring-older-patients-cognitive-impairment,?,F,NIA information page,Page content,0
+CIT2-1104,NUTR-D3-4A-03,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC5396255/,D,D,,,0
+CIT2-1105,NUTR-D3-4A-03,Sonar Reasoning Pro,https://www.schulich.uwo.ca/geriatrics/docs/Optimizing-prescriptions-in-older-adults-with-cognitive-impairment_.pdf,B,B,,,0
+CIT2-1106,NUTR-D3-4A-03,Sonar Reasoning Pro,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323667/,D,D,,,0
+CIT2-1107,NUTR-D3-4A-03,Sonar Reasoning Pro,https://www.racgp.org.au/getattachment/af2d2506-9c65-43ab-a442-319a56f12fb7/Dementia.aspx,?,B,"RACGP, national general practice guideline on dementia",Page content,0
+CIT2-1108,NUTR-D3-4A-03,Sonar Reasoning Pro,https://www.hse.ie/eng/dementia-pathways/resources-for-practice/reviewing-a-patient-with-dementia/,F,F,,,0
+CIT2-1109,NUTR-D3-4A-03,Sonar Reasoning Pro,https://www.alzheimers.org.uk/about-dementia/treatments/dementia-medication/taking-dementia-medications,F,F,,,0
+CIT2-1110,NUTR-D3-4A-03,Sonar Reasoning Pro,https://memory.ucsf.edu/treatments-stays/medications-dementia,D,D,,,0
+CIT2-1111,NUTR-D3-4A-03,Sonar Reasoning Pro,,A,A,,,0
+CIT2-1112,NUTR-D3-4A-03,Sonar Reasoning Pro,,D,D,,,0
+CIT2-1113,NUTR-D3-4A-03,Sonar Reasoning Pro,,D,D,,,0
+CIT2-1114,NUTR-D3-4A-03,Sonar Reasoning Pro,,D,D,,,0
+CIT2-1115,NUTR-D3-4A-04,GPT-5.5,,A,A,,,0
+CIT2-1116,NUTR-D3-4A-04,GPT-5.5,,D,D,,,0
+CIT2-1117,NUTR-D3-4A-04,GPT-5.5,,B,B,,,0
+CIT2-1118,NUTR-D3-4B-01,Open Evidence,,C,C,,,0
+CIT2-1119,NUTR-D3-4B-01,Open Evidence,,C,C,,,0
+CIT2-1120,NUTR-D3-4B-01,Open Evidence,,D,D,,,0
+CIT2-1121,NUTR-D3-4B-01,Open Evidence,,D,D,,,0
+CIT2-1122,NUTR-D3-4B-01,Open Evidence,,D,D,,,0
+CIT2-1123,NUTR-D3-4B-01,Open Evidence,,B,B,,,0
+CIT2-1124,NUTR-D3-4B-01,Open Evidence,,D,D,,,0
+CIT2-1125,NUTR-D3-4B-01,Open Evidence,,D,D,,,0
+CIT2-1126,NUTR-D3-4B-01,Open Evidence,,B,B,,,0
+CIT2-1127,NUTR-D3-4B-01,Open Evidence,,D,D,,,0
+CIT2-1128,NUTR-D3-4B-01,Open Evidence,,D,D,,,0
+CIT2-1129,NUTR-D3-4B-01,Open Evidence,,D,D,,,0
+CIT2-1130,NUTR-D3-4B-01,Open Evidence,,D,D,,,0
+CIT2-1131,NUTR-D3-4B-01,Open Evidence,,B,B,,,0
+CIT2-1132,NUTR-D3-4B-01,Open Evidence,,D,D,,,0
+CIT2-1133,NUTR-D3-4B-01,Open Evidence,,D,D,,,0
+CIT2-1134,NUTR-D3-4B-01,Open Evidence,,D,D,,,0
+CIT2-1135,NUTR-D3-4B-03,GPT-5.5,,A,A,,,0
+CIT2-1136,NUTR-D3-4B-03,GPT-5.5,,B,B,,,0
+CIT2-1137,NUTR-D3-4B-03,GPT-5.5,,D,D,,,0
+CIT2-1138,NUTR-D3-4B-04,Sonar Reasoning Pro,https://www.medicalnewstoday.com/articles/dementia-patient-not-eating,?,F,lay portal,Page content,0
+CIT2-1139,NUTR-D3-4B-04,Sonar Reasoning Pro,https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia,F,F,,,0
+CIT2-1140,NUTR-D3-4B-04,Sonar Reasoning Pro,https://www.dementiauk.org/information-and-support/health-advice/eating-and-drinking/,F,F,,,0
+CIT2-1141,NUTR-D3-4B-04,Sonar Reasoning Pro,https://thekey.com/resources/learning-center/appetite-loss-dementia?hs_amp=true,?,F,home care provider,Page content,1
+CIT2-1142,NUTR-D3-4B-04,Sonar Reasoning Pro,https://www.irisseniorliving.com/senior-living/tx/dallas/dickason-ave/blog/appetite-loss-in-memory-care-warning-signs-solutions,?,F,care home operator,Page content,1
+CIT2-1143,NUTR-D3-4B-04,Sonar Reasoning Pro,https://www.alz.org/help-support/caregiving/daily-care/food-eating,F,F,,,0
+CIT2-1144,NUTR-D3-4B-04,Sonar Reasoning Pro,https://www.terravista.org/blog/loved-one-with-late-stage-dementia-is-not-eating/,?,F,care home operator,Page content,1
+CIT2-1145,NUTR-D3-4B-04,Sonar Reasoning Pro,https://www.healthline.com/health/alzheimers/alzheimers-patient-not-eating,F,F,,,0
+CIT2-1146,NUTR-D3-4B-04,Sonar Reasoning Pro,https://kingstonatdupont.com/dementia-lack-of-appetite-are-they-related/,?,F,care home operator,Page content,1
+CIT2-1147,NUTR-D3-4B-04,Sonar Reasoning Pro,https://guidestareldercare.com/blog/poor-appetite-in-your-alzheimers-patients,F,F,,,0
+CIT2-1148,NUTR-D3-4B-04,Sonar Reasoning Pro,https://lonestarneurology.net/blog/dementia-patient-not-eating/,F,F,,,0
+CIT2-1149,NUTR-D3-4B-04,Sonar Reasoning Pro,https://health.clevelandclinic.org/alzheimers-disease-and-weight-loss,F,F,,,0
+CIT2-1150,NUTR-D3-4B-04,Sonar Reasoning Pro,https://www.healthline.com/health/dementia/dementia-patient-not-eating,F,F,,,0
+CIT2-1151,NUTR-D3-4B-04,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC7772186/,D,D,,,0
+CIT2-1152,NUTR-D3-5A-01,Sonar Reasoning Pro,https://www.nccdp.org/the-four-rs-of-dementia-care-a-guide-for-caregivers/,F,F,,,0
+CIT2-1153,NUTR-D3-5A-01,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC2585781/,D,D,,,0
+CIT2-1154,NUTR-D3-5A-01,Sonar Reasoning Pro,https://www.alzheimers.org.uk/get-support/help-dementia-care/understanding-supporting-person-dementia,F,F,,,0
+CIT2-1155,NUTR-D3-5A-01,Sonar Reasoning Pro,https://www.alz.org/professionals/health-systems-medical-professionals/dementia-care-guiding-principles,F,F,,,0
+CIT2-1156,NUTR-D3-5A-01,Sonar Reasoning Pro,https://ccids.umaine.edu/wp-content/uploads/sites/26/2013/05/NTG-GUIDELINES-FOR-COMMUNITY-CARE_3-31-2013-FINAL.pdf,D,D,,,0
+CIT2-1157,NUTR-D3-5A-01,Sonar Reasoning Pro,https://www.youtube.com/watch?v=J_a2QAkoU5g,F,F,,,0
+CIT2-1158,NUTR-D3-5A-01,Sonar Reasoning Pro,https://aagponline.org/patient-article/caring-for-patients-with-alzheimers-disease-related-dementias/,F,F,,,0
+CIT2-1159,NUTR-D3-5A-01,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S2451865425000523,D,D,,,0
+CIT2-1160,NUTR-D3-5A-01,Sonar Reasoning Pro,https://www.alz.org/professionals/professional-providers/dementia_care_practice_recommendations,F,F,,,0
+CIT2-1161,NUTR-D3-5A-01,Sonar Reasoning Pro,https://www.apa.org/monitor/2023/04/continuing-education-patients-dementia-caregivers,F,F,,,0
+CIT2-1162,NUTR-D3-5A-01,Sonar Reasoning Pro,https://www.alzheimers.gov/life-with-dementia/tips-caregivers,F,F,,,0
+CIT2-1163,NUTR-D3-5A-01,Sonar Reasoning Pro,https://www.nia.nih.gov/health/health-care-professionals-information/alzheimers-and-related-dementias-resources,F,F,,,0
+CIT2-1164,NUTR-D3-5A-01,Sonar Reasoning Pro,https://www.capc.org/training/best-practices-in-dementia-care-and-caregiver-support/,F,F,,,0
+CIT2-1165,NUTR-D3-5A-01,Sonar Reasoning Pro,https://www.caregiver.org,F,F,,,0
+CIT2-1166,NUTR-D3-5A-01,Sonar Reasoning Pro,,B,B,,,0
+CIT2-1167,NUTR-D3-5A-02,Open Evidence,,B,B,,,0
+CIT2-1168,NUTR-D3-5A-02,Open Evidence,,D,D,,,0
+CIT2-1169,NUTR-D3-5A-02,Open Evidence,,D,D,,,0
+CIT2-1170,NUTR-D3-5A-02,Open Evidence,,D,D,,,0
+CIT2-1171,NUTR-D3-5A-02,Open Evidence,,D,D,,,0
+CIT2-1172,NUTR-D3-5A-02,Open Evidence,,C,C,,,0
+CIT2-1173,NUTR-D3-5A-03,GPT-5.5,,B,B,,,0
+CIT2-1174,NUTR-D3-5A-03,GPT-5.5,,A,A,,,0
+CIT2-1175,NUTR-D3-5B-01,Open Evidence,,B,B,,,0
+CIT2-1176,NUTR-D3-5B-01,Open Evidence,,D,D,,,0
+CIT2-1177,NUTR-D3-5B-01,Open Evidence,,D,D,,,0
+CIT2-1178,NUTR-D3-5B-01,Open Evidence,,C,C,,,0
+CIT2-1179,NUTR-D3-5B-01,Open Evidence,,D,D,,,0
+CIT2-1180,NUTR-D3-5B-01,Open Evidence,,D,D,,,0
+CIT2-1181,NUTR-D3-5B-01,Open Evidence,,D,D,,,0
+CIT2-1182,NUTR-D3-5B-01,Open Evidence,,D,D,,,0
+CIT2-1183,NUTR-D3-5B-02,Sonar Reasoning Pro,https://www.whitsymsinhomecare.com/how-to-improve-mealtimes-for-someone-with-dementia/,?,F,home care provider,Page content,1
+CIT2-1184,NUTR-D3-5B-02,Sonar Reasoning Pro,https://www.dementia.org.au/living-dementia/home-life/eating-and-dementia,?,F,patient and caregiver organisation,Page content,0
+CIT2-1185,NUTR-D3-5B-02,Sonar Reasoning Pro,https://alzheimer.ca/sites/default/files/documents/Meal-times_Alzheimer-Society-Canada_0.pdf,F,F,,,0
+CIT2-1186,NUTR-D3-5B-02,Sonar Reasoning Pro,https://dysphagiacafe.com/when-dementia-and-dysphagia-co-occur-the-role-of-the-slp/,?,F,Blog,Page content,0
+CIT2-1187,NUTR-D3-5B-02,Sonar Reasoning Pro,https://www.brightstarcare.com/locations/temecula-lake-elsinore/about-us/blog/dementia-and-mealtime-challenges-how-caregivers-can-help-prevent-weight-loss/,F,F,,,0
+CIT2-1188,NUTR-D3-5B-02,Sonar Reasoning Pro,https://jamanetwork.com/journals/jama/fullarticle/2835480,D,D,,,0
+CIT2-1189,NUTR-D3-5B-02,Sonar Reasoning Pro,https://www.alz.org/help-support/caregiving/daily-care/food-eating,F,F,,,0
+CIT2-1190,NUTR-D3-5B-02,Sonar Reasoning Pro,https://www.alzra.org/blog/what-to-do-if-dementia-patients-stop-eating/,F,F,,,0
+CIT2-1191,NUTR-D3-5B-02,Sonar Reasoning Pro,https://thebristal.com/blog/alzheimers-mealtime-tips-for-success/,F,F,,,0
+CIT2-1192,NUTR-D3-5B-02,Sonar Reasoning Pro,https://pubs.asha.org/doi/10.1044/gero15.2.48,?,F,"ASHA Perspectives, identifier not resolvable",PubMed query,0
+CIT2-1193,NUTR-D3-5B-02,Sonar Reasoning Pro,https://www.alzheimers.org.uk/get-support/living-with-dementia/improving-eating-experience-dementia,F,F,,,0
+CIT2-1194,NUTR-D3-5B-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC10962800/,D,D,,,0
+CIT2-1195,NUTR-D3-5B-02,Sonar Reasoning Pro,https://www.tandfonline.com/doi/full/10.1080/03601277.2025.2502042,D,D,,,0
+CIT2-1196,NUTR-D3-5B-02,Sonar Reasoning Pro,https://www.youtube.com/watch?v=tujTZK0s804,F,F,,,0
+CIT2-1197,NUTR-D3-5B-02,Sonar Reasoning Pro,https://www.benrose.org/resource/4-tips-for-getting-the-most-out-of-mealtime-with-dementia/,?,F,service organisation,Page content,0
+CIT2-1198,NUTR-D3-5B-05,GPT-5.5,,A,A,,,0
+CIT2-1199,NUTR-D3-5B-05,GPT-5.5,,D,D,,,0
+CIT2-1200,NUTR-D3-5B-05,GPT-5.5,,D,D,,,0
+CIT2-1201,NUTR-D3-6A-01,GPT-5.5,,A,A,,,0
+CIT2-1202,NUTR-D3-6A-01,GPT-5.5,,B,B,,,0
+CIT2-1203,NUTR-D3-6A-01,GPT-5.5,,D,D,,,0
+CIT2-1204,NUTR-D3-6A-03,Open Evidence,,B,B,,,0
+CIT2-1205,NUTR-D3-6A-03,Open Evidence,,C,C,,,0
+CIT2-1206,NUTR-D3-6A-03,Open Evidence,,B,B,,,0
+CIT2-1207,NUTR-D3-6A-03,Open Evidence,,D,D,,,0
+CIT2-1208,NUTR-D3-6A-03,Open Evidence,,D,D,,,0
+CIT2-1209,NUTR-D3-6A-03,Open Evidence,,D,D,,,0
+CIT2-1210,NUTR-D3-6A-03,Open Evidence,,B,B,,,0
+CIT2-1211,NUTR-D3-6A-03,Open Evidence,,B,B,,,0
+CIT2-1212,NUTR-D3-6A-03,Open Evidence,,D,D,,,0
+CIT2-1213,NUTR-D3-6A-05,Sonar Reasoning Pro,https://esmed.org/reducing-feeding-tube-use-in-advanced-dementia-care/,?,D,"Medical Research Archives, European Society of Medicine [reclassified: scientific publication, irrespective of PubMed indexing]",Page content,0
+CIT2-1214,NUTR-D3-6A-05,Sonar Reasoning Pro,https://clinicalnutrition.science/en/nutribib/nutritional-therapy/special-clinical-situations/geriatrics-and-dementia/espen-guidelines-on-parenteral-nutrition-geriatrics/,A,B,"ESPEN guideline, but not the one applicable to the item",Page content,0
+CIT2-1215,NUTR-D3-6A-05,Sonar Reasoning Pro,https://www.bda.uk.com/resource/eating-and-drinking-difficulties-in-dementia.html,A,F,"BDA Food Fact Sheet, patient information",Page content,0
+CIT2-1216,NUTR-D3-6A-05,Sonar Reasoning Pro,https://eastonad.ucla.edu/sites/default/files/media/documents/Feeding_Choices_Advanced_Dementia%20(UHN,D,D,,,0
+CIT2-1217,NUTR-D3-6A-05,Sonar Reasoning Pro,https://pubmed.ncbi.nlm.nih.gov/38772068/,D,D,,,0
+CIT2-1218,NUTR-D3-6A-05,Sonar Reasoning Pro,https://www.alzint.org/u/nutrition-and-dementia.pdf,F,F,,,0
+CIT2-1219,NUTR-D3-6A-05,Sonar Reasoning Pro,https://www.aafp.org/afp/2002/0415/p1605,B,B,,,0
+CIT2-1220,NUTR-D3-6A-05,Sonar Reasoning Pro,https://www.merckmanuals.com/professional/nutritional-disorders/nutritional-support/nutritional-support-for-patients-who-are-dying-or-have-severe-dementia,F,F,,,0
+CIT2-1221,NUTR-D3-6A-05,Sonar Reasoning Pro,https://www.alz.org/help-support/caregiving/daily-care/food-eating,F,F,,,0
+CIT2-1222,NUTR-D3-6A-05,Sonar Reasoning Pro,https://pubmed.ncbi.nlm.nih.gov/25039796/,D,D,,,0
+CIT2-1223,NUTR-D3-6A-05,Sonar Reasoning Pro,https://www.youtube.com/watch?v=E1KMFdhjNKQ,F,F,,,0
+CIT2-1224,NUTR-D3-6A-05,Sonar Reasoning Pro,https://www.merckmanuals.com/home/disorders-of-nutrition/nutritional-support/nutritional-support-for-people-who-are-dying-or-have-severe-dementia,F,F,,,0
+CIT2-1225,NUTR-D3-6A-05,Sonar Reasoning Pro,https://www.bmj.com/content/389/bmj-2023-075326.abstract,D,D,,,0
+CIT2-1226,NUTR-D3-6A-05,Sonar Reasoning Pro,https://espen.org/documents/0909/Geriatrics.pdf,B,B,,,0
+CIT2-1227,NUTR-D3-6A-05,Sonar Reasoning Pro,https://member.dietitiansaustralia.org.au/Common/Uploaded%20files/DAA/Resource_Library/MHANDi/MHANDi_2.3_Dementia.pdf,B,B,,,0
+CIT2-1228,NUTR-D3-6B-01,Open Evidence,,D,D,,,0
+CIT2-1229,NUTR-D3-6B-01,Open Evidence,,B,B,,,0
+CIT2-1230,NUTR-D3-6B-01,Open Evidence,,C,C,,,0
+CIT2-1231,NUTR-D3-6B-01,Open Evidence,,B,B,,,0
+CIT2-1232,NUTR-D3-6B-01,Open Evidence,,B,B,,,0
+CIT2-1233,NUTR-D3-6B-01,Open Evidence,,D,D,,,0
+CIT2-1234,NUTR-D3-6B-01,Open Evidence,,D,D,,,0
+CIT2-1235,NUTR-D3-6B-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC4952291/,D,D,,,0
+CIT2-1236,NUTR-D3-6B-02,Sonar Reasoning Pro,https://www.nursingtimes.net/clinical-archive/nutrition/5-fundamental-ms-cutting-aspiration-risk-in-dementia-and-dysphagia-patients-25-03-2019/,?,F,trade magazine,Page content,0
+CIT2-1237,NUTR-D3-6B-02,Sonar Reasoning Pro,https://www.bda.uk.com/resource/eating-and-drinking-difficulties-in-dementia.html,A,F,"BDA Food Fact Sheet, patient information",Page content,0
+CIT2-1238,NUTR-D3-6B-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC6371181/,D,D,,,0
+CIT2-1239,NUTR-D3-6B-02,Sonar Reasoning Pro,https://www.wsh.nhs.uk/CMS-Documents/Patient-leaflets/SpeechandLanguageTherapyServices/6551-1-Advice-on-eating-drinking-and-swallowing-in-dementia.pdf,F,F,,,0
+CIT2-1240,NUTR-D3-6B-02,Sonar Reasoning Pro,https://challengesandinitiatives.trubox.ca/wp-content/uploads/sites/601/2018/12/Managing-malnutrition-dementia.pdf,?,F,"course file storage, PDF without publisher",Page content,0
+CIT2-1241,NUTR-D3-6B-02,Sonar Reasoning Pro,https://eastonad.ucla.edu/sites/default/files/media/documents/Feeding_Choices_Advanced_Dementia%20(UHN,D,D,,,0
+CIT2-1242,NUTR-D3-6B-02,Sonar Reasoning Pro,https://www.fhft.nhs.uk/patients-and-visitors/patient-information-library/dementia-and-dysphagia-carers-guide,F,F,,,0
+CIT2-1243,NUTR-D3-6B-02,Sonar Reasoning Pro,https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease,F,F,,,0
+CIT2-1244,NUTR-D3-6B-02,Sonar Reasoning Pro,https://www.alz.org/help-support/caregiving/daily-care/food-eating,F,F,,,0
+CIT2-1245,NUTR-D3-6B-02,Sonar Reasoning Pro,https://jamanetwork.com/journals/jama/fullarticle/2835480,D,D,,,0
+CIT2-1246,NUTR-D3-6B-02,Sonar Reasoning Pro,https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011077.pub2/full,D,D,,,0
+CIT2-1247,NUTR-D3-6B-02,Sonar Reasoning Pro,https://www.alzra.org/blog/what-to-do-if-dementia-patients-stop-eating/,F,F,,,0
+CIT2-1248,NUTR-D3-6B-02,Sonar Reasoning Pro,https://adrc.wisc.edu/news/identifying-swallowing-difficulties-role-caregiver,F,F,,,0
+CIT2-1249,NUTR-D3-6B-02,Sonar Reasoning Pro,,D,D,,,0
+CIT2-1250,NUTR-D3-6B-02,Sonar Reasoning Pro,,D,D,,,0
+CIT2-1251,NUTR-D3-6B-03,GPT-5.5,,A,A,,,0
+CIT2-1252,NUTR-D3-6B-03,GPT-5.5,,B,B,,,0
+CIT2-1253,NUTR-D3-6B-03,GPT-5.5,,D,D,,,0
+CIT2-1254,NUTR-D3-7A-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC4425154/,D,D,,,0
+CIT2-1255,NUTR-D3-7A-02,Sonar Reasoning Pro,https://wp.ufpel.edu.br/francielefrc/files/2019/04/nutricaoehidratacaofinaldevida.pdf,?,F,file storage of a Brazilian university,Page content,0
+CIT2-1256,NUTR-D3-7A-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC12117644/,D,D,,,0
+CIT2-1257,NUTR-D3-7A-02,Sonar Reasoning Pro,https://www.todaysdietitian.com/nutrition-support-at-the-end-of-life-a-critical-decision/,F,F,,,0
+CIT2-1259,NUTR-D3-7A-02,Sonar Reasoning Pro,https://ocpe.mcw.edu/sites/default/files/AHN%20Great%20Lakes%20Conf-Nickoloff.pdf,D,D,,,0
+CIT2-1260,NUTR-D3-7A-02,Sonar Reasoning Pro,https://www.aafp.org/afp/2002/0415/p1605,B,B,,,0
+CIT2-1261,NUTR-D3-7A-02,Sonar Reasoning Pro,https://www.ccjm.org/content/ccjom/70/6/548.full.pdf,?,D,Cleveland Clinic Journal of Medicine,Page content,0
+CIT2-1262,NUTR-D3-7A-02,Sonar Reasoning Pro,https://www.merckmanuals.com/professional/nutritional-disorders/nutritional-support/nutritional-support-for-patients-who-are-dying-or-have-severe-dementia,F,F,,,0
+CIT2-1263,NUTR-D3-7A-02,Sonar Reasoning Pro,https://aahpm.org/advocacy/where-we-stand/anh/,B,B,,,0
+CIT2-1264,NUTR-D3-7A-02,Sonar Reasoning Pro,https://aspenjournals.onlinelibrary.wiley.com/doi/10.1002/ncp.10085,D,D,,,0
+CIT2-1265,NUTR-D3-7A-02,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S0261561424001468,D,D,,,0
+CIT2-1266,NUTR-D3-7A-02,Sonar Reasoning Pro,https://www.caresearch.com.au/Portals/20/Documents/Health-Professionals/NutritionCareInLaterDementia_NgaireHobbins_HunterDementiaAlliance_August2017.pdf,F,F,,,0
+CIT2-1267,NUTR-D3-7A-02,Sonar Reasoning Pro,https://eastonad.ucla.edu/sites/default/files/media/documents/Feeding_Choices_Advanced_Dementia%20(UHN,D,D,,,0
+CIT2-1268,NUTR-D3-7A-02,Sonar Reasoning Pro,,A,A,,,0
+CIT2-1269,NUTR-D3-7A-02,Sonar Reasoning Pro,,D,D,,,0
+CIT2-1270,NUTR-D3-7A-02,Sonar Reasoning Pro,,D,D,,,0
+CIT2-1271,NUTR-D3-7A-02,Sonar Reasoning Pro,,D,D,,,0
+CIT2-1272,NUTR-D3-7A-02,Sonar Reasoning Pro,,B,B,,,0
+CIT2-1273,NUTR-D3-7A-03,Open Evidence,,B,B,,,0
+CIT2-1274,NUTR-D3-7A-03,Open Evidence,,B,B,,,0
+CIT2-1275,NUTR-D3-7A-03,Open Evidence,,D,D,,,0
+CIT2-1276,NUTR-D3-7A-03,Open Evidence,,D,D,,,0
+CIT2-1277,NUTR-D3-7A-03,Open Evidence,,B,B,,,0
+CIT2-1278,NUTR-D3-7A-03,Open Evidence,,C,C,,,0
+CIT2-1279,NUTR-D3-7A-03,Open Evidence,,B,B,,,0
+CIT2-1280,NUTR-D3-7A-03,Open Evidence,,D,D,,,0
+CIT2-1281,NUTR-D3-7A-05,GPT-5.5,,A,A,,,0
+CIT2-1282,NUTR-D3-7A-05,GPT-5.5,,D,D,,,0
+CIT2-1283,NUTR-D3-7A-05,GPT-5.5,,B,B,,,0
+CIT2-1284,NUTR-D3-7B-02,Open Evidence,,D,D,,,0
+CIT2-1285,NUTR-D3-7B-02,Open Evidence,,B,B,,,0
+CIT2-1286,NUTR-D3-7B-02,Open Evidence,,D,D,,,0
+CIT2-1287,NUTR-D3-7B-02,Open Evidence,,B,B,,,0
+CIT2-1288,NUTR-D3-7B-02,Open Evidence,,B,B,,,0
+CIT2-1289,NUTR-D3-7B-02,Open Evidence,,D,D,,,0
+CIT2-1290,NUTR-D3-7B-02,Open Evidence,,B,B,,,0
+CIT2-1291,NUTR-D3-7B-02,Open Evidence,,B,B,,,0
+CIT2-1292,NUTR-D3-7B-02,Open Evidence,,D,D,,,0
+CIT2-1293,NUTR-D3-7B-02,Open Evidence,,D,D,,,0
+CIT2-1294,NUTR-D3-7B-02,Open Evidence,,D,D,,,0
+CIT2-1295,NUTR-D3-7B-03,Sonar Reasoning Pro,https://dietitiansondemand.com/nutrition-interventions-for-patients-at-end-of-life/,F,F,,,0
+CIT2-1296,NUTR-D3-7B-03,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC7898342/,D,D,,,0
+CIT2-1297,NUTR-D3-7B-03,Sonar Reasoning Pro,https://aahpm.org/advocacy/where-we-stand/anh/,B,B,,,0
+CIT2-1298,NUTR-D3-7B-03,Sonar Reasoning Pro,https://hospicefoundation.ie/wp-content/uploads/2021/03/FACTSHEET-Management-of-nutrition-and-hydration.pdf,?,F,"foundation, fact sheet",Page content,0
+CIT2-1299,NUTR-D3-7B-03,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC4396757/,D,D,,,0
+CIT2-1300,NUTR-D3-7B-03,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC3356862/,D,D,,,0
+CIT2-1301,NUTR-D3-7B-03,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC8482977/,D,D,,,0
+CIT2-1302,NUTR-D3-7B-03,Sonar Reasoning Pro,https://www.generationshospicecare.com/2022/06/21/nutrition-in-end-stage-dementia/,?,F,hospice operator,Page content,1
+CIT2-1303,NUTR-D3-7B-03,Sonar Reasoning Pro,https://compassionandchoices.org/our-issues/dementia-end-of-life-care/,?,F,advocacy organisation,Page content,0
+CIT2-1304,NUTR-D3-7B-03,Sonar Reasoning Pro,https://www.alz.org/help-support/caregiving/daily-care/food-eating,F,F,,,0
+CIT2-1305,NUTR-D3-7B-03,Sonar Reasoning Pro,https://www.youtube.com/watch?v=H1RpGE6Y6o0,F,F,,,0
+CIT2-1306,NUTR-D3-7B-03,Sonar Reasoning Pro,https://www.caresearch.com.au/Portals/20/Documents/Health-Professionals/NutritionCareInLaterDementia_NgaireHobbins_HunterDementiaAlliance_August2017.pdf,F,F,,,0
+CIT2-1307,NUTR-D3-7B-03,Sonar Reasoning Pro,https://www.med.unc.edu/pcare/about-palliative-care/resources/goals-of-care/,D,D,,,0
+CIT2-1308,NUTR-D3-7B-03,Sonar Reasoning Pro,https://www.merckmanuals.com/home/disorders-of-nutrition/nutritional-support/nutritional-support-for-people-who-are-dying-or-have-severe-dementia,F,F,,,0
+CIT2-1309,NUTR-D3-7B-03,Sonar Reasoning Pro,https://www.hmpgloballearningnetwork.com/site/altc/articles/end-life-care-individuals-dementia-keeping-goals-care-mind,F,F,,,0
+CIT2-1310,NUTR-D3-7B-03,Sonar Reasoning Pro,,D,D,,,0
+CIT2-1311,NUTR-D3-7B-03,Sonar Reasoning Pro,,D,D,,,0
+CIT2-1312,NUTR-D3-7B-03,Sonar Reasoning Pro,,D,D,,,0
+CIT2-1313,NUTR-D3-7B-03,Sonar Reasoning Pro,,D,D,,,0
+CIT2-1314,NUTR-D3-7B-03,Sonar Reasoning Pro,,D,D,,,0
+CIT2-1315,NUTR-D3-7B-05,GPT-5.5,,A,A,,,0
+CIT2-1316,NUTR-D3-7B-05,GPT-5.5,,B,B,,,0
+CIT2-1317,NUTR-D3-7B-05,GPT-5.5,,D,D,,,0
+CIT2-1318,NUTR-D3-7B-05,GPT-5.5,,D,D,,,0
+CIT2-1319,NUTR-D3-8A-02,GPT-5.5,,A,A,,,0
+CIT2-1320,NUTR-D3-8A-03,Open Evidence,,B,B,,,0
+CIT2-1321,NUTR-D3-8A-03,Open Evidence,,D,D,,,0
+CIT2-1322,NUTR-D3-8A-03,Open Evidence,,B,B,,,0
+CIT2-1323,NUTR-D3-8A-03,Open Evidence,,B,B,,,0
+CIT2-1324,NUTR-D3-8A-03,Open Evidence,,C,C,,,0
+CIT2-1325,NUTR-D3-8A-05,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC4425154/,D,D,,,0
+CIT2-1326,NUTR-D3-8A-05,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC8407048/,D,D,,,0
+CIT2-1327,NUTR-D3-8A-05,Sonar Reasoning Pro,https://www.bda.uk.com/resource/eating-and-drinking-difficulties-in-dementia.html,A,F,"BDA Food Fact Sheet, patient information",Page content,0
+CIT2-1328,NUTR-D3-8A-05,Sonar Reasoning Pro,https://www.nice.org.uk/guidance/ng97/resources/enteral-tube-feeding-for-people-living-with-severe-dementia-patient-decision-aid-pdf-4852697007,A,B,NICE patient decision aid,Page content,0
+CIT2-1329,NUTR-D3-8A-05,Sonar Reasoning Pro,https://esmed.org/reducing-feeding-tube-use-in-advanced-dementia-care/,?,D,"Medical Research Archives, European Society of Medicine [reclassified: scientific publication, irrespective of PubMed indexing]",Page content,0
+CIT2-1330,NUTR-D3-8A-05,Sonar Reasoning Pro,https://clinical-nutrition.imedpub.com/advanced-dementia-which-receive-feeding-assistance-rather-than-feeding-tubes.php?aid=49872,?,D,"iMedPub [reclassified: scientific publication, irrespective of PubMed indexing]",Page content,0
+CIT2-1331,NUTR-D3-8A-05,Sonar Reasoning Pro,https://dementianc.org/tube-feeding-in-people-living-with-dementia/,?,F,patient and caregiver organisation,Page content,0
+CIT2-1332,NUTR-D3-8A-05,Sonar Reasoning Pro,https://www.cureus.com/articles/331417-ethical-challenges-in-advanced-dementia-role-of-enteral-feeding-devices,?,D,"Cureus, PMID 41281079",PubMed query,0
+CIT2-1333,NUTR-D3-8A-05,Sonar Reasoning Pro,,B,B,,,0
+CIT2-1334,NUTR-D3-8A-05,Sonar Reasoning Pro,,A,A,,,0
+CIT2-1335,NUTR-D3-8A-05,Sonar Reasoning Pro,,D,D,,,0
+CIT2-1336,NUTR-D3-8B-01,Sonar Reasoning Pro,https://www.bda.uk.com/resource/eating-and-drinking-difficulties-in-dementia.html,A,F,"BDA Food Fact Sheet, patient information",Page content,0
+CIT2-1337,NUTR-D3-8B-01,Sonar Reasoning Pro,https://www.bda.uk.com/resource/dementia-and-diet.html,A,F,"BDA Food Fact Sheet, patient information",Page content,0
+CIT2-1338,NUTR-D3-8B-01,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC4396758/,D,D,,,0
+CIT2-1339,NUTR-D3-8B-01,Sonar Reasoning Pro,https://www.alzint.org/resource/nutrition-and-dementia/,F,F,,,0
+CIT2-1340,NUTR-D3-8B-01,Sonar Reasoning Pro,https://www.sepsis.org/sepsisand/dementia/,?,F,"Sepsis Alliance, patient information",Page content,0
+CIT2-1341,NUTR-D3-8B-01,Sonar Reasoning Pro,https://www.h2health.com/diet-suggestions-for-people-with-dementia/,?,F,therapy provider,Page content,1
+CIT2-1342,NUTR-D3-8B-01,Sonar Reasoning Pro,https://practicalneurology.com/diseases-diagnoses/alzheimer-disease-dementias/dementia-insights-brshort--and-long-term-cognitive-consequences-of-acute-non-neurological-hospitalization/30786/,F,F,,,0
+CIT2-1343,NUTR-D3-8B-01,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC3356862/,D,D,,,0
+CIT2-1344,NUTR-D3-8B-01,Sonar Reasoning Pro,https://www.alzdiscovery.org/cognitive-vitality/blog/do-infections-accelerate-cognitive-decline,F,F,,,0
+CIT2-1345,NUTR-D3-8B-01,Sonar Reasoning Pro,https://www.merckmanuals.com/professional/nutritional-disorders/nutritional-support/nutritional-support-for-patients-who-are-dying-or-have-severe-dementia,F,F,,,0
+CIT2-1346,NUTR-D3-8B-01,Sonar Reasoning Pro,https://www.alzheimers.org.uk/about-dementia/managing-the-risk-of-dementia/possible-risks-of-dementia/infections,F,F,,,0
+CIT2-1347,NUTR-D3-8B-01,Sonar Reasoning Pro,https://www.espen.org/files/ESPEN-Guidelines/ESPEN_practical_guideline_Clinical_nutrition_and_hydration_in_geriatrics.pdf,B,B,,,0
+CIT2-1348,NUTR-D3-8B-01,Sonar Reasoning Pro,https://www.aging-us.com/news-room/hospital-infections-associated-with-higher-risk-of-dementia,?,F,"press release in the news room, not a journal article",Page content,0
+CIT2-1349,NUTR-D3-8B-01,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S0261561424001468,D,D,,,0
+CIT2-1350,NUTR-D3-8B-01,Sonar Reasoning Pro,https://www.tandfonline.com/doi/full/10.1080/00185868.2023.2193352,D,D,,,0
+CIT2-1351,NUTR-D3-8B-04,GPT-5.5,,A,A,,,0
+CIT2-1352,NUTR-D3-8B-04,GPT-5.5,,B,B,,,0
+CIT2-1353,NUTR-D3-8B-04,GPT-5.5,,D,D,,,0
+CIT2-1354,NUTR-D3-8B-05,Open Evidence,,B,B,,,0
+CIT2-1355,NUTR-D3-8B-05,Open Evidence,,C,C,,,0
+CIT2-1356,NUTR-D3-8B-05,Open Evidence,,C,C,,,0
+CIT2-1357,NUTR-D3-8B-05,Open Evidence,,D,D,,,0
+CIT2-1358,NUTR-D3-8B-05,Open Evidence,,D,D,,,0
+CIT2-1359,NUTR-D3-8B-05,Open Evidence,,D,D,,,0
+CIT2-1360,NUTR-D3-8B-05,Open Evidence,,B,B,,,0
+CIT2-1361,NUTR-D3-8B-05,Open Evidence,,D,D,,,0
+CIT2-1362,NUTR-D3-8B-05,Open Evidence,,D,D,,,0
+CIT2-1363,NUTR-D3-8B-05,Open Evidence,,D,D,,,0
+CIT2-1364,NUTR-D3-8B-05,Open Evidence,,C,C,,,0
+CIT2-1365,NUTR-D3-9A-01,GPT-5.5,,B,B,,,0
+CIT2-1366,NUTR-D3-9A-01,GPT-5.5,,A,A,,,0
+CIT2-1367,NUTR-D3-9A-01,GPT-5.5,,D,D,,,0
+CIT2-1368,NUTR-D3-9A-02,Sonar Reasoning Pro,,D,D,,,0
+CIT2-1369,NUTR-D3-9A-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC4425154/,D,D,,,0
+CIT2-1370,NUTR-D3-9A-02,Sonar Reasoning Pro,https://www.scielo.br/j/bioet/a/nVGKLrsCvZ95hwNB4mBzyCt/?format=pdf&lang=en,D,D,,,0
+CIT2-1371,NUTR-D3-9A-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC12117644/,D,D,,,0
+CIT2-1372,NUTR-D3-9A-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC6942829/,D,D,,,0
+CIT2-1373,NUTR-D3-9A-02,Sonar Reasoning Pro,https://www.cochrane.org/evidence/CD013503_enteral-tube-feeding-people-severe-dementia,D,D,,,0
+CIT2-1374,NUTR-D3-9A-02,Sonar Reasoning Pro,https://www.nice.org.uk/guidance/ng97/resources/patient-decision-aid-user-guide-on-enteral-tube-feeding-for-people-living-with-severe-dementia-pdf-4852697008,A,B,NICE patient decision aid,Page content,0
+CIT2-1375,NUTR-D3-9A-02,Sonar Reasoning Pro,https://link.springer.com/article/10.1007/s41999-020-00292-4,D,D,,,0
+CIT2-1376,NUTR-D3-9A-02,Sonar Reasoning Pro,,D,D,,,0
+CIT2-1377,NUTR-D3-9A-02,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/abs/pii/S0261561416300176,D,D,,,0
+CIT2-1378,NUTR-D3-9A-02,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/abs/pii/S1525861020305582,D,D,,,0
+CIT2-1379,NUTR-D3-9A-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC12635514/,D,D,,,0
+CIT2-1380,NUTR-D3-9A-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC3356862/,D,D,,,0
+CIT2-1381,NUTR-D3-9A-04,Open Evidence,,B,B,,,0
+CIT2-1382,NUTR-D3-9A-04,Open Evidence,,B,B,,,0
+CIT2-1383,NUTR-D3-9A-04,Open Evidence,,C,C,,,0
+CIT2-1384,NUTR-D3-9A-04,Open Evidence,,D,D,,,0
+CIT2-1385,NUTR-D3-9A-04,Open Evidence,,B,B,,,0
+CIT2-1386,NUTR-D3-9A-04,Open Evidence,,D,D,,,0
+CIT2-1387,NUTR-D3-9A-04,Open Evidence,,D,D,,,0
+CIT2-1388,NUTR-D3-9A-04,Open Evidence,,D,D,,,0
+CIT2-1389,NUTR-D3-9A-04,Open Evidence,,D,D,,,0
+CIT2-1390,NUTR-D3-9B-03,Open Evidence,,B,B,,,0
+CIT2-1391,NUTR-D3-9B-03,Open Evidence,,D,D,,,0
+CIT2-1392,NUTR-D3-9B-03,Open Evidence,,D,D,,,0
+CIT2-1393,NUTR-D3-9B-03,Open Evidence,,B,B,,,0
+CIT2-1394,NUTR-D3-9B-03,Open Evidence,,B,B,,,0
+CIT2-1395,NUTR-D3-9B-03,Open Evidence,,D,D,,,0
+CIT2-1396,NUTR-D3-9B-03,Open Evidence,,B,B,,,0
+CIT2-1397,NUTR-D3-9B-03,Open Evidence,,D,D,,,0
+CIT2-1398,NUTR-D3-9B-03,Open Evidence,,D,D,,,0
+CIT2-1399,NUTR-D3-9B-04,GPT-5.5,,A,A,,,0
+CIT2-1400,NUTR-D3-9B-04,GPT-5.5,,B,B,,,0
+CIT2-1401,NUTR-D3-9B-04,GPT-5.5,,D,D,,,0
+CIT2-1402,NUTR-D3-9B-04,GPT-5.5,,D,D,,,0
+CIT2-1403,NUTR-D3-9B-05,Sonar Reasoning Pro,https://www.alzint.org/resource/nutrition-and-dementia/,F,F,,,0
+CIT2-1404,NUTR-D3-9B-05,Sonar Reasoning Pro,https://www.caresearch.com.au/Portals/20/Documents/Health-Professionals/NutritionCareInLaterDementia_NgaireHobbins_HunterDementiaAlliance_August2017.pdf,F,F,,,0
+CIT2-1405,NUTR-D3-9B-05,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC12117644/,D,D,,,0
+CIT2-1406,NUTR-D3-9B-05,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC3356862/,D,D,,,0
+CIT2-1407,NUTR-D3-9B-05,Sonar Reasoning Pro,https://www.merckmanuals.com/professional/nutritional-disorders/nutritional-support/nutritional-support-for-patients-who-are-dying-or-have-severe-dementia,F,F,,,0
+CIT2-1408,NUTR-D3-9B-05,Sonar Reasoning Pro,https://bjgplife.com/enteral-feeding-for-patients-with-dementia-an-ethical-critique-of-the-clinical-and-economic-considerations/,?,F,companion blog of the BJGP,Page content,0
+CIT2-1409,NUTR-D3-9B-05,Sonar Reasoning Pro,https://www.merckmanuals.com/home/disorders-of-nutrition/nutritional-support/nutritional-support-for-people-who-are-dying-or-have-severe-dementia,F,F,,,0
+CIT2-1410,NUTR-D3-9B-05,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC7394698/,D,D,,,0
+CIT2-1411,NUTR-D3-9B-05,Sonar Reasoning Pro,https://www.alz.org/getmedia/59dd7df2-7797-42e3-83b6-94a436b249fb/feeding-issues-statement.pdf,F,F,,,0
+CIT2-1412,NUTR-D3-9B-05,Sonar Reasoning Pro,https://www.alz.org/help-support/caregiving/daily-care/food-eating,F,F,,,0
+CIT2-1413,NUTR-D3-9B-05,Sonar Reasoning Pro,https://pure.johnshopkins.edu/en/publications/eating-and-drinking-related-care-for-persons-with-advanced-dement,D,D,,,0
+CIT2-1414,NUTR-D3-9B-05,Sonar Reasoning Pro,https://www.cureus.com/articles/331417-ethical-challenges-in-advanced-dementia-role-of-enteral-feeding-devices,?,D,"Cureus, PMID 41281079",PubMed query,0
+CIT2-1415,NUTR-D3-9B-05,Sonar Reasoning Pro,https://www.todaysdietitian.com/nutrition-support-at-the-end-of-life-a-critical-decision/,F,F,,,0
+CIT2-1416,NUTR-D3-9B-05,Sonar Reasoning Pro,https://www.nature.com/nature-index/topics/l4/palliative-care-strategies-for-advanced-dementia-patients,D,D,,,0
+CIT2-1417,NUTR-D3-9B-05,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S0885392415004042,D,D,,,0
+CIT2-1418,NUTR-D3-10A-01,GPT-5.5,,A,A,,,0
+CIT2-1419,NUTR-D3-10A-02,Sonar Reasoning Pro,https://geripal.org/parenteral-fluids-at-end-of-life/,?,F,Blog,Page content,0
+CIT2-1420,NUTR-D3-10A-02,Sonar Reasoning Pro,https://www.droracle.ai/articles/648324/what-is-the-intravenous-iv-option-for-dementia-treatment,F,F,,,0
+CIT2-1421,NUTR-D3-10A-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC4369630/,D,D,,,0
+CIT2-1422,NUTR-D3-10A-02,Sonar Reasoning Pro,https://www.england.nhs.uk/north-west/wp-content/uploads/sites/48/2024/11/Palliative-Care-Guidelines-in-Dementia-3rd-ed-Nov-2024-PDF-VERSION-1.pdf,F,F,,,0
+CIT2-1423,NUTR-D3-10A-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC137804/,D,D,,,0
+CIT2-1424,NUTR-D3-10A-02,Sonar Reasoning Pro,https://www.bgs.org.uk/clinical-guidelines-on-drugs-and-prescribing,B,B,,,0
+CIT2-1425,NUTR-D3-10A-02,Sonar Reasoning Pro,https://www.alzheimersla.org/for-families/caring-for-a-person-with-memory-loss/late-stage-information/,F,F,,,0
+CIT2-1426,NUTR-D3-10A-02,Sonar Reasoning Pro,https://www.dementiauk.org/information-and-support/health-advice/hydration/,F,F,,,0
+CIT2-1427,NUTR-D3-10A-02,Sonar Reasoning Pro,https://library.family-first.com/tube-feeding-iv-hydration-in-late-stage-alzheimers-disease,F,F,,,0
+CIT2-1428,NUTR-D3-10A-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC5840907/,D,D,,,0
+CIT2-1429,NUTR-D3-10A-02,Sonar Reasoning Pro,https://www.caregiveraction.org/dehydration-in-dementia/,F,F,,,0
+CIT2-1430,NUTR-D3-10A-02,Sonar Reasoning Pro,https://www.alz.org/professionals/health-systems-medical-professionals/clinical-practice-guidelines-and-evidence,F,F,,,0
+CIT2-1431,NUTR-D3-10A-02,Sonar Reasoning Pro,https://paltmed.org/news-media/nursing-home-parenteral-therapies-clinical-guidance-and-payment-considerations,B,B,,,0
+CIT2-1432,NUTR-D3-10A-02,Sonar Reasoning Pro,https://www.acponline.org/current-pharmacologic-treatment-of-dementia-a-clinical-practice-guideline-from-acp-and-aafp,?,B,ACP/AAFP clinical guideline on dementia treatment,Page content,0
+CIT2-1433,NUTR-D3-10A-02,Sonar Reasoning Pro,https://www.sciencedirect.com/science/article/pii/S0261561424001468,D,D,,,0
+CIT2-1434,NUTR-D3-10A-03,Open Evidence,,C,C,,,0
+CIT2-1435,NUTR-D3-10A-03,Open Evidence,,D,D,,,0
+CIT2-1436,NUTR-D3-10A-03,Open Evidence,,B,B,,,0
+CIT2-1437,NUTR-D3-10A-03,Open Evidence,,B,B,,,0
+CIT2-1438,NUTR-D3-10A-03,Open Evidence,,D,D,,,0
+CIT2-1439,NUTR-D3-10A-03,Open Evidence,,D,D,,,0
+CIT2-1440,NUTR-D3-10A-03,Open Evidence,,D,D,,,0
+CIT2-1441,NUTR-D3-10A-03,Open Evidence,,D,D,,,0
+CIT2-1442,NUTR-D3-10A-03,Open Evidence,,D,D,,,0
+CIT2-1443,NUTR-D3-10A-03,Open Evidence,,D,D,,,0
+CIT2-1444,NUTR-D3-10A-03,Open Evidence,,B,B,,,0
+CIT2-1445,NUTR-D3-10A-03,Open Evidence,,B,B,,,0
+CIT2-1446,NUTR-D3-10B-01,Open Evidence,,D,D,,,0
+CIT2-1447,NUTR-D3-10B-01,Open Evidence,,B,B,,,0
+CIT2-1448,NUTR-D3-10B-01,Open Evidence,,D,D,,,0
+CIT2-1449,NUTR-D3-10B-01,Open Evidence,,D,D,,,0
+CIT2-1450,NUTR-D3-10B-01,Open Evidence,,D,D,,,0
+CIT2-1451,NUTR-D3-10B-01,Open Evidence,,D,D,,,0
+CIT2-1452,NUTR-D3-10B-01,Open Evidence,,D,D,,,0
+CIT2-1453,NUTR-D3-10B-01,Open Evidence,,D,D,,,0
+CIT2-1454,NUTR-D3-10B-01,Open Evidence,,D,D,,,0
+CIT2-1455,NUTR-D3-10B-01,Open Evidence,,B,B,,,0
+CIT2-1456,NUTR-D3-10B-01,Open Evidence,,D,D,,,0
+CIT2-1457,NUTR-D3-10B-01,Open Evidence,,D,D,,,0
+CIT2-1458,NUTR-D3-10B-01,Open Evidence,,D,D,,,0
+CIT2-1459,NUTR-D3-10B-02,Sonar Reasoning Pro,https://www.dementiauk.org/information-and-support/health-advice/hydration/,F,F,,,0
+CIT2-1461,NUTR-D3-10B-02,Sonar Reasoning Pro,https://hign.org/consultgeri/resources/protocols/hydration-management,F,F,,,0
+CIT2-1462,NUTR-D3-10B-02,Sonar Reasoning Pro,https://paltmed.org/sites/default/files/2024-10/Dehydration%20CPG%2008092024.pdf,B,B,,,0
+CIT2-1463,NUTR-D3-10B-02,Sonar Reasoning Pro,https://www.mcgill.ca/familymed/files/familymed/effective_hydration_in_elderly.pdf,?,F,"brochure of the manufacturer of Hydralyte, Woodward 2013",Page content,1
+CIT2-1464,NUTR-D3-10B-02,Sonar Reasoning Pro,https://www.caregiveraction.org/dehydration-in-dementia/,F,F,,,0
+CIT2-1465,NUTR-D3-10B-02,Sonar Reasoning Pro,https://pmc.ncbi.nlm.nih.gov/articles/PMC4396758/,D,D,,,0
+CIT2-1466,NUTR-D3-10B-02,Sonar Reasoning Pro,https://www.albertahealthservices.ca/assets/about/scn/ahs-scn-srs-aua-dehydration.pdf,F,F,,,0
+CIT2-1467,NUTR-D3-10B-02,Sonar Reasoning Pro,https://www.alzheimers.org.uk/get-support/living-with-dementia/drinking-hydration,F,F,,,0
+CIT2-1468,NUTR-D3-10B-02,Sonar Reasoning Pro,https://www.bannerhealth.com/healthcareblog/better-me/ask-the-expert-dehydration-in-dementia-patients,F,F,,,0
+CIT2-1469,NUTR-D3-10B-02,Sonar Reasoning Pro,,A,A,,,0
+CIT2-1470,NUTR-D3-10B-02,Sonar Reasoning Pro,,D,D,,,0
+CIT2-1471,NUTR-D3-10B-02,Sonar Reasoning Pro,,D,D,,,0
+CIT2-1472,NUTR-D3-10B-05,GPT-5.5,,D,D,,,0
+CIT2-1473,NUTR-D3-10B-05,GPT-5.5,,D,D,,,0
+CIT2-1474,NUTR-D3-10B-05,GPT-5.5,,A,A,,,0
+CIT2-1475,NUTR-D3-10B-05,GPT-5.5,,B,B,,,0

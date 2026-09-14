@@ -1,0 +1,181 @@
+rating_id,model,domain,question_id,topic_id,rater_1_accuracy,rater_2_accuracy,consensus_accuracy,rater_1_guideline_reference,rater_2_guideline_reference,consensus_guideline_reference,rater_1_safety_concern,rater_2_safety_concern,consensus_safety_concern,rater_1_evidence_level,rater_2_evidence_level,consensus_evidence_level
+NUTR-D1-10A-02,Sonar Reasoning Pro,Domain 1,Domain 1|10a,10,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-10A-04,Open Evidence,Domain 1,Domain 1|10a,10,Correct,Correct,Correct,No,Partly,No,No,No,No,Yes,Yes,Yes
+NUTR-D1-10A-05,GPT-5.5,Domain 1,Domain 1|10a,10,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-10B-01,Sonar Reasoning Pro,Domain 1,Domain 1|10b,10,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-10B-02,GPT-5.5,Domain 1,Domain 1|10b,10,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-10B-05,Open Evidence,Domain 1,Domain 1|10b,10,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D1-1A-02,Open Evidence,Domain 1,Domain 1|1a,1,Correct,Correct,Correct,No,No,No,No,No,No,Yes,Yes,Yes
+NUTR-D1-1A-03,Sonar Reasoning Pro,Domain 1,Domain 1|1a,1,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-1A-05,GPT-5.5,Domain 1,Domain 1|1a,1,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-1B-01,Open Evidence,Domain 1,Domain 1|1b,1,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D1-1B-02,Sonar Reasoning Pro,Domain 1,Domain 1|1b,1,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-1B-03,GPT-5.5,Domain 1,Domain 1|1b,1,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-2A-01,Sonar Reasoning Pro,Domain 1,Domain 1|2a,2,Correct,Correct,Correct,No,No,No,No,No,No,Partly,Partly,Partly
+NUTR-D1-2A-02,GPT-5.5,Domain 1,Domain 1|2a,2,Partially correct,Correct,Correct,Partly,Yes,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D1-2A-05,Open Evidence,Domain 1,Domain 1|2a,2,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D1-2B-03,Sonar Reasoning Pro,Domain 1,Domain 1|2b,2,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-2B-04,GPT-5.5,Domain 1,Domain 1|2b,2,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-2B-05,Open Evidence,Domain 1,Domain 1|2b,2,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D1-3A-01,Open Evidence,Domain 1,Domain 1|3a,3,Correct,Correct,Correct,No,No,No,No,No,No,Yes,Partly,Yes
+NUTR-D1-3A-02,Sonar Reasoning Pro,Domain 1,Domain 1|3a,3,Partially correct,Correct,Correct,No,No,No,Minor,No,No,Yes,Yes,Yes
+NUTR-D1-3A-03,GPT-5.5,Domain 1,Domain 1|3a,3,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-3B-01,Open Evidence,Domain 1,Domain 1|3b,3,Correct,Correct,Correct,No,No,No,No,No,No,Yes,Yes,Yes
+NUTR-D1-3B-04,Sonar Reasoning Pro,Domain 1,Domain 1|3b,3,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-3B-05,GPT-5.5,Domain 1,Domain 1|3b,3,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-4A-01,Open Evidence,Domain 1,Domain 1|4a,4,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-4A-02,Sonar Reasoning Pro,Domain 1,Domain 1|4a,4,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-4A-04,GPT-5.5,Domain 1,Domain 1|4a,4,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-4B-01,Open Evidence,Domain 1,Domain 1|4b,4,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-4B-03,Sonar Reasoning Pro,Domain 1,Domain 1|4b,4,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-4B-04,GPT-5.5,Domain 1,Domain 1|4b,4,Partially correct,Correct,Correct,Partly,Yes,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D1-5A-02,Open Evidence,Domain 1,Domain 1|5a,5,Correct,Correct,Correct,No,No,No,No,No,No,Yes,Yes,Yes
+NUTR-D1-5A-04,GPT-5.5,Domain 1,Domain 1|5a,5,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-5A-05,Sonar Reasoning Pro,Domain 1,Domain 1|5a,5,Correct,Correct,Correct,No,No,No,No,No,No,Yes,Yes,Yes
+NUTR-D1-5B-02,Sonar Reasoning Pro,Domain 1,Domain 1|5b,5,Partially correct,Correct,Correct,No,No,No,No,No,No,No,Partly,No
+NUTR-D1-5B-04,GPT-5.5,Domain 1,Domain 1|5b,5,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-5B-05,Open Evidence,Domain 1,Domain 1|5b,5,Correct,Correct,Correct,No,No,No,No,No,No,Yes,Yes,Yes
+NUTR-D1-6A-01,Open Evidence,Domain 1,Domain 1|6a,6,Correct,Correct,Correct,No,No,No,No,No,No,Yes,Yes,Yes
+NUTR-D1-6A-02,Sonar Reasoning Pro,Domain 1,Domain 1|6a,6,Partially correct,Correct,Partially correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-6A-03,GPT-5.5,Domain 1,Domain 1|6a,6,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-6B-01,Sonar Reasoning Pro,Domain 1,Domain 1|6b,6,Correct,Correct,Correct,No,No,No,No,No,No,Yes,Partly,Partly
+NUTR-D1-6B-03,Open Evidence,Domain 1,Domain 1|6b,6,Correct,Correct,Partially correct,No,No,No,No,Minor,Minor,Yes,Yes,Yes
+NUTR-D1-6B-04,GPT-5.5,Domain 1,Domain 1|6b,6,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-7A-01,Sonar Reasoning Pro,Domain 1,Domain 1|7a,7,Correct,Incorrect,Partially correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-7A-03,Open Evidence,Domain 1,Domain 1|7a,7,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Partly,Yes
+NUTR-D1-7A-04,GPT-5.5,Domain 1,Domain 1|7a,7,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-7B-01,Sonar Reasoning Pro,Domain 1,Domain 1|7b,7,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-7B-02,Open Evidence,Domain 1,Domain 1|7b,7,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Partly,Yes
+NUTR-D1-7B-05,GPT-5.5,Domain 1,Domain 1|7b,7,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-8A-01,Sonar Reasoning Pro,Domain 1,Domain 1|8a,8,Partially correct,Partially correct,Partially correct,Partly,Partly,Partly,No,No,No,Partly,Partly,Partly
+NUTR-D1-8A-03,Open Evidence,Domain 1,Domain 1|8a,8,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-8A-04,GPT-5.5,Domain 1,Domain 1|8a,8,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Partly,Partly,Partly
+NUTR-D1-8B-02,Sonar Reasoning Pro,Domain 1,Domain 1|8b,8,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Partly,Partly,Partly
+NUTR-D1-8B-03,GPT-5.5,Domain 1,Domain 1|8b,8,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Partly,Partly,Partly
+NUTR-D1-8B-05,Open Evidence,Domain 1,Domain 1|8b,8,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-9A-01,Open Evidence,Domain 1,Domain 1|9a,9,Partially correct,Partially correct,Partially correct,No,No,No,No,No,No,Yes,Yes,Yes
+NUTR-D1-9A-02,Sonar Reasoning Pro,Domain 1,Domain 1|9a,9,Partially correct,Partially correct,Partially correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-9A-04,GPT-5.5,Domain 1,Domain 1|9a,9,Partially correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D1-9B-02,Open Evidence,Domain 1,Domain 1|9b,9,Correct,Correct,Correct,No,Partly,No,No,No,No,Yes,Yes,Yes
+NUTR-D1-9B-03,Sonar Reasoning Pro,Domain 1,Domain 1|9b,9,Correct,Correct,Correct,No,No,No,No,No,No,Yes,Partly,Yes
+NUTR-D1-9B-04,GPT-5.5,Domain 1,Domain 1|9b,9,Correct,Correct,Correct,No,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-10A-01,GPT-5.5,Domain 2,Domain 2|10a,20,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-10A-03,Sonar Reasoning Pro,Domain 2,Domain 2|10a,20,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D2-10A-05,Open Evidence,Domain 2,Domain 2|10a,20,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D2-10B-01,Sonar Reasoning Pro,Domain 2,Domain 2|10b,20,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Partly,Yes
+NUTR-D2-10B-02,GPT-5.5,Domain 2,Domain 2|10b,20,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-10B-04,Open Evidence,Domain 2,Domain 2|10b,20,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D2-1A-02,GPT-5.5,Domain 2,Domain 2|1a,11,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-1A-04,Sonar Reasoning Pro,Domain 2,Domain 2|1a,11,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-1A-05,Open Evidence,Domain 2,Domain 2|1a,11,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-1B-02,Open Evidence,Domain 2,Domain 2|1b,11,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-1B-04,Sonar Reasoning Pro,Domain 2,Domain 2|1b,11,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-1B-05,GPT-5.5,Domain 2,Domain 2|1b,11,Partially correct,Partially correct,Partially correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-2A-02,Open Evidence,Domain 2,Domain 2|2a,12,Correct,Correct,Correct,Yes,Yes,Yes,No,Minor,Minor,Yes,Yes,Yes
+NUTR-D2-2A-03,GPT-5.5,Domain 2,Domain 2|2a,12,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-2A-05,Sonar Reasoning Pro,Domain 2,Domain 2|2a,12,Partially correct,Partially correct,Partially correct,No,No,No,No,No,No,Partly,Yes,Yes
+NUTR-D2-2B-01,Open Evidence,Domain 2,Domain 2|2b,12,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D2-2B-04,GPT-5.5,Domain 2,Domain 2|2b,12,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-2B-05,Sonar Reasoning Pro,Domain 2,Domain 2|2b,12,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-3A-03,GPT-5.5,Domain 2,Domain 2|3a,13,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-3A-04,Open Evidence,Domain 2,Domain 2|3a,13,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-3A-05,Sonar Reasoning Pro,Domain 2,Domain 2|3a,13,Partially correct,Partially correct,Partially correct,No,No,No,No,No,No,Partly,Partly,Partly
+NUTR-D2-3B-01,Sonar Reasoning Pro,Domain 2,Domain 2|3b,13,Partially correct,Partially correct,Partially correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-3B-03,GPT-5.5,Domain 2,Domain 2|3b,13,Partially correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-3B-04,Open Evidence,Domain 2,Domain 2|3b,13,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D2-4A-01,Open Evidence,Domain 2,Domain 2|4a,14,Partially correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-4A-02,Sonar Reasoning Pro,Domain 2,Domain 2|4a,14,Partially correct,Partially correct,Partially correct,No,No,No,No,No,No,Partly,Yes,Partly
+NUTR-D2-4A-05,GPT-5.5,Domain 2,Domain 2|4a,14,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-4B-01,Open Evidence,Domain 2,Domain 2|4b,14,Partially correct,Partially correct,Partially correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-4B-02,GPT-5.5,Domain 2,Domain 2|4b,14,Partially correct,Partially correct,Partially correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-4B-04,Sonar Reasoning Pro,Domain 2,Domain 2|4b,14,Partially correct,Partially correct,Partially correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-5A-01,Open Evidence,Domain 2,Domain 2|5a,15,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-5A-04,GPT-5.5,Domain 2,Domain 2|5a,15,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-5A-05,Sonar Reasoning Pro,Domain 2,Domain 2|5a,15,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-5B-02,Sonar Reasoning Pro,Domain 2,Domain 2|5b,15,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-5B-03,Open Evidence,Domain 2,Domain 2|5b,15,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D2-5B-05,GPT-5.5,Domain 2,Domain 2|5b,15,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-6A-01,Open Evidence,Domain 2,Domain 2|6a,16,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Partly,Yes,Yes
+NUTR-D2-6A-02,Sonar Reasoning Pro,Domain 2,Domain 2|6a,16,Partially correct,Partially correct,Partially correct,Partly,Partly,Partly,No,No,No,Partly,Partly,Partly
+NUTR-D2-6A-04,GPT-5.5,Domain 2,Domain 2|6a,16,Correct,Correct,Correct,No,Yes,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D2-6B-02,Open Evidence,Domain 2,Domain 2|6b,16,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Partly,Yes,Yes
+NUTR-D2-6B-04,Sonar Reasoning Pro,Domain 2,Domain 2|6b,16,Partially correct,Correct,Correct,No,Partly,Partly,No,No,No,Partly,Yes,Partly
+NUTR-D2-6B-05,GPT-5.5,Domain 2,Domain 2|6b,16,Partially correct,Correct,Correct,No,Yes,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D2-7A-01,Sonar Reasoning Pro,Domain 2,Domain 2|7a,17,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-7A-02,Open Evidence,Domain 2,Domain 2|7a,17,Correct,Correct,Correct,No,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D2-7A-03,GPT-5.5,Domain 2,Domain 2|7a,17,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-7B-01,GPT-5.5,Domain 2,Domain 2|7b,17,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-7B-03,Open Evidence,Domain 2,Domain 2|7b,17,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D2-7B-05,Sonar Reasoning Pro,Domain 2,Domain 2|7b,17,Correct,Correct,Correct,No,Partly,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-8A-02,GPT-5.5,Domain 2,Domain 2|8a,18,Partially correct,Partially correct,Partially correct,Partly,Partly,Partly,Minor,Minor,Minor,Yes,Partly,Partly
+NUTR-D2-8A-03,Sonar Reasoning Pro,Domain 2,Domain 2|8a,18,Correct,Correct,Correct,Yes,Yes,Yes,Minor,Minor,Minor,Yes,Partly,Yes
+NUTR-D2-8A-04,Open Evidence,Domain 2,Domain 2|8a,18,Correct,Correct,Correct,No,No,No,No,No,No,Yes,Yes,Yes
+NUTR-D2-8B-01,Sonar Reasoning Pro,Domain 2,Domain 2|8b,18,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-8B-03,GPT-5.5,Domain 2,Domain 2|8b,18,Partially correct,Partially correct,Partially correct,Yes,Yes,Yes,No,Minor,Minor,Yes,Partly,Yes
+NUTR-D2-8B-05,Open Evidence,Domain 2,Domain 2|8b,18,Correct,Correct,Correct,Partly,Partly,Partly,No,Minor,Minor,Yes,Yes,Yes
+NUTR-D2-9A-01,Sonar Reasoning Pro,Domain 2,Domain 2|9a,19,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-9A-02,GPT-5.5,Domain 2,Domain 2|9a,19,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-9A-05,Open Evidence,Domain 2,Domain 2|9a,19,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D2-9B-01,Sonar Reasoning Pro,Domain 2,Domain 2|9b,19,Correct,Correct,Correct,No,No,No,No,No,No,Yes,Yes,Yes
+NUTR-D2-9B-03,GPT-5.5,Domain 2,Domain 2|9b,19,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D2-9B-04,Open Evidence,Domain 2,Domain 2|9b,19,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D3-10A-01,GPT-5.5,Domain 3,Domain 3|10a,30,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D3-10A-02,Sonar Reasoning Pro,Domain 3,Domain 3|10a,30,Correct,Correct,Correct,Partly,Yes,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D3-10A-03,Open Evidence,Domain 3,Domain 3|10a,30,Correct,Correct,Correct,Yes,Partly,Partly,No,No,No,Partly,Yes,Yes
+NUTR-D3-10B-01,Open Evidence,Domain 3,Domain 3|10b,30,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Partly,Yes,Yes
+NUTR-D3-10B-02,Sonar Reasoning Pro,Domain 3,Domain 3|10b,30,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D3-10B-05,GPT-5.5,Domain 3,Domain 3|10b,30,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D3-1A-01,Open Evidence,Domain 3,Domain 3|1a,21,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D3-1A-02,Sonar Reasoning Pro,Domain 3,Domain 3|1a,21,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D3-1A-04,GPT-5.5,Domain 3,Domain 3|1a,21,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D3-1B-02,Open Evidence,Domain 3,Domain 3|1b,21,Correct,Correct,Correct,Partly,Partly,Partly,No,Minor,Minor,Yes,Yes,Yes
+NUTR-D3-1B-03,Sonar Reasoning Pro,Domain 3,Domain 3|1b,21,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D3-1B-04,GPT-5.5,Domain 3,Domain 3|1b,21,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D3-2A-02,Sonar Reasoning Pro,Domain 3,Domain 3|2a,22,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D3-2A-03,Open Evidence,Domain 3,Domain 3|2a,22,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D3-2A-04,GPT-5.5,Domain 3,Domain 3|2a,22,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D3-2B-02,Open Evidence,Domain 3,Domain 3|2b,22,Correct,Correct,Correct,Partly,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D3-2B-03,GPT-5.5,Domain 3,Domain 3|2b,22,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D3-2B-04,Sonar Reasoning Pro,Domain 3,Domain 3|2b,22,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D3-3A-01,Sonar Reasoning Pro,Domain 3,Domain 3|3a,23,Partially correct,Partially correct,Partially correct,Partly,Partly,Partly,No,Minor,No,Yes,Partly,Yes
+NUTR-D3-3A-02,Open Evidence,Domain 3,Domain 3|3a,23,Correct,Partially correct,Partially correct,Partly,Partly,Partly,No,Minor,No,Yes,Partly,Yes
+NUTR-D3-3A-05,GPT-5.5,Domain 3,Domain 3|3a,23,Correct,Correct,Correct,Partly,Yes,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D3-3B-01,Open Evidence,Domain 3,Domain 3|3b,23,Partially correct,Partially correct,Partially correct,Partly,Partly,Partly,No,No,No,No,No,No
+NUTR-D3-3B-02,Sonar Reasoning Pro,Domain 3,Domain 3|3b,23,Partially correct,Partially correct,Partially correct,Partly,Partly,Partly,No,Minor,No,Yes,Yes,Yes
+NUTR-D3-3B-03,GPT-5.5,Domain 3,Domain 3|3b,23,Partially correct,Partially correct,Partially correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D3-4A-01,Open Evidence,Domain 3,Domain 3|4a,24,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D3-4A-03,Sonar Reasoning Pro,Domain 3,Domain 3|4a,24,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D3-4A-04,GPT-5.5,Domain 3,Domain 3|4a,24,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D3-4B-01,Open Evidence,Domain 3,Domain 3|4b,24,Partially correct,Partially correct,Partially correct,No,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D3-4B-03,GPT-5.5,Domain 3,Domain 3|4b,24,Correct,Correct,Correct,Partly,Yes,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D3-4B-04,Sonar Reasoning Pro,Domain 3,Domain 3|4b,24,Correct,Correct,Correct,No,No,No,No,No,No,Partly,Partly,Partly
+NUTR-D3-5A-01,Sonar Reasoning Pro,Domain 3,Domain 3|5a,25,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D3-5A-02,Open Evidence,Domain 3,Domain 3|5a,25,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D3-5A-03,GPT-5.5,Domain 3,Domain 3|5a,25,Correct,Correct,Correct,Partly,Yes,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D3-5B-01,Open Evidence,Domain 3,Domain 3|5b,25,Correct,Correct,Correct,Yes,Partly,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D3-5B-02,Sonar Reasoning Pro,Domain 3,Domain 3|5b,25,Correct,Correct,Correct,No,No,No,No,No,No,Partly,Partly,Partly
+NUTR-D3-5B-05,GPT-5.5,Domain 3,Domain 3|5b,25,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D3-6A-01,GPT-5.5,Domain 3,Domain 3|6a,26,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D3-6A-03,Open Evidence,Domain 3,Domain 3|6a,26,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D3-6A-05,Sonar Reasoning Pro,Domain 3,Domain 3|6a,26,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D3-6B-01,Open Evidence,Domain 3,Domain 3|6b,26,Partially correct,Correct,Correct,Yes,Partly,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D3-6B-02,Sonar Reasoning Pro,Domain 3,Domain 3|6b,26,Partially correct,Correct,Correct,No,No,No,No,No,No,Yes,Partly,Partly
+NUTR-D3-6B-03,GPT-5.5,Domain 3,Domain 3|6b,26,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Partly,Partly,Partly
+NUTR-D3-7A-02,Sonar Reasoning Pro,Domain 3,Domain 3|7a,27,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D3-7A-03,Open Evidence,Domain 3,Domain 3|7a,27,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D3-7A-05,GPT-5.5,Domain 3,Domain 3|7a,27,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D3-7B-02,Open Evidence,Domain 3,Domain 3|7b,27,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D3-7B-03,Sonar Reasoning Pro,Domain 3,Domain 3|7b,27,Partially correct,Partially correct,Partially correct,No,Partly,No,No,No,No,Partly,Partly,Partly
+NUTR-D3-7B-05,GPT-5.5,Domain 3,Domain 3|7b,27,Partially correct,Partially correct,Partially correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D3-8A-02,GPT-5.5,Domain 3,Domain 3|8a,28,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D3-8A-03,Open Evidence,Domain 3,Domain 3|8a,28,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D3-8A-05,Sonar Reasoning Pro,Domain 3,Domain 3|8a,28,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Partly,Yes
+NUTR-D3-8B-01,Sonar Reasoning Pro,Domain 3,Domain 3|8b,28,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D3-8B-04,GPT-5.5,Domain 3,Domain 3|8b,28,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D3-8B-05,Open Evidence,Domain 3,Domain 3|8b,28,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D3-9A-01,GPT-5.5,Domain 3,Domain 3|9a,29,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D3-9A-02,Sonar Reasoning Pro,Domain 3,Domain 3|9a,29,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D3-9A-04,Open Evidence,Domain 3,Domain 3|9a,29,Correct,Correct,Correct,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+NUTR-D3-9B-03,Open Evidence,Domain 3,Domain 3|9b,29,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D3-9B-04,GPT-5.5,Domain 3,Domain 3|9b,29,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Yes,Yes,Yes
+NUTR-D3-9B-05,Sonar Reasoning Pro,Domain 3,Domain 3|9b,29,Correct,Correct,Correct,Partly,Partly,Partly,No,No,No,Partly,Partly,Partly
