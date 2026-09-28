@@ -1,4 +1,41 @@
-# Independent verification, 14 September 2026
+# Independent verification
+
+## Update, 28 September 2026
+
+Integrated the canonical files from Gero's `nutrition-llm-benchmark_21_09_26`
+package. Files ending in `(1)` are earlier duplicate versions and were not imported.
+The core ratings, item metadata and existing citation tables are byte-identical to
+the previous repository version.
+
+The statistical concerns described in the original audit below have been addressed:
+the main analysis now uses 30 topic means for all system and domain comparisons.
+Accuracy is no longer called significant, and the adjusted marginal domain effect
+is not significant. The grade analysis and Figure 1 now use 200,000 permutations;
+the Open Evidence Holm p value is about 0.0036, close to the independent exact
+value of 0.003542.
+
+The update adds `accuracy_citation_crosstab.py` and `espen_mentions.py`, with the
+deposited `espen_mentions.csv`. Both run from the shared launcher. The original
+querying code, run metadata and independent verification remain included.
+
+The independent checks now also validate the new flag table, its rating-ID joins
+and reference-entry flags against the citation table. There are 142 body-text ESPEN
+mentions, including 58 responses without exact guideline reference. Reapplying
+Gero's body-text rule to the local consensus workbook reproduces all 180 deposited
+body flags. The accuracy/citation cross-tabulation independently gives 25 partially
+correct answers, ten with exact reference and eight citing an earlier edition;
+these last two groups overlap in five answers.
+
+The incoming completeness detector and truncation table still contain the previously
+identified false GPT-5.5 truncation. The corrected detector and 22-row table are
+retained here, together with the regression tests. The existing acquisition and
+raw-data provenance limitations below still apply.
+
+Validation: the complete deposited-data pipeline and extended independent checks
+passed in the existing Python environment. The two truncation regression tests
+passed, and the regenerated figure was visually checked. No API calls were made.
+
+## Original audit, 14 September 2026
 
 The checks in `verification/verify_key_results.py` were written independently of
 the analysis functions in `analysis/`. They start from the deposited CSV files,

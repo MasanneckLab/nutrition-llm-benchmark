@@ -4,7 +4,7 @@
 Produces for the manuscript:
   Methods 2.6      intraclass correlation of the two questions of a topic (0.752)
   Results 3.7      model-by-domain heterogeneity and its pairwise decomposition
-  Results 3.6      effect of the grade of recommendation per system (Holm p 0.0045 / 0.21 / 0.61)
+  Results 3.6      effect of the grade of recommendation per system (Holm p 0.004 / 0.21 / 0.61)
   Table 4          Cliff's delta point estimates (intervals: 02_cliffs_delta.py)
   Results 3.1      knowledge versus case questions, odds ratio per system
 
@@ -160,7 +160,7 @@ def run(path=ANSWERS):
         # Permute within domains so that the domain effect is not measured along with it
         obs = stat(grade0)
         rnd, hits = random.Random(SEED), 0
-        for _ in range(50000):
+        for _ in range(200000):
             lab = list(grade0)
             for d in DOM:
                 idx = [i for i, t in enumerate(topics) if t[0] == d]
@@ -170,7 +170,7 @@ def run(path=ANSWERS):
                     lab[i] = v
             if stat(lab) >= obs - 1e-12:
                 hits += 1
-        ps.append((hits + 1) / 50001)
+        ps.append((hits + 1) / 200001)
         ev = [val[(m, t)] for t in topics if SIGN_GRADE[t] != 'GPP']
         gp = [val[(m, t)] for t in topics if SIGN_GRADE[t] == 'GPP']
         print('4  %-20s evidence-graded %.2f  GPP %.2f  p = %.4f'
@@ -214,8 +214,8 @@ Reference values - a run must reproduce these:
   2  Omnibus system x domain                   F 3.103   p 0.026
   3  Pairwise contrasts, topic level           0.023 / 0.051 / 0.761
      for information, Holm over three pairs    0.069 / 0.101 / 0.761
-  4  Grade of recommendation, Open Evidence    0.71 vs 1.47   Holm p 0.0045
-     GPT-5.5 0.208, Sonar Reasoning Pro 0.610
+  4  Grade of recommendation, Open Evidence    0.71 vs 1.47   Holm p 0.0036 (reported 0.004)
+     GPT-5.5 0.210, Sonar Reasoning Pro 0.611   (200,000 permutations within domains)
   5  Cliff's delta  GPT vs OE +0.391, GPT vs Sonar +0.241, Sonar vs OE +0.104
      (confidence intervals: 02_cliffs_delta.py)
   6  Odds ratio question type   OE 2.15, GPT-5.5 5.80, Sonar 0.36; none significant.

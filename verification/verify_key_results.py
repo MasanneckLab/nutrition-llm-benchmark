@@ -13,6 +13,7 @@ import itertools
 import json
 import math
 import random
+import re
 from collections import Counter, defaultdict
 from fractions import Fraction
 from pathlib import Path
@@ -356,7 +357,7 @@ def main() -> None:
     for column in agreement_order:
         print(f"  {column:<23} {agreement[column]:5.1f}%")
 
-    print("\nTOPIC-LEVEL SENSITIVITY FOR OTHER ENDPOINTS")
+    print("\nINDEPENDENT TOPIC-LEVEL TESTS FOR OTHER ENDPOINTS")
     for endpoint in ("accuracy", "evidence", "safety"):
         matrix = [
             [topic_mean(model, topic, endpoint) for model in MODELS]
@@ -449,7 +450,7 @@ def main() -> None:
             f"exact raw p={float(raw_p):.6f}, Holm p={float(adjusted_p):.6f}"
         )
     print("  Open Evidence exact-reference counts: 1/24 graded vs 20/36 GPP")
-    print("  Reported Monte Carlo value for Open Evidence: Holm p=0.0045")
+    print("  Updated Monte Carlo value for Open Evidence: Holm p=0.0036 (200,000 permutations)")
 
     replacement_metadata = json.loads(
         (ROOT / "querying" / "replacement_queries.json").read_text(encoding="utf-8")
@@ -513,7 +514,7 @@ def main() -> None:
         pair_p.append(exact_two_group_p(left_values, right_values))
     pair_holm = holm(pair_p)
 
-    print("\nTOPIC-LEVEL DOMAIN SENSITIVITY")
+    print("\nINDEPENDENT TOPIC-LEVEL DOMAIN TESTS")
     for endpoint, (statistic, p_value), adjusted_p in zip(
         ("exact", "ordinal"), domain_tests, domain_holm
     ):
@@ -529,7 +530,63 @@ def main() -> None:
             f"exact p={float(raw_p):.4f}, Holm p={float(adjusted_p):.4f}"
         )
 
+    verify_citation_results(raters)
     print("\nALL INDEPENDENT CHECKS PASSED")
+
+
+def verify_citation_results(raters: list[dict[str, str]]) -> None:
+    ratings = {row["rating_id"]: row for row in raters}
+    citations = read_csv("citations_long_v3.csv")
+    flags = read_csv("espen_mentions.csv")
+    flag_ids = {row["rating_id"] for row in flags}
+    require(len(flags) == len(flag_ids) == 180, "ESPEN flags must have 180 unique IDs")
+    require(flag_ids == set(ratings), "ESPEN flags and rating IDs differ")
+    require(
+        all(row["rating_id"] in ratings for row in citations),
+        "Citation has an unknown rating ID",
+    )
+    espen = re.compile(r"ESPEN|European Society for Clinical Nutrition", re.IGNORECASE)
+    reference_ids = {
+        row["rating_id"] for row in citations
+        if espen.search(" ".join(row.get(field, "") for field in
+                                 ("citation_raw_text", "title", "journal")))
+    }
+    for row in flags:
+        require(row["model"] == ratings[row["rating_id"]]["model"], "ESPEN model mismatch")
+        for field in ("espen_in_body_text", "espen_in_reference_entry"):
+            require(row[field] in ("0", "1"), f"Invalid flag: {field}")
+        require(
+            (row["espen_in_reference_entry"] == "1") == (row["rating_id"] in reference_ids),
+            f"ESPEN reference flag mismatch: {row['rating_id']}",
+        )
+    body_ids = {row["rating_id"] for row in flags if row["espen_in_body_text"] == "1"}
+    exact_ids = {rid for rid, row in ratings.items() if row["consensus_guideline_reference"] == "Yes"}
+
+    def by_model(ids: set[str]) -> tuple[int, ...]:
+        return tuple(sum(ratings[rid]["model"] == model for rid in ids) for model in MODELS)
+
+    require(by_model(body_ids) == (49, 55, 38), "ESPEN body counts changed")
+    require(by_model(body_ids - exact_ids) == (28, 18, 12), "ESPEN non-exact counts changed")
+    oe_reference_ids = {rid for rid in reference_ids if ratings[rid]["model"] == "Open Evidence"}
+    require(
+        oe_reference_ids == {"NUTR-D2-4A-01", "NUTR-D2-8A-04", "NUTR-D3-2A-03"},
+        "Open Evidence ESPEN reference IDs changed",
+    )
+    partial_ids = {rid for rid, row in ratings.items() if row["consensus_accuracy"] != "Correct"}
+    require(all(ratings[rid]["consensus_accuracy"] == "Partially correct" for rid in partial_ids),
+            "Unexpected accuracy category")
+    earlier_ids = {row["rating_id"] for row in citations if row["flag_outdated_guideline_edition"] == "1"}
+    for ids, expected in (
+        (partial_ids, (6, 6, 13)),
+        (partial_ids & exact_ids, (1, 4, 5)),
+        (partial_ids & earlier_ids, (0, 5, 3)),
+        (partial_ids & earlier_ids & exact_ids, (0, 3, 2)),
+    ):
+        require(by_model(ids) == expected, "Accuracy/citation cross-tabulation changed")
+    print("\nCITATION AND ESPEN CHECKS")
+    print("  180 unique ESPEN flags; reference flags reconcile with citation entries")
+    print("  ESPEN in body: 142; without exact guideline reference: 58")
+    print("  25 partially correct answers: 10 exact references, 8 earlier editions; overlap 5")
 
 
 if __name__ == "__main__":

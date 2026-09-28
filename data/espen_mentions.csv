@@ -1,0 +1,181 @@
+rating_id,model,espen_in_body_text,espen_in_reference_entry
+NUTR-D1-10A-02,Sonar Reasoning Pro,1,1
+NUTR-D1-10A-04,Open Evidence,1,0
+NUTR-D1-10A-05,GPT-5.5,1,1
+NUTR-D1-10B-01,Sonar Reasoning Pro,1,1
+NUTR-D1-10B-02,GPT-5.5,1,1
+NUTR-D1-10B-05,Open Evidence,1,0
+NUTR-D1-1A-02,Open Evidence,0,0
+NUTR-D1-1A-03,Sonar Reasoning Pro,1,1
+NUTR-D1-1A-05,GPT-5.5,1,1
+NUTR-D1-1B-01,Open Evidence,0,0
+NUTR-D1-1B-02,Sonar Reasoning Pro,1,1
+NUTR-D1-1B-03,GPT-5.5,1,1
+NUTR-D1-2A-01,Sonar Reasoning Pro,0,0
+NUTR-D1-2A-02,GPT-5.5,1,1
+NUTR-D1-2A-05,Open Evidence,1,0
+NUTR-D1-2B-03,Sonar Reasoning Pro,1,1
+NUTR-D1-2B-04,GPT-5.5,1,1
+NUTR-D1-2B-05,Open Evidence,1,0
+NUTR-D1-3A-01,Open Evidence,0,0
+NUTR-D1-3A-02,Sonar Reasoning Pro,0,0
+NUTR-D1-3A-03,GPT-5.5,1,1
+NUTR-D1-3B-01,Open Evidence,0,0
+NUTR-D1-3B-04,Sonar Reasoning Pro,1,1
+NUTR-D1-3B-05,GPT-5.5,1,1
+NUTR-D1-4A-01,Open Evidence,1,0
+NUTR-D1-4A-02,Sonar Reasoning Pro,1,1
+NUTR-D1-4A-04,GPT-5.5,1,1
+NUTR-D1-4B-01,Open Evidence,1,0
+NUTR-D1-4B-03,Sonar Reasoning Pro,1,0
+NUTR-D1-4B-04,GPT-5.5,1,1
+NUTR-D1-5A-02,Open Evidence,0,0
+NUTR-D1-5A-04,GPT-5.5,1,1
+NUTR-D1-5A-05,Sonar Reasoning Pro,0,0
+NUTR-D1-5B-02,Sonar Reasoning Pro,0,0
+NUTR-D1-5B-04,GPT-5.5,0,1
+NUTR-D1-5B-05,Open Evidence,0,0
+NUTR-D1-6A-01,Open Evidence,0,0
+NUTR-D1-6A-02,Sonar Reasoning Pro,0,1
+NUTR-D1-6A-03,GPT-5.5,1,1
+NUTR-D1-6B-01,Sonar Reasoning Pro,0,0
+NUTR-D1-6B-03,Open Evidence,0,0
+NUTR-D1-6B-04,GPT-5.5,1,1
+NUTR-D1-7A-01,Sonar Reasoning Pro,1,1
+NUTR-D1-7A-03,Open Evidence,1,0
+NUTR-D1-7A-04,GPT-5.5,1,1
+NUTR-D1-7B-01,Sonar Reasoning Pro,1,1
+NUTR-D1-7B-02,Open Evidence,1,0
+NUTR-D1-7B-05,GPT-5.5,1,1
+NUTR-D1-8A-01,Sonar Reasoning Pro,1,1
+NUTR-D1-8A-03,Open Evidence,1,0
+NUTR-D1-8A-04,GPT-5.5,0,1
+NUTR-D1-8B-02,Sonar Reasoning Pro,0,1
+NUTR-D1-8B-03,GPT-5.5,1,1
+NUTR-D1-8B-05,Open Evidence,1,0
+NUTR-D1-9A-01,Open Evidence,0,0
+NUTR-D1-9A-02,Sonar Reasoning Pro,1,1
+NUTR-D1-9A-04,GPT-5.5,1,1
+NUTR-D1-9B-02,Open Evidence,1,0
+NUTR-D1-9B-03,Sonar Reasoning Pro,1,1
+NUTR-D1-9B-04,GPT-5.5,0,1
+NUTR-D2-10A-01,GPT-5.5,1,1
+NUTR-D2-10A-03,Sonar Reasoning Pro,1,0
+NUTR-D2-10A-05,Open Evidence,1,0
+NUTR-D2-10B-01,Sonar Reasoning Pro,0,1
+NUTR-D2-10B-02,GPT-5.5,1,1
+NUTR-D2-10B-04,Open Evidence,1,0
+NUTR-D2-1A-02,GPT-5.5,1,1
+NUTR-D2-1A-04,Sonar Reasoning Pro,0,1
+NUTR-D2-1A-05,Open Evidence,1,0
+NUTR-D2-1B-02,Open Evidence,1,0
+NUTR-D2-1B-04,Sonar Reasoning Pro,1,1
+NUTR-D2-1B-05,GPT-5.5,1,1
+NUTR-D2-2A-02,Open Evidence,1,0
+NUTR-D2-2A-03,GPT-5.5,1,1
+NUTR-D2-2A-05,Sonar Reasoning Pro,0,0
+NUTR-D2-2B-01,Open Evidence,1,0
+NUTR-D2-2B-04,GPT-5.5,1,1
+NUTR-D2-2B-05,Sonar Reasoning Pro,1,1
+NUTR-D2-3A-03,GPT-5.5,1,1
+NUTR-D2-3A-04,Open Evidence,1,0
+NUTR-D2-3A-05,Sonar Reasoning Pro,0,0
+NUTR-D2-3B-01,Sonar Reasoning Pro,0,1
+NUTR-D2-3B-03,GPT-5.5,1,1
+NUTR-D2-3B-04,Open Evidence,1,0
+NUTR-D2-4A-01,Open Evidence,1,1
+NUTR-D2-4A-02,Sonar Reasoning Pro,0,0
+NUTR-D2-4A-05,GPT-5.5,1,1
+NUTR-D2-4B-01,Open Evidence,1,0
+NUTR-D2-4B-02,GPT-5.5,1,1
+NUTR-D2-4B-04,Sonar Reasoning Pro,1,1
+NUTR-D2-5A-01,Open Evidence,1,0
+NUTR-D2-5A-04,GPT-5.5,1,1
+NUTR-D2-5A-05,Sonar Reasoning Pro,1,1
+NUTR-D2-5B-02,Sonar Reasoning Pro,1,1
+NUTR-D2-5B-03,Open Evidence,1,0
+NUTR-D2-5B-05,GPT-5.5,1,1
+NUTR-D2-6A-01,Open Evidence,1,0
+NUTR-D2-6A-02,Sonar Reasoning Pro,1,0
+NUTR-D2-6A-04,GPT-5.5,1,1
+NUTR-D2-6B-02,Open Evidence,1,0
+NUTR-D2-6B-04,Sonar Reasoning Pro,1,0
+NUTR-D2-6B-05,GPT-5.5,1,1
+NUTR-D2-7A-01,Sonar Reasoning Pro,1,1
+NUTR-D2-7A-02,Open Evidence,1,0
+NUTR-D2-7A-03,GPT-5.5,1,1
+NUTR-D2-7B-01,GPT-5.5,1,1
+NUTR-D2-7B-03,Open Evidence,1,0
+NUTR-D2-7B-05,Sonar Reasoning Pro,1,1
+NUTR-D2-8A-02,GPT-5.5,1,1
+NUTR-D2-8A-03,Sonar Reasoning Pro,0,1
+NUTR-D2-8A-04,Open Evidence,1,1
+NUTR-D2-8B-01,Sonar Reasoning Pro,1,1
+NUTR-D2-8B-03,GPT-5.5,1,1
+NUTR-D2-8B-05,Open Evidence,1,0
+NUTR-D2-9A-01,Sonar Reasoning Pro,1,1
+NUTR-D2-9A-02,GPT-5.5,1,1
+NUTR-D2-9A-05,Open Evidence,1,0
+NUTR-D2-9B-01,Sonar Reasoning Pro,0,0
+NUTR-D2-9B-03,GPT-5.5,1,1
+NUTR-D2-9B-04,Open Evidence,1,0
+NUTR-D3-10A-01,GPT-5.5,1,1
+NUTR-D3-10A-02,Sonar Reasoning Pro,1,0
+NUTR-D3-10A-03,Open Evidence,1,0
+NUTR-D3-10B-01,Open Evidence,1,0
+NUTR-D3-10B-02,Sonar Reasoning Pro,1,1
+NUTR-D3-10B-05,GPT-5.5,1,1
+NUTR-D3-1A-01,Open Evidence,1,0
+NUTR-D3-1A-02,Sonar Reasoning Pro,1,1
+NUTR-D3-1A-04,GPT-5.5,1,1
+NUTR-D3-1B-02,Open Evidence,1,0
+NUTR-D3-1B-03,Sonar Reasoning Pro,1,1
+NUTR-D3-1B-04,GPT-5.5,1,1
+NUTR-D3-2A-02,Sonar Reasoning Pro,0,1
+NUTR-D3-2A-03,Open Evidence,1,1
+NUTR-D3-2A-04,GPT-5.5,1,1
+NUTR-D3-2B-02,Open Evidence,1,0
+NUTR-D3-2B-03,GPT-5.5,0,1
+NUTR-D3-2B-04,Sonar Reasoning Pro,1,1
+NUTR-D3-3A-01,Sonar Reasoning Pro,1,1
+NUTR-D3-3A-02,Open Evidence,1,0
+NUTR-D3-3A-05,GPT-5.5,1,1
+NUTR-D3-3B-01,Open Evidence,1,0
+NUTR-D3-3B-02,Sonar Reasoning Pro,1,1
+NUTR-D3-3B-03,GPT-5.5,1,1
+NUTR-D3-4A-01,Open Evidence,1,0
+NUTR-D3-4A-03,Sonar Reasoning Pro,1,1
+NUTR-D3-4A-04,GPT-5.5,0,1
+NUTR-D3-4B-01,Open Evidence,1,0
+NUTR-D3-4B-03,GPT-5.5,1,1
+NUTR-D3-4B-04,Sonar Reasoning Pro,0,0
+NUTR-D3-5A-01,Sonar Reasoning Pro,0,0
+NUTR-D3-5A-02,Open Evidence,1,0
+NUTR-D3-5A-03,GPT-5.5,1,1
+NUTR-D3-5B-01,Open Evidence,1,0
+NUTR-D3-5B-02,Sonar Reasoning Pro,0,0
+NUTR-D3-5B-05,GPT-5.5,1,1
+NUTR-D3-6A-01,GPT-5.5,1,1
+NUTR-D3-6A-03,Open Evidence,1,0
+NUTR-D3-6A-05,Sonar Reasoning Pro,1,1
+NUTR-D3-6B-01,Open Evidence,1,0
+NUTR-D3-6B-02,Sonar Reasoning Pro,0,0
+NUTR-D3-6B-03,GPT-5.5,1,1
+NUTR-D3-7A-02,Sonar Reasoning Pro,1,1
+NUTR-D3-7A-03,Open Evidence,1,0
+NUTR-D3-7A-05,GPT-5.5,1,1
+NUTR-D3-7B-02,Open Evidence,0,0
+NUTR-D3-7B-03,Sonar Reasoning Pro,0,0
+NUTR-D3-7B-05,GPT-5.5,1,1
+NUTR-D3-8A-02,GPT-5.5,1,1
+NUTR-D3-8A-03,Open Evidence,1,0
+NUTR-D3-8A-05,Sonar Reasoning Pro,1,1
+NUTR-D3-8B-01,Sonar Reasoning Pro,1,1
+NUTR-D3-8B-04,GPT-5.5,1,1
+NUTR-D3-8B-05,Open Evidence,1,0
+NUTR-D3-9A-01,GPT-5.5,1,1
+NUTR-D3-9A-02,Sonar Reasoning Pro,1,0
+NUTR-D3-9A-04,Open Evidence,1,0
+NUTR-D3-9B-03,Open Evidence,0,0
+NUTR-D3-9B-04,GPT-5.5,1,1
+NUTR-D3-9B-05,Sonar Reasoning Pro,0,0

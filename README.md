@@ -7,8 +7,8 @@ Sonar Reasoning Pro.
 
 The questions come in 30 topic pairs. Each topic has one knowledge question and
 one case question based on the same recommendation. Analyses of guideline
-reference therefore use the topic as the independent unit where systems are
-compared.
+reference, accuracy, evidence quality and safety use the topic as the independent
+unit where systems are compared. Domain tests also run over the 30 topic means.
 
 ## Folders
 
@@ -46,13 +46,16 @@ To run only the independent reconstruction:
 local copy of the private key, consensus workbook and both rater workbooks. It
 requires their paths explicitly and does not copy their contents into the repository.
 
-The five central numbers requested for independent checking were confirmed. The
-exact permutation calculations are very close to the manuscript's seeded Monte
-Carlo estimates. Two additional sensitivity checks matter: the marginal domain
-comparison and the nominal accuracy omnibus result are weaker when the 30 paired
-topics, rather than the 60 questions, are used as the independent units. The
-Sonar sample also includes 13 replacement calls made with a larger token limit
-after the initial exports contained sources but no answer. Details are in
+The analysis incorporates Gero's update of 21 September 2026. All system and domain
+comparisons now account for the 30 paired topics. The accuracy omnibus and adjusted
+marginal domain effect are not significant; the central guideline-reference
+findings remain. The update also adds the accuracy/citation cross-tabulation and
+ESPEN mentions in response text, both included in `run_all.sh`.
+
+The independent exact calculations agree closely with the seeded Monte Carlo
+estimates. The Sonar sample includes 13 replacement calls made with a larger token
+limit after the initial exports contained sources but no answer. The corrected
+truncation count remains 22 Sonar answers and zero GPT-5.5 answers. Details are in
 [`docs/independent_verification.md`](docs/independent_verification.md).
 
 ## Query collection

@@ -14,7 +14,7 @@ fi
 
 cd "$ROOT/analysis"
 
-echo "== Table 3, omnibus tests, McNemar, agreement, domain effect =="
+echo "== Table 3, topic-level tests, agreement, domain effect =="
 "$PYTHON" reproduce_statistics.py
 echo; echo "== Table 4: topic-level contrasts =="
 "$PYTHON" 01_topic_level_contrasts.py
@@ -30,6 +30,10 @@ echo; echo "== Table 5 and S5 =="
 "$PYTHON" table5_citation_sources.py
 echo; echo "== S6: truncated responses =="
 "$PYTHON" s6_truncated_responses.py
+echo; echo "== Accuracy and citation behaviour =="
+"$PYTHON" accuracy_citation_crosstab.py
+echo; echo "== ESPEN mentions =="
+"$PYTHON" espen_mentions.py
 
 echo; echo "== Independent reconstruction of the central results =="
 "$PYTHON" ../verification/verify_key_results.py

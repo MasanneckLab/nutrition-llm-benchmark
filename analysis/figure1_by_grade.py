@@ -4,7 +4,7 @@
 
 Produces for the manuscript:
   Figure 1 (slope chart), Results 3.6 and the numbers quoted there:
-    Open Evidence         evidence-graded 0.71  vs  good practice points 1.47   Holm p = 0.0045
+    Open Evidence         evidence-graded 0.71  vs  good practice points 1.47   Holm p = 0.004
     GPT-5.5               evidence-graded 1.88  vs  good practice points 1.56   Holm p = 0.21
     Sonar Reasoning Pro   evidence-graded 1.25  vs  good practice points 1.31   Holm p = 0.61
   Exact reference counts: Open Evidence 1 of 24 evidence-graded responses and
@@ -19,7 +19,7 @@ Design
 
   The p value per system is a permutation test of the difference between the two
   grade groups, permuting grade labels within clinical domain so that the domain
-  effect is not measured along with it. 50,000 permutations, fixed seed, Holm
+  effect is not measured along with it. 200,000 permutations, fixed seed, Holm
   correction over the three systems. This is the same test as in
   reproduce_statistics.py, section 4; it is repeated here so that the figure
   script is self-contained.
@@ -42,7 +42,7 @@ ITEMS = os.path.join(HERE, '..', 'data', 'items_master.csv')
 OUTDIR = os.path.join(HERE, '..', 'figures')
 OUTNAME = 'figure1_guideline_reference_by_grade'
 
-SEED, NPERM = 20260812, 50000
+SEED, NPERM = 20260812, 200000
 ORD = {'No': 0, 'Partly': 1, 'Yes': 2}
 MODELS = ['Open Evidence', 'GPT-5.5', 'Sonar Reasoning Pro']
 DOMAINS = ['Domain 1', 'Domain 2', 'Domain 3']
@@ -186,7 +186,7 @@ def main():
 REFERENCE = """
 Reference values - a run must reproduce these:
   Topics                        12 evidence-graded, 18 good practice points
-  Open Evidence                 0.71 (0.14)  vs  1.47 (0.13)   Holm p 0.0045
+  Open Evidence                 0.71 (0.14)  vs  1.47 (0.13)   Holm p 0.0036  (reported 0.004)
   GPT-5.5                       1.88 (0.07)  vs  1.56 (0.11)   Holm p 0.21
   Sonar Reasoning Pro           1.25 (0.17)  vs  1.31 (0.12)   Holm p 0.61
   Exact reference               Open Evidence  1 of 24 vs 20 of 36
