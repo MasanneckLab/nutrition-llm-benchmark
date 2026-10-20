@@ -66,6 +66,5 @@ Open Evidence answers were exported manually; no Open Evidence API was used.
 
 ## Publication note
 
-The repository is kept private while the manuscript and data-sharing package are
-being finalized. A licence and archival release can be added once all authors have
-agreed on the public version.
+The repository is publicly accessible. A licence and archival release can be added
+once all authors have agreed on the release terms.
