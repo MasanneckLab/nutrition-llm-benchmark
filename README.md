@@ -64,7 +64,6 @@ The API code is described in [`querying/README.md`](querying/README.md). API key
 are read from the environment or a local `.env` file and must not be committed.
 Open Evidence answers were exported manually; no Open Evidence API was used.
 
-## Publication note
+## License
 
-The repository is publicly accessible. A licence and archival release can be added
-once all authors have agreed on the release terms.
+Licensed under the [MIT License](LICENSE).
